@@ -2292,3 +2292,5 @@ th {
 }
 .case-context-label { font-weight: 800; margin-bottom: 8px; text-transform: uppercase; }
 .case-context-text { white-space: normal; font-size: 1rem; }
+
+.filiere-buttons{display:flex;gap:12px;flex-wrap:wrap;margin:16px 0 24px}.filiere-buttons button{flex:1;min-width:180px}.filiere-buttons button[aria-pressed="true"]{outline:3px solid #183b65;outline-offset:3px}
