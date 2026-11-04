@@ -7,6 +7,7488 @@ const CONFIG = {
   },
   "subjects": [
     {
+      "id": "hepato-chapitre-01",
+      "title": "Sujet 1 — Œsophagites et troubles de la déglutition",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "L’œsophagite est une inflammation de la muqueuse œsophagienne.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle touche la muqueuse de l’œsophage.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 4.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "Le reflux gastro œsophagien est une cause fréquente d’œsophagite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours le présente comme la cause la plus fréquente.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 4.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "Une défaillance du sphincter inférieur peut favoriser le reflux.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle facilite la remontée du contenu gastrique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 4.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "Candida albicans peut provoquer une œsophagite infectieuse.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Cette cause est citée chez les immunodéprimés.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 4.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "Les œsophagites médicamenteuses sont impossibles.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Les tétracyclines et les biphosphonates sont notamment cités.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 4.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "La soude peut entraîner une œsophagite caustique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il s’agit d’une substance corrosive.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 5.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "Le pyrosis désigne une brûlure rétrosternale.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. C’est un symptôme décrit dans l’œsophagite.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 5.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "L’odynophagie correspond à une douleur à la déglutition.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle se distingue d’une simple difficulté à avaler.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 5.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "La dysphagie concerne uniquement les aliments solides.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle peut concerner les solides ou les liquides.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 6.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "La déglutition comporte des phases buccale, pharyngée et œsophagienne.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ces trois phases sont décrites dans le cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 6.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "Un AVC peut provoquer une dysphagie oropharyngée.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il figure parmi les causes neurologiques citées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 6.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "L’achalasie est une cause possible de dysphagie œsophagienne.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle associe un trouble moteur et une relaxation insuffisante.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 6.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "Une dysphagie exclut une tumeur de l’œsophage.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Une tumeur fait partie des causes à rechercher.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 6.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "Les fausses routes répétées peuvent compliquer une dysphagie.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elles exposent notamment à l’inhalation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 7.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "La manométrie étudie surtout l’acidité du reflux.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle étudie la motricité ; la pH métrie mesure l’acidité.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 5.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "La sténose œsophagienne est une complication possible d’œsophagite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle peut gêner le passage alimentaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 5.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "Fractionner les repas est une mesure citée contre le reflux.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Cette mesure appartient aux conseils hygiéno diététiques.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 5.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "Le suivi du poids est inutile devant une dysphagie.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Il aide à repérer le retentissement nutritionnel.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 7.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "Une alimentation adaptée participe à la prévention des complications.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Les soins visent aussi à prévenir les fausses routes.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 7.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "Le rôle infirmier se limite à donner les médicaments.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Il comprend surveillance, alimentation et éducation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 7.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Quel examen permet de visualiser des lésions et de réaliser des biopsies ?",
+          "options": [
+            "Manométrie",
+            "Transit œsophagien",
+            "Glycémie",
+            "Endoscopie digestive haute"
+          ],
+          "explanation": "D Endoscopie digestive haute. L’endoscopie est l’examen de référence décrit.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 5.",
+          "answers": [
+            "Endoscopie digestive haute"
+          ],
+          "correct": [
+            "Endoscopie digestive haute"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Quel examen évalue le reflux acide ?",
+          "options": [
+            "Bilan hépatique",
+            "NFS",
+            "pH métrie œsophagienne",
+            "Dosage de lipase"
+          ],
+          "explanation": "C pH métrie œsophagienne. La pH métrie mesure l’exposition acide.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 5.",
+          "answers": [
+            "pH métrie œsophagienne"
+          ],
+          "correct": [
+            "pH métrie œsophagienne"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quelle classe médicamenteuse est citée dans le traitement de l’œsophagite de reflux ?",
+          "options": [
+            "IPP",
+            "Diurétiques",
+            "Anticoagulants",
+            "Enzymes pancréatiques"
+          ],
+          "explanation": "A IPP. Les IPP réduisent la sécrétion acide gastrique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 5.",
+          "answers": [
+            "IPP"
+          ],
+          "correct": [
+            "IPP"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quelles causes infectieuses sont citées ?",
+          "options": [
+            "Candida",
+            "Déficit en vitamine B12",
+            "Herpès simplex",
+            "Cytomégalovirus"
+          ],
+          "explanation": "A Candida ; C Herpès simplex ; D Cytomégalovirus. Les trois agents sont listés dans le chapitre.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 4.",
+          "answers": [
+            "Candida",
+            "Herpès simplex",
+            "Cytomégalovirus"
+          ],
+          "correct": [
+            "Candida",
+            "Herpès simplex",
+            "Cytomégalovirus"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quelles complications nutritionnelles peut entraîner une dysphagie ?",
+          "options": [
+            "Déshydratation",
+            "Dénutrition",
+            "Pancréatite spécifique",
+            "Obstruction biliaire isolée"
+          ],
+          "explanation": "A Déshydratation ; B Dénutrition. La réduction des apports expose à ces complications.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 7.",
+          "answers": [
+            "Déshydratation",
+            "Dénutrition"
+          ],
+          "correct": [
+            "Déshydratation",
+            "Dénutrition"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quel symptôme pendant les repas évoque une difficulté de déglutition ?",
+          "options": [
+            "Toux lors des repas",
+            "Ascite isolée",
+            "Prurit isolé sans gêne alimentaire",
+            "Stéatorrhée isolée"
+          ],
+          "explanation": "A Toux lors des repas. La toux pendant l’alimentation figure parmi les signes.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 6.",
+          "answers": [
+            "Toux lors des repas"
+          ],
+          "correct": [
+            "Toux lors des repas"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quelles mesures sont citées dans l’éducation contre le reflux ?",
+          "options": [
+            "Repas unique très abondant avant le coucher",
+            "Arrêt du tabac",
+            "Surélévation de la tête du lit",
+            "Éviction de l’alcool"
+          ],
+          "explanation": "B Arrêt du tabac ; C Surélévation de la tête du lit ; D Éviction de l’alcool. Ces mesures sont recommandées dans le cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 5 et 7.",
+          "answers": [
+            "Arrêt du tabac",
+            "Surélévation de la tête du lit",
+            "Éviction de l’alcool"
+          ],
+          "correct": [
+            "Arrêt du tabac",
+            "Surélévation de la tête du lit",
+            "Éviction de l’alcool"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Quel élément appartient à la surveillance infirmière d’une dysphagie ?",
+          "options": [
+            "Recherche isolée de cholestase sans autre suivi",
+            "Poids",
+            "Difficultés alimentaires",
+            "Douleur"
+          ],
+          "explanation": "B Poids ; C Difficultés alimentaires ; D Douleur. La surveillance recherche le retentissement clinique et nutritionnel.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 7.",
+          "answers": [
+            "Poids",
+            "Difficultés alimentaires",
+            "Douleur"
+          ],
+          "correct": [
+            "Poids",
+            "Difficultés alimentaires",
+            "Douleur"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Quelle affection est une cause oropharyngée citée ?",
+          "options": [
+            "Calcul biliaire",
+            "Ascite",
+            "Gastrite isolée",
+            "Maladie de Parkinson"
+          ],
+          "explanation": "D Maladie de Parkinson. La maladie de Parkinson peut altérer la déglutition.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 6.",
+          "answers": [
+            "Maladie de Parkinson"
+          ],
+          "correct": [
+            "Maladie de Parkinson"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quel couple examen et fonction est correct ?",
+          "options": [
+            "NFS et pression œsophagienne",
+            "Endoscopie et glycémie",
+            "Manométrie et motricité",
+            "pH métrie et analyse des selles"
+          ],
+          "explanation": "C Manométrie et motricité. La manométrie explore le fonctionnement moteur œsophagien.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 5.",
+          "answers": [
+            "Manométrie et motricité"
+          ],
+          "correct": [
+            "Manométrie et motricité"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-02",
+      "title": "Sujet 2 — Gastrites aiguës et chroniques",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "La gastrite est une inflammation de la muqueuse gastrique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle concerne l’estomac.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 8.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "La gastrite aiguë a une installation brutale.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours la décrit comme brutale et transitoire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 9.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "La gastrite chronique évolue uniquement pendant quelques minutes.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle persiste sur plusieurs mois ou années.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 9.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "Les AINS figurent parmi les facteurs de gastrite aiguë.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils sont cités avec l’aspirine parmi les causes médicamenteuses.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 9.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "L’alcool peut agresser la muqueuse gastrique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. C’est une cause toxique citée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 9.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "Des brûlures étendues peuvent favoriser une gastrite de stress.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le stress sévère est décrit dans les étiologies.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 9.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "Helicobacter pylori est une cause fréquente de gastrite chronique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours le présente comme la cause principale.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 9.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "Une gastrite auto immune peut détruire les cellules pariétales.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle peut altérer les sécrétions gastriques.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 9.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "L’estomac produit le facteur intrinsèque.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Cette fonction est mentionnée dans le rappel physiologique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 8.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "Une baisse du facteur intrinsèque peut favoriser une carence en vitamine B12.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La carence peut provoquer une anémie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 10.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "Toute gastrite chronique provoque une douleur intense permanente.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle peut être asymptomatique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 10.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "Une gastrite aiguë hémorragique peut se manifester par une hématémèse.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le saignement peut apparaître dans les vomissements.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 9.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "La FOGD permet des biopsies gastriques.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle associe observation et prélèvements.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 10.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "Le test respiratoire à l’urée peut rechercher H. pylori.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il figure parmi les examens cités.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 10.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "La recherche d’antigène dans les selles est sans intérêt pour H. pylori.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle est citée comme méthode diagnostique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 10.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "Le cancer gastrique est une complication possible de certaines gastrites chroniques.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours cite l’adénocarcinome et le lymphome.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 11.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "L’oméprazole appartient aux IPP.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il est donné comme exemple thérapeutique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 11.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "L’automédication par AINS doit être encouragée devant des épigastralgies.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. L’éducation recommande au contraire de l’éviter.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 11.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "La surveillance infirmière comprend la recherche de saignement digestif.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle permet de repérer une complication.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 11 et 12.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "Le respect du traitement anti H. pylori fait partie de l’éducation.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. L’observance est explicitement recommandée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 11.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Quelle région douloureuse est typiquement citée dans la gastrite ?",
+          "options": [
+            "Oreille",
+            "Épigastre",
+            "Poignet",
+            "Cheville"
+          ],
+          "explanation": "B Épigastre. Les épigastralgies sont décrites dans les deux formes.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 9 et 10.",
+          "answers": [
+            "Épigastre"
+          ],
+          "correct": [
+            "Épigastre"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Quel examen est la référence pour visualiser et biopsier la muqueuse gastrique ?",
+          "options": [
+            "FOGD",
+            "Cholangio IRM",
+            "Manométrie œsophagienne",
+            "ECG"
+          ],
+          "explanation": "A FOGD. La FOGD permet l’examen de la muqueuse.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 10.",
+          "answers": [
+            "FOGD"
+          ],
+          "correct": [
+            "FOGD"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quels examens recherchent H. pylori dans le cours ?",
+          "options": [
+            "Dosage de lipase",
+            "Biopsies gastriques",
+            "Test respiratoire à l’urée",
+            "Antigène fécal"
+          ],
+          "explanation": "B Biopsies gastriques ; C Test respiratoire à l’urée ; D Antigène fécal. Ces trois méthodes sont citées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 10.",
+          "answers": [
+            "Biopsies gastriques",
+            "Test respiratoire à l’urée",
+            "Antigène fécal"
+          ],
+          "correct": [
+            "Biopsies gastriques",
+            "Test respiratoire à l’urée",
+            "Antigène fécal"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quelles manifestations sont décrites dans la gastrite aiguë ?",
+          "options": [
+            "Vomissements",
+            "Nausées",
+            "Douleur épigastrique",
+            "Ictère progressif spécifique"
+          ],
+          "explanation": "A Vomissements ; B Nausées ; C Douleur épigastrique. Les manifestations sont principalement digestives.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 9.",
+          "answers": [
+            "Vomissements",
+            "Nausées",
+            "Douleur épigastrique"
+          ],
+          "correct": [
+            "Vomissements",
+            "Nausées",
+            "Douleur épigastrique"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quel déficit est associé à l’anémie de la gastrite atrophique dans le cours ?",
+          "options": [
+            "Sodium uniquement",
+            "Oxygène atmosphérique",
+            "Vitamine K uniquement",
+            "Vitamine B12"
+          ],
+          "explanation": "D Vitamine B12. La diminution du facteur intrinsèque favorise cette carence.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 10.",
+          "answers": [
+            "Vitamine B12"
+          ],
+          "correct": [
+            "Vitamine B12"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quelles complications sont citées pour les gastrites chroniques ?",
+          "options": [
+            "Anémie mégaloblastique",
+            "Lymphome gastrique",
+            "Adénocarcinome gastrique",
+            "Diabète obligatoire"
+          ],
+          "explanation": "A Anémie mégaloblastique ; B Lymphome gastrique ; C Adénocarcinome gastrique. Ces complications sont listées dans le chapitre.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 11.",
+          "answers": [
+            "Anémie mégaloblastique",
+            "Lymphome gastrique",
+            "Adénocarcinome gastrique"
+          ],
+          "correct": [
+            "Anémie mégaloblastique",
+            "Lymphome gastrique",
+            "Adénocarcinome gastrique"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quels médicaments cités sont des IPP ?",
+          "options": [
+            "Furosémide",
+            "Pantoprazole",
+            "Ésoméprazole",
+            "Oméprazole"
+          ],
+          "explanation": "B Pantoprazole ; C Ésoméprazole ; D Oméprazole. Ces trois médicaments sont des exemples du cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 11.",
+          "answers": [
+            "Pantoprazole",
+            "Ésoméprazole",
+            "Oméprazole"
+          ],
+          "correct": [
+            "Pantoprazole",
+            "Ésoméprazole",
+            "Oméprazole"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Quels paramètres relèvent de la surveillance infirmière ?",
+          "options": [
+            "Douleur",
+            "État nutritionnel",
+            "Pression canalaire pancréatique comme seul suivi",
+            "Vomissements"
+          ],
+          "explanation": "A Douleur ; B État nutritionnel ; D Vomissements. Ils aident à suivre l’évolution et les complications.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 11.",
+          "answers": [
+            "Douleur",
+            "État nutritionnel",
+            "Vomissements"
+          ],
+          "correct": [
+            "Douleur",
+            "État nutritionnel",
+            "Vomissements"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Quelle conduite éducative est adaptée ?",
+          "options": [
+            "Négliger les signes hémorragiques",
+            "Arrêter seul toute antibiothérapie",
+            "Augmenter l’alcool",
+            "Éviter l’automédication par AINS"
+          ],
+          "explanation": "D Éviter l’automédication par AINS. La prévention vise à supprimer les facteurs agressifs.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 11.",
+          "answers": [
+            "Éviter l’automédication par AINS"
+          ],
+          "correct": [
+            "Éviter l’automédication par AINS"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quelle structure appartient à l’estomac ?",
+          "options": [
+            "Iléon terminal",
+            "Canal cholédoque",
+            "Antre pylorique",
+            "Rectum"
+          ],
+          "explanation": "C Antre pylorique. L’antre fait partie des régions gastriques citées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 8.",
+          "answers": [
+            "Antre pylorique"
+          ],
+          "correct": [
+            "Antre pylorique"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-03",
+      "title": "Sujet 3 — Maladies inflammatoires chroniques de l’intestin",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "Crohn et la RCH sont les deux principales MICI étudiées.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours distingue ces deux formes.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "La maladie de Crohn peut toucher tout le tube digestif.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Son extension peut aller de la bouche à l’anus.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "Les lésions de Crohn sont toujours continues à partir du rectum.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elles sont discontinues ; la continuité rectale caractérise la RCH.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "L’inflammation de Crohn peut être transmurale.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle peut intéresser toutes les couches de la paroi.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "La RCH touche principalement le rectum et le côlon.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Son atteinte digestive est limitée à ces régions.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "La RCH est décrite comme une inflammation superficielle de la muqueuse.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours l’oppose à l’atteinte transmurale de Crohn.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "La dysbiose désigne un déséquilibre du microbiote intestinal.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle est citée dans les mécanismes des MICI.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "L’origine des MICI est uniquement mécanique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle associe facteurs génétiques, immunitaires et environnementaux.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "Des rectorragies peuvent accompagner une MICI.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Les émissions glairo sanglantes sont également citées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "Les MICI n’ont jamais de manifestations extra digestives.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Des atteintes articulaires, cutanées et oculaires sont décrites.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 15.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "Une uvéite peut être associée à une MICI.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. C’est une manifestation oculaire citée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 15.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "Une CRP élevée peut accompagner une MICI active.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La CRP fait partie des marqueurs inflammatoires du cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 15.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "La coloscopie avec biopsies est un examen de référence des MICI.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle précise les lésions et leur extension.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 15.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "Une fistule est une complication possible de Crohn.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le caractère transmural favorise cette complication.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 15.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "Les sténoses intestinales ne concernent jamais Crohn.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elles peuvent entraîner une occlusion.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 16.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "Le mégacôlon toxique est une complication de RCH citée.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il fait partie des complications digestives graves.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 16.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "La dénutrition peut compliquer une MICI.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Les carences nécessitent une prise en charge nutritionnelle.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 16.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "Une chirurgie peut être envisagée après échec du traitement médical.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle est aussi indiquée dans certaines complications.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 16.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "Le nombre de selles est inutile à surveiller.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. La fréquence des selles est un élément central de surveillance.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 16.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "La présence de sang dans les selles doit être recherchée.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle participe au suivi clinique infirmier.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 16.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Quelle localisation est fréquente dans Crohn ?",
+          "options": [
+            "Iléon terminal",
+            "Estomac exclusivement",
+            "Vésicule exclusivement",
+            "Voies biliaires uniquement"
+          ],
+          "explanation": "A Iléon terminal. Le cours cite l’iléon, le côlon et la région ano périnéale.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answers": [
+            "Iléon terminal"
+          ],
+          "correct": [
+            "Iléon terminal"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Quelle description correspond à la RCH ?",
+          "options": [
+            "Lésions uniquement pancréatiques",
+            "Atteinte obligatoire de la bouche",
+            "Atteinte exclusivement gastrique",
+            "Atteinte colique continue depuis le rectum"
+          ],
+          "explanation": "D Atteinte colique continue depuis le rectum. L’atteinte continue rectocolique est caractéristique dans le cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answers": [
+            "Atteinte colique continue depuis le rectum"
+          ],
+          "correct": [
+            "Atteinte colique continue depuis le rectum"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quelles manifestations extra digestives sont citées ?",
+          "options": [
+            "Ictère obstructif obligatoire",
+            "Uvéite",
+            "Arthrite",
+            "Érythème noueux"
+          ],
+          "explanation": "B Uvéite ; C Arthrite ; D Érythème noueux. Ces trois manifestations sont listées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 15.",
+          "answers": [
+            "Uvéite",
+            "Arthrite",
+            "Érythème noueux"
+          ],
+          "correct": [
+            "Uvéite",
+            "Arthrite",
+            "Érythème noueux"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quels examens biologiques figurent au bilan ?",
+          "options": [
+            "Manométrie",
+            "Albuminémie",
+            "CRP",
+            "NFS"
+          ],
+          "explanation": "B Albuminémie ; C CRP ; D NFS. Le bilan recherche inflammation, anémie et retentissement nutritionnel.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 15.",
+          "answers": [
+            "Albuminémie",
+            "CRP",
+            "NFS"
+          ],
+          "correct": [
+            "Albuminémie",
+            "CRP",
+            "NFS"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quelles complications sont liées à Crohn dans le cours ?",
+          "options": [
+            "Abcès",
+            "Sténoses",
+            "Insuffisance endocrine constante",
+            "Fistules"
+          ],
+          "explanation": "A Abcès ; B Sténoses ; D Fistules. Ces complications traduisent l’atteinte pariétale.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 15 et 16.",
+          "answers": [
+            "Abcès",
+            "Sténoses",
+            "Fistules"
+          ],
+          "correct": [
+            "Abcès",
+            "Sténoses",
+            "Fistules"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quelle molécule est un aminosalicylé cité ?",
+          "options": [
+            "Furosémide",
+            "Mésalazine",
+            "Lactulose",
+            "Insuline"
+          ],
+          "explanation": "B Mésalazine. La mésalazine figure dans le traitement médical des MICI.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 16.",
+          "answers": [
+            "Mésalazine"
+          ],
+          "correct": [
+            "Mésalazine"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quelles classes sont mentionnées parmi les traitements des MICI ?",
+          "options": [
+            "Anticoagulants systématiques",
+            "Biothérapies",
+            "Corticoïdes",
+            "Immunosuppresseurs"
+          ],
+          "explanation": "B Biothérapies ; C Corticoïdes ; D Immunosuppresseurs. Le traitement dépend de la forme et de l’activité.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 16.",
+          "answers": [
+            "Biothérapies",
+            "Corticoïdes",
+            "Immunosuppresseurs"
+          ],
+          "correct": [
+            "Biothérapies",
+            "Corticoïdes",
+            "Immunosuppresseurs"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Quel élément est une complication générale décrite ?",
+          "options": [
+            "Retard de croissance",
+            "Guérison spontanée constante",
+            "Amélioration obligatoire des apports",
+            "Absence de carence"
+          ],
+          "explanation": "A Retard de croissance. Le retard de croissance figure dans les complications générales.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 16.",
+          "answers": [
+            "Retard de croissance"
+          ],
+          "correct": [
+            "Retard de croissance"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Que faut il surveiller chez un patient atteint de MICI ?",
+          "options": [
+            "Douleur",
+            "État nutritionnel",
+            "Uniquement le dosage de lipase",
+            "Selles"
+          ],
+          "explanation": "A Douleur ; B État nutritionnel ; D Selles. La surveillance associe activité digestive et retentissement général.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 16.",
+          "answers": [
+            "Douleur",
+            "État nutritionnel",
+            "Selles"
+          ],
+          "correct": [
+            "Douleur",
+            "État nutritionnel",
+            "Selles"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quelle association est correcte ?",
+          "options": [
+            "Crohn et lésions en saut",
+            "RCH et atteinte exclusivement œsophagienne",
+            "Crohn et absence de fistules",
+            "RCH et absence de rectorragies"
+          ],
+          "explanation": "A Crohn et lésions en saut. Les lésions discontinues sont décrites dans Crohn.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answers": [
+            "Crohn et lésions en saut"
+          ],
+          "correct": [
+            "Crohn et lésions en saut"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-04",
+      "title": "Sujet 4 — Insuffisance hépatique",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "L’insuffisance hépatique altère les fonctions métaboliques, de synthèse et de détoxication.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle correspond à une défaillance fonctionnelle du foie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 18.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "Le foie synthétise l’albumine.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La synthèse protéique fait partie de ses fonctions.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 18.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "Le foie ne participe pas à la coagulation.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Il synthétise plusieurs facteurs de coagulation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 18.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "Un surdosage en paracétamol peut causer une insuffisance hépatique aiguë.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Cette étiologie médicamenteuse est citée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 19.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "La cirrhose est une cause majeure d’insuffisance hépatique chronique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours la présente comme la cause chronique principale.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 19.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "Les hépatites B et C ne peuvent jamais provoquer de maladie hépatique chronique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elles figurent parmi les causes chroniques.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 19.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "L’hypoalbuminémie peut favoriser les œdèmes et l’ascite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La baisse de synthèse protéique participe à ces manifestations.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 19 et 20.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "L’accumulation d’ammoniac participe à l’encéphalopathie hépatique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La détoxication hépatique est altérée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 20 et 21.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "L’astérixis est un signe neurologique cité dans l’insuffisance hépatique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours le nomme également flapping tremor.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 20.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "L’encéphalopathie hépatique se manifeste toujours par une conscience parfaitement normale.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Confusion, somnolence et coma sont possibles.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 20.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "L’ictère peut être une manifestation d’insuffisance hépatique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il figure parmi les signes cutanés.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 20.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "ASAT et ALAT sont des marqueurs de cytolyse cités.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils reflètent une atteinte cellulaire hépatique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 20.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "Un TP diminué et un INR augmenté peuvent accompagner la défaillance hépatique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils traduisent notamment l’atteinte de synthèse des facteurs.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 21.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "Le syndrome hépatorénal est une complication rénale grave.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il associe une atteinte fonctionnelle rénale à la maladie hépatique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 21.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "Le lactulose est cité dans le traitement de l’encéphalopathie hépatique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il fait partie des traitements symptomatiques présentés.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 21.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "Les diurétiques servent à traiter directement une fracture chez l’insuffisant hépatique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Ils sont cités pour l’ascite.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 21.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "Une transplantation peut être envisagée dans certaines formes sévères.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours la mentionne dans les formes graves et irréversibles.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 22.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "La surveillance de la conscience fait partie du rôle infirmier.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle aide à dépister une encéphalopathie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 22.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "Le périmètre abdominal peut être utile à la surveillance.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il permet de suivre la distension liée à l’ascite.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 22.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "L’arrêt de l’alcool et le suivi médical font partie de l’éducation.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils sont explicitement recommandés dans le chapitre.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 22.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Quelles substances relèvent de la détoxication hépatique ?",
+          "options": [
+            "Ammoniac",
+            "Sécrétion de facteur intrinsèque",
+            "Médicaments",
+            "Alcool"
+          ],
+          "explanation": "A Ammoniac ; C Médicaments ; D Alcool. Le cours cite ces trois substances.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 19.",
+          "answers": [
+            "Ammoniac",
+            "Médicaments",
+            "Alcool"
+          ],
+          "correct": [
+            "Ammoniac",
+            "Médicaments",
+            "Alcool"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Quelles maladies génétiques sont citées parmi les causes chroniques ?",
+          "options": [
+            "Ulcère duodénal isolé",
+            "Hémochromatose",
+            "Gastrite superficielle isolée",
+            "Maladie de Wilson"
+          ],
+          "explanation": "B Hémochromatose ; D Maladie de Wilson. Ces deux maladies peuvent atteindre le foie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 19.",
+          "answers": [
+            "Hémochromatose",
+            "Maladie de Wilson"
+          ],
+          "correct": [
+            "Hémochromatose",
+            "Maladie de Wilson"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quels signes évoquent une encéphalopathie ?",
+          "options": [
+            "Somnolence",
+            "Confusion",
+            "Astérixis",
+            "Amélioration obligatoire de la vigilance"
+          ],
+          "explanation": "A Somnolence ; B Confusion ; C Astérixis. Ces manifestations neurologiques nécessitent une surveillance rapprochée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 20.",
+          "answers": [
+            "Somnolence",
+            "Confusion",
+            "Astérixis"
+          ],
+          "correct": [
+            "Somnolence",
+            "Confusion",
+            "Astérixis"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quels examens sont classés parmi les marqueurs de cholestase ?",
+          "options": [
+            "Cholangio IRM",
+            "Phosphatases alcalines",
+            "Gamma GT",
+            "Épreuve d’effort"
+          ],
+          "explanation": "B Phosphatases alcalines ; C Gamma GT. Ces enzymes sont citées dans le bilan hépatique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 20.",
+          "answers": [
+            "Phosphatases alcalines",
+            "Gamma GT"
+          ],
+          "correct": [
+            "Phosphatases alcalines",
+            "Gamma GT"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quel profil biologique est décrit dans l’insuffisance hépatique ?",
+          "options": [
+            "Albumine toujours élevée et INR nul",
+            "Aucun bilan perturbé possible",
+            "Glycémie toujours normale",
+            "Albumine basse et TP diminué"
+          ],
+          "explanation": "D Albumine basse et TP diminué. La baisse de synthèse affecte l’albumine et la coagulation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 21.",
+          "answers": [
+            "Albumine basse et TP diminué"
+          ],
+          "correct": [
+            "Albumine basse et TP diminué"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quelles complications sont citées ?",
+          "options": [
+            "Achalasie obligatoire",
+            "Encéphalopathie",
+            "Syndrome hépatorénal",
+            "Ascite"
+          ],
+          "explanation": "B Encéphalopathie ; C Syndrome hépatorénal ; D Ascite. Elles traduisent une maladie potentiellement grave.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 21.",
+          "answers": [
+            "Encéphalopathie",
+            "Syndrome hépatorénal",
+            "Ascite"
+          ],
+          "correct": [
+            "Encéphalopathie",
+            "Syndrome hépatorénal",
+            "Ascite"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quel traitement est cité contre l’ascite ?",
+          "options": [
+            "Antalgique comme seul traitement causal",
+            "Augmentation systématique du sel",
+            "Aucun suivi du poids",
+            "Restriction sodée prescrite et diurétiques"
+          ],
+          "explanation": "D Restriction sodée prescrite et diurétiques. La prise en charge vise notamment la rétention hydrosodée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 21.",
+          "answers": [
+            "Restriction sodée prescrite et diurétiques"
+          ],
+          "correct": [
+            "Restriction sodée prescrite et diurétiques"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Quels éléments surveiller au lit du patient ?",
+          "options": [
+            "Conscience",
+            "Uniquement le dosage d’amylase",
+            "Poids",
+            "Diurèse"
+          ],
+          "explanation": "A Conscience ; C Poids ; D Diurèse. Ils font partie de la surveillance clinique infirmière.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 22.",
+          "answers": [
+            "Conscience",
+            "Poids",
+            "Diurèse"
+          ],
+          "correct": [
+            "Conscience",
+            "Poids",
+            "Diurèse"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Quel signe cutané est mentionné ?",
+          "options": [
+            "Angiome stellaire",
+            "Stéatorrhée isolée",
+            "Rectorragie obligatoire",
+            "Pyrosis constant"
+          ],
+          "explanation": "A Angiome stellaire. Le cours cite aussi l’ictère et l’érythrose palmaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 20.",
+          "answers": [
+            "Angiome stellaire"
+          ],
+          "correct": [
+            "Angiome stellaire"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quel objectif éducatif est adapté ?",
+          "options": [
+            "Reprendre l’alcool",
+            "Supprimer le suivi médical",
+            "Multiplier l’automédication",
+            "Respecter le régime prescrit"
+          ],
+          "explanation": "D Respecter le régime prescrit. L’éducation vise l’observance et la réduction des agressions hépatiques.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 22.",
+          "answers": [
+            "Respecter le régime prescrit"
+          ],
+          "correct": [
+            "Respecter le régime prescrit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-05",
+      "title": "Sujet 5 — Cholécystite aiguë et chronique",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "La cholécystite est une inflammation de la vésicule biliaire.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle concerne la vésicule et non uniquement le cholédoque.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 23.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "Le canal cystique relie la vésicule aux voies biliaires.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ce rapport anatomique est décrit dans le cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 23.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "La bile est produite principalement par la vésicule biliaire.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle est produite par le foie ; la vésicule la stocke.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 23.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "La vésicule concentre la bile.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il s’agit d’une fonction physiologique citée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 23.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "L’obstruction du canal cystique par un calcul peut provoquer une cholécystite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. C’est le mécanisme le plus fréquent décrit.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 24.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "Toute cholécystite nécessite obligatoirement la présence d’un calcul.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Il existe des formes alithiasiques.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 24.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "Une cholécystite alithiasique peut survenir en réanimation.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Les patients graves sont un terrain cité.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 24.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "La stase biliaire favorise la distension vésiculaire.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. L’obstacle empêche l’écoulement normal de la bile.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 24.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "La douleur de l’hypochondre droit est un signe majeur.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle peut s’associer aux nausées et vomissements.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 24.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "La fièvre et les frissons sont incompatibles avec une cholécystite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Ils font partie des signes généraux décrits.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 25.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "Le signe de Murphy associe douleur et arrêt inspiratoire à la palpation.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il est recherché dans l’hypochondre droit.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 25.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "L’échographie abdominale est l’imagerie de première intention citée.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle recherche calculs et anomalies vésiculaires.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 25.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "L’hyperleucocytose peut accompagner une cholécystite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La CRP peut également être élevée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 25.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "Un épaississement de la paroi vésiculaire peut être visible à l’échographie.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. C’est un des éléments recherchés.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 25.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "Une perforation vésiculaire peut entraîner une péritonite biliaire.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ces complications sont listées dans le cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 25.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "La gangrène vésiculaire est toujours une évolution bénigne.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle fait partie des complications graves.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 25.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "La cholécystectomie consiste à retirer la vésicule.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle constitue le traitement chirurgical de référence présenté.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 26.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "Une cholécystectomie peut être réalisée par laparoscopie.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La chirurgie conventionnelle est également mentionnée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 26.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "La préparation préopératoire relève du rôle infirmier.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle accompagne la surveillance et l’administration des traitements.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 26.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "L’éducation nutritionnelle est absente de la prise en charge.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Le cours conseille notamment un régime pauvre en graisses.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 26.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Quelle structure est obstruée dans le mécanisme lithiasique typique ?",
+          "options": [
+            "Canal pancréatique",
+            "Canal cystique",
+            "Canal hépatique",
+            "Œsophage"
+          ],
+          "explanation": "B Canal cystique. Le calcul enclavé empêche la vidange vésiculaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 24.",
+          "answers": [
+            "Canal cystique"
+          ],
+          "correct": [
+            "Canal cystique"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Quels terrains sont associés à la forme alithiasique ?",
+          "options": [
+            "Patients avec simple reflux non compliqué",
+            "Polytraumatisés",
+            "Patients en réanimation",
+            "Brûlés graves"
+          ],
+          "explanation": "B Polytraumatisés ; C Patients en réanimation ; D Brûlés graves. Ces trois terrains sont cités.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 24.",
+          "answers": [
+            "Polytraumatisés",
+            "Patients en réanimation",
+            "Brûlés graves"
+          ],
+          "correct": [
+            "Polytraumatisés",
+            "Patients en réanimation",
+            "Brûlés graves"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quels signes sont décrits ?",
+          "options": [
+            "Diarrhée glairo sanglante obligatoire",
+            "Nausées",
+            "Douleur de l’hypochondre droit",
+            "Vomissements"
+          ],
+          "explanation": "B Nausées ; C Douleur de l’hypochondre droit ; D Vomissements. Ils appartiennent au tableau digestif.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 24.",
+          "answers": [
+            "Nausées",
+            "Douleur de l’hypochondre droit",
+            "Vomissements"
+          ],
+          "correct": [
+            "Nausées",
+            "Douleur de l’hypochondre droit",
+            "Vomissements"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quel signe correspond à la palpation douloureuse sous costale droite avec arrêt inspiratoire ?",
+          "options": [
+            "Babinski",
+            "Murphy",
+            "Lasègue",
+            "Romberg"
+          ],
+          "explanation": "B Murphy. C’est la définition du signe de Murphy dans le chapitre.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 25.",
+          "answers": [
+            "Murphy"
+          ],
+          "correct": [
+            "Murphy"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quels éléments l’échographie peut elle montrer ?",
+          "options": [
+            "Ulcération de la muqueuse gastrique",
+            "Distension vésiculaire",
+            "Calculs",
+            "Paroi vésiculaire épaissie"
+          ],
+          "explanation": "B Distension vésiculaire ; C Calculs ; D Paroi vésiculaire épaissie. Elle explore directement la vésicule.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 25.",
+          "answers": [
+            "Distension vésiculaire",
+            "Calculs",
+            "Paroi vésiculaire épaissie"
+          ],
+          "correct": [
+            "Distension vésiculaire",
+            "Calculs",
+            "Paroi vésiculaire épaissie"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quelles complications sont citées ?",
+          "options": [
+            "Empyème",
+            "Perforation vésiculaire",
+            "RCH obligatoire",
+            "Gangrène"
+          ],
+          "explanation": "A Empyème ; B Perforation vésiculaire ; D Gangrène. Ces complications peuvent aggraver rapidement l’état clinique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 25.",
+          "answers": [
+            "Empyème",
+            "Perforation vésiculaire",
+            "Gangrène"
+          ],
+          "correct": [
+            "Empyème",
+            "Perforation vésiculaire",
+            "Gangrène"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quel traitement est curatif dans le cours ?",
+          "options": [
+            "Coloscopie seule",
+            "Appendicectomie systématique",
+            "Cholécystectomie",
+            "Insuline seule"
+          ],
+          "explanation": "C Cholécystectomie. L’ablation de la vésicule traite la cholécystite selon le contexte.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 26.",
+          "answers": [
+            "Cholécystectomie"
+          ],
+          "correct": [
+            "Cholécystectomie"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Quels paramètres font partie de la surveillance ?",
+          "options": [
+            "Douleur",
+            "Uniquement la glycémie sans suivi clinique",
+            "Température",
+            "Pression artérielle"
+          ],
+          "explanation": "A Douleur ; C Température ; D Pression artérielle. Le pouls est également surveillé.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 26.",
+          "answers": [
+            "Douleur",
+            "Température",
+            "Pression artérielle"
+          ],
+          "correct": [
+            "Douleur",
+            "Température",
+            "Pression artérielle"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Quelle mesure relève des soins infirmiers ?",
+          "options": [
+            "Arrêter le suivi postopératoire",
+            "Ignorer la fièvre",
+            "Retirer un calcul sans prescription au lit",
+            "Surveiller la perfusion"
+          ],
+          "explanation": "D Surveiller la perfusion. La surveillance des perfusions est explicitement citée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 26.",
+          "answers": [
+            "Surveiller la perfusion"
+          ],
+          "correct": [
+            "Surveiller la perfusion"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quel conseil alimentaire est donné dans le chapitre ?",
+          "options": [
+            "Absence de suivi nutritionnel",
+            "Alcool à chaque repas",
+            "Excès systématique de graisses",
+            "Régime pauvre en graisses"
+          ],
+          "explanation": "D Régime pauvre en graisses. Ce conseil accompagne le suivi médical.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 26.",
+          "answers": [
+            "Régime pauvre en graisses"
+          ],
+          "correct": [
+            "Régime pauvre en graisses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-06",
+      "title": "Sujet 6 — Angiocholite",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "L’angiocholite est une infection bactérienne aiguë des voies biliaires.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle survient généralement en présence d’un obstacle biliaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 27.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "L’angiocholite est une urgence médico chirurgicale.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Son risque septique impose une prise en charge rapide.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 27.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "Un calcul cholédocien peut provoquer une angiocholite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. C’est une cause lithiasique fréquente.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 27.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "Une tumeur peut être responsable d’un obstacle favorisant l’angiocholite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours cite plusieurs causes tumorales.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 27.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "L’ascaridiose biliaire n’est jamais une cause possible.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle figure parmi les causes parasitaires.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 27.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "La stase biliaire favorise la prolifération bactérienne.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle participe au mécanisme infectieux.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "L’infection peut se propager dans le sang.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle peut conduire à une septicémie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "Escherichia coli est un germe cité dans l’angiocholite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il figure dans la liste des bactéries responsables.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "La triade de Charcot associe douleur, fièvre et ictère.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La douleur siège typiquement à l’hypochondre droit.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "La triade de Charcot associe toux, hémoptysie et douleur du mollet.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Ce n’est pas la triade biliaire du cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "Les troubles de conscience peuvent signaler une forme grave.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils participent à la pentade de Reynolds.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "La pentade de Reynolds ajoute choc et troubles de conscience à la triade.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle décrit une forme sévère d’angiocholite.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "Une hyperbilirubinémie peut accompagner l’angiocholite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Les marqueurs de cholestase peuvent aussi augmenter.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "L’échographie peut montrer une dilatation des voies biliaires.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle recherche également un calcul.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 29.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "Le choc septique est une complication majeure.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il peut engager le pronostic vital.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 29 et 30.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "Une insuffisance rénale peut compliquer l’angiocholite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle fait partie des complications du chapitre.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 29.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "Le traitement repose toujours sur les antalgiques seuls.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Il associe notamment antibiothérapie et drainage biliaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 29 et 30.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "La CPRE peut permettre l’extraction de calculs.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle peut également drainer les voies biliaires.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 29.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "La diurèse doit être surveillée dans les formes graves.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle aide à suivre le retentissement circulatoire et rénal.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 30.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "La surveillance neurologique est sans intérêt devant un sepsis biliaire.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Une altération de conscience est un signe de gravité.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28 et 30.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Quels éléments composent la triade de Charcot ?",
+          "options": [
+            "Fièvre avec frissons",
+            "Dysphagie obligatoire",
+            "Ictère",
+            "Douleur de l’hypochondre droit"
+          ],
+          "explanation": "A Fièvre avec frissons ; C Ictère ; D Douleur de l’hypochondre droit. Douleur, fièvre et ictère forment la triade classique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answers": [
+            "Fièvre avec frissons",
+            "Ictère",
+            "Douleur de l’hypochondre droit"
+          ],
+          "correct": [
+            "Fièvre avec frissons",
+            "Ictère",
+            "Douleur de l’hypochondre droit"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Quels signes ajoutés à la triade évoquent Reynolds ?",
+          "options": [
+            "Choc septique",
+            "Gastrite superficielle isolée",
+            "Prurit isolé ancien",
+            "Troubles de conscience"
+          ],
+          "explanation": "A Choc septique ; D Troubles de conscience. Ces deux éléments marquent la gravité.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answers": [
+            "Choc septique",
+            "Troubles de conscience"
+          ],
+          "correct": [
+            "Choc septique",
+            "Troubles de conscience"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quels germes sont cités ?",
+          "options": [
+            "Klebsiella",
+            "E. coli",
+            "Enterococcus",
+            "Virus rougeoleux comme germe principal"
+          ],
+          "explanation": "A Klebsiella ; B E. coli ; C Enterococcus. Le cours mentionne aussi Enterobacter.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answers": [
+            "Klebsiella",
+            "E. coli"
+          ],
+          "correct": [
+            "Klebsiella",
+            "E. coli"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quel examen peut drainer les voies biliaires et extraire un calcul ?",
+          "options": [
+            "CPRE",
+            "Rectoscopie",
+            "ECG",
+            "Cholangio IRM"
+          ],
+          "explanation": "A CPRE. La CPRE possède ici un rôle thérapeutique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 29.",
+          "answers": [
+            "CPRE"
+          ],
+          "correct": [
+            "CPRE"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quelles complications faut il craindre ?",
+          "options": [
+            "Guérison spontanée obligatoire",
+            "Choc septique",
+            "Insuffisance rénale",
+            "Abcès hépatique"
+          ],
+          "explanation": "B Choc septique ; C Insuffisance rénale ; D Abcès hépatique. Elles figurent dans les complications graves.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 29.",
+          "answers": [
+            "Choc septique",
+            "Insuffisance rénale",
+            "Abcès hépatique"
+          ],
+          "correct": [
+            "Choc septique",
+            "Insuffisance rénale",
+            "Abcès hépatique"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quel ensemble correspond aux grandes lignes du traitement ?",
+          "options": [
+            "Antibiothérapie et drainage biliaire",
+            "Régime seul",
+            "Repos sans évaluation",
+            "Antiacide seul"
+          ],
+          "explanation": "A Antibiothérapie et drainage biliaire. Le contrôle de l’infection s’associe à la levée de l’obstacle.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 29 et 30.",
+          "answers": [
+            "Antibiothérapie et drainage biliaire"
+          ],
+          "correct": [
+            "Antibiothérapie et drainage biliaire"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quels examens d’imagerie sont cités ?",
+          "options": [
+            "Échographie",
+            "Scanner",
+            "Transit œsophagien",
+            "Cholangio IRM"
+          ],
+          "explanation": "A Échographie ; B Scanner ; D Cholangio IRM. Ils explorent les voies biliaires et leur obstacle.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 29.",
+          "answers": [
+            "Échographie",
+            "Scanner",
+            "Cholangio IRM"
+          ],
+          "correct": [
+            "Échographie",
+            "Scanner",
+            "Cholangio IRM"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Quels paramètres relèvent de la surveillance rapprochée ?",
+          "options": [
+            "Température",
+            "PA et pouls",
+            "Uniquement le périmètre crânien",
+            "SpO2"
+          ],
+          "explanation": "A Température ; B PA et pouls ; D SpO2. Ces paramètres aident à dépister une dégradation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 30.",
+          "answers": [
+            "Température",
+            "PA et pouls",
+            "SpO2"
+          ],
+          "correct": [
+            "Température",
+            "PA et pouls",
+            "SpO2"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Quelle cause tumorale figure dans le chapitre ?",
+          "options": [
+            "Tumeur cutanée bénigne isolée",
+            "Gliome sans atteinte biliaire",
+            "Cancer du pancréas",
+            "Adénome de la thyroïde isolé"
+          ],
+          "explanation": "C Cancer du pancréas. Il peut créer un obstacle à l’écoulement de la bile.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 27.",
+          "answers": [
+            "Cancer du pancréas"
+          ],
+          "correct": [
+            "Cancer du pancréas"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quel signe doit faire rechercher une dégradation rénale ou circulatoire ?",
+          "options": [
+            "Baisse de la diurèse",
+            "Pyrosis stable isolé",
+            "Stéatorrhée ancienne stable",
+            "Ballonnements chroniques isolés"
+          ],
+          "explanation": "A Baisse de la diurèse. La surveillance urinaire est prévue dans les formes graves.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 30.",
+          "answers": [
+            "Baisse de la diurèse"
+          ],
+          "correct": [
+            "Baisse de la diurèse"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-07",
+      "title": "Sujet 7 — Tumeurs des voies biliaires",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "Les tumeurs biliaires peuvent se développer dans les voies intra ou extra hépatiques.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours inclut ces deux localisations.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 31.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "Toutes les tumeurs biliaires sont bénignes.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elles sont le plus souvent malignes selon le cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 31.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "Un cholangiocarcinome est un cancer primitif des voies biliaires.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il fait partie des tumeurs malignes citées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 31.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "Les adénomes biliaires sont classés parmi les tumeurs bénignes.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Les papillomes sont également cités.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 31.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "L’ampullome de Vater se développe au niveau de l’ampoule de Vater.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il figure parmi les tumeurs étudiées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 31.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "La cholangite sclérosante primitive est un facteur de risque cité.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle favorise certaines tumeurs des voies biliaires.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 31.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "Les kystes du cholédoque figurent parmi les facteurs de risque.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils sont listés dans le chapitre.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 31.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "Les parasitoses biliaires sont exclues des facteurs favorisants.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elles figurent parmi les facteurs de risque.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 31.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "L’ictère cholestatique progressif peut révéler une tumeur biliaire.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. C’est le signe révélateur principal décrit.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "L’ictère tumoral décrit est nécessairement brutal et très douloureux.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Le cours décrit une installation progressive souvent indolore.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "Un prurit peut accompagner l’obstruction biliaire tumorale.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il figure parmi les manifestations.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "L’amaigrissement peut faire partie du tableau clinique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il peut s’associer à l’anorexie et à l’asthénie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "Les phosphatases alcalines peuvent augmenter.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le bilan peut montrer une cholestase.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "La cholangio IRM participe à l’évaluation de l’extension tumorale.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Cet objectif est précisé dans le chapitre.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "L’examen anatomopathologique peut contribuer à la confirmation.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il repose sur l’étude d’un prélèvement tissulaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "Une angiocholite peut compliquer une obstruction tumorale.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle figure dans les complications locales.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "La dénutrition et la cachexie sont impossibles dans les tumeurs biliaires.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elles figurent dans les complications générales.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "La chirurgie offre une possibilité de traitement curatif dans certains cas.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle dépend notamment de la localisation et de l’extension.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 33.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "Une endoprothèse biliaire constitue toujours un traitement curatif du cancer.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Le cours la classe parmi les traitements palliatifs.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 33.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "Le soutien psychologique fait partie de l’accompagnement infirmier.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il complète la surveillance et les conseils nutritionnels.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 33.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Quelle tumeur est un cancer primitif biliaire ?",
+          "options": [
+            "Polype gastrique bénin",
+            "Papillome bénin",
+            "Cholangiocarcinome",
+            "Adénome biliaire"
+          ],
+          "explanation": "C Cholangiocarcinome. Le cholangiocarcinome est la tumeur maligne principale citée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 31.",
+          "answers": [
+            "Cholangiocarcinome"
+          ],
+          "correct": [
+            "Cholangiocarcinome"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Quelles tumeurs sont classées comme bénignes dans le cours ?",
+          "options": [
+            "Adénomes biliaires",
+            "Cholangiocarcinomes",
+            "Papillomes",
+            "Cancers vésiculaires"
+          ],
+          "explanation": "A Adénomes biliaires ; C Papillomes. Adénomes et papillomes appartiennent au groupe bénin.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 31.",
+          "answers": [
+            "Adénomes biliaires",
+            "Papillomes"
+          ],
+          "correct": [
+            "Adénomes biliaires",
+            "Papillomes"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quels facteurs de risque sont cités ?",
+          "options": [
+            "Appendicite ancienne comme facteur établi",
+            "Kyste du cholédoque",
+            "Cholangite sclérosante primitive",
+            "Parasitoses biliaires"
+          ],
+          "explanation": "B Kyste du cholédoque ; C Cholangite sclérosante primitive ; D Parasitoses biliaires. Ces trois facteurs figurent dans le chapitre.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 31.",
+          "answers": [
+            "Kyste du cholédoque",
+            "Cholangite sclérosante primitive",
+            "Parasitoses biliaires"
+          ],
+          "correct": [
+            "Kyste du cholédoque",
+            "Cholangite sclérosante primitive",
+            "Parasitoses biliaires"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quelle présentation est particulièrement évocatrice selon le cours ?",
+          "options": [
+            "Méléna isolé sans cholestase",
+            "Dysphagie isolée d’apparition brutale",
+            "Ictère progressif indolore",
+            "Diarrhée aiguë isolée"
+          ],
+          "explanation": "C Ictère progressif indolore. Le tableau cholestatique progressif est mis en avant.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answers": [
+            "Ictère progressif indolore"
+          ],
+          "correct": [
+            "Ictère progressif indolore"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quel bilan biologique évoque une cholestase ?",
+          "options": [
+            "Bilirubine élevée",
+            "Hémoglobine seule élevée",
+            "PAL élevées",
+            "Gamma GT élevées"
+          ],
+          "explanation": "A Bilirubine élevée ; C PAL élevées ; D Gamma GT élevées. Ces paramètres sont cités dans le diagnostic.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answers": [
+            "Bilirubine élevée",
+            "PAL élevées",
+            "Gamma GT élevées"
+          ],
+          "correct": [
+            "Bilirubine élevée",
+            "PAL élevées",
+            "Gamma GT élevées"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quel examen est proposé en première intention dans ce chapitre ?",
+          "options": [
+            "Échographie abdominale",
+            "pH métrie",
+            "Coloscopie",
+            "Manométrie œsophagienne"
+          ],
+          "explanation": "A Échographie abdominale. Elle constitue une première exploration de l’obstacle biliaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answers": [
+            "Échographie abdominale"
+          ],
+          "correct": [
+            "Échographie abdominale"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quelles complications locales sont décrites ?",
+          "options": [
+            "Angiocholite",
+            "Insuffisance hépatique",
+            "Achalasie constante",
+            "Obstruction biliaire"
+          ],
+          "explanation": "A Angiocholite ; B Insuffisance hépatique ; D Obstruction biliaire. Les complications découlent notamment de l’obstacle.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answers": [
+            "Angiocholite",
+            "Insuffisance hépatique",
+            "Obstruction biliaire"
+          ],
+          "correct": [
+            "Angiocholite",
+            "Insuffisance hépatique",
+            "Obstruction biliaire"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Quelles interventions chirurgicales sont mentionnées selon la localisation ?",
+          "options": [
+            "Duodénopancréatectomie céphalique",
+            "Hépatectomie partielle",
+            "Résection biliaire",
+            "Thyroïdectomie systématique"
+          ],
+          "explanation": "A Duodénopancréatectomie céphalique ; B Hépatectomie partielle ; C Résection biliaire. Le geste dépend de l’implantation tumorale.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 33.",
+          "answers": [
+            "Duodénopancréatectomie céphalique",
+            "Hépatectomie partielle",
+            "Résection biliaire"
+          ],
+          "correct": [
+            "Duodénopancréatectomie céphalique",
+            "Hépatectomie partielle",
+            "Résection biliaire"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Quel traitement vise notamment à améliorer l’écoulement biliaire sans enlever toute la tumeur ?",
+          "options": [
+            "Drainage avec endoprothèse",
+            "Lactulose seul",
+            "IPP seul",
+            "Substitution enzymatique seule"
+          ],
+          "explanation": "A Drainage avec endoprothèse. Le drainage figure dans les options palliatives.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 33.",
+          "answers": [
+            "Drainage avec endoprothèse"
+          ],
+          "correct": [
+            "Drainage avec endoprothèse"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quels éléments surveiller particulièrement ?",
+          "options": [
+            "Ictère",
+            "État nutritionnel",
+            "Uniquement l’acuité visuelle",
+            "Prurit"
+          ],
+          "explanation": "A Ictère ; B État nutritionnel ; D Prurit. La douleur et les suites opératoires sont aussi surveillées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 33.",
+          "answers": [
+            "Ictère",
+            "État nutritionnel",
+            "Prurit"
+          ],
+          "correct": [
+            "Ictère",
+            "État nutritionnel",
+            "Prurit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-08",
+      "title": "Sujet 8 — Pancréatite aiguë",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "La pancréatite aiguë implique une activation prématurée d’enzymes dans le pancréas.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Cette activation participe à l’autodigestion.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 34 et 35.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "Le pancréas possède uniquement une fonction endocrine.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Il a aussi une fonction exocrine digestive.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 34 et 35.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "La lipase est une enzyme digestive produite par le pancréas.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle figure parmi les sécrétions exocrines.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 35.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "L’insuline fait partie des hormones pancréatiques.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle relève de la fonction endocrine.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 35.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "La lithiase biliaire est une cause majeure de pancréatite aiguë.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le calcul peut obstruer la région ampullaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 35.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "L’alcool est sans lien avec la pancréatite aiguë.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Il constitue l’autre grande cause décrite.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 35.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "Une hypertriglycéridémie peut être en cause.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle figure parmi les causes métaboliques citées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 35.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "Une CPRE peut exceptionnellement être suivie d’une pancréatite aiguë.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle est citée parmi les causes possibles.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 35.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "La douleur typique est épigastrique et peut irradier dans le dos.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours décrit une douleur en barre ou transfixiante.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 36.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "Les vomissements sont incompatibles avec une pancréatite aiguë.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Ils font partie des troubles digestifs possibles.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 36.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "Une hypotension peut annoncer une forme grave.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle peut accompagner une défaillance circulatoire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 36.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "Une détresse respiratoire peut compliquer la pancréatite aiguë.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Les formes graves peuvent devenir multiviscérales.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 36 et 37.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "Une lipase supérieure à trois fois la normale est fortement évocatrice dans le contexte adapté.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ce seuil est indiqué dans le cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 36.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "La glycémie et la fonction rénale sont inutiles à surveiller.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elles figurent dans la surveillance biologique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 38.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "Le scanner peut rechercher une nécrose pancréatique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il participe à l’évaluation des lésions et de la gravité.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 37.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "La forme nécrosante est décrite comme une forme grave.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle comporte une nécrose tissulaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 37.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "Un pseudokyste est une complication locale possible.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il figure parmi les complications pancréatiques.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 37.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "Le cours recommande des antibiotiques pour toute pancréatite, même non infectée.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Il les réserve aux infections documentées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 37.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "Le traitement de la cause est une composante de la prise en charge.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours évoque notamment l’origine biliaire et l’alcool.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 38.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "La surveillance des perfusions relève du rôle infirmier.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle accompagne le suivi clinique et biologique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 38.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Quels éléments appartiennent à la fonction exocrine du pancréas ?",
+          "options": [
+            "Amylase",
+            "Insuline",
+            "Lipase",
+            "Trypsine"
+          ],
+          "explanation": "A Amylase ; C Lipase ; D Trypsine. Amylase, lipase et trypsine sont des enzymes digestives.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 35.",
+          "answers": [
+            "Amylase",
+            "Lipase",
+            "Trypsine"
+          ],
+          "correct": [
+            "Amylase",
+            "Lipase",
+            "Trypsine"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Quelles causes de pancréatite aiguë sont citées ?",
+          "options": [
+            "Lithiase biliaire",
+            "Alcool",
+            "Carence isolée en facteur intrinsèque",
+            "Hypercalcémie"
+          ],
+          "explanation": "A Lithiase biliaire ; B Alcool ; D Hypercalcémie. Le cours décrit ces étiologies possibles.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 35.",
+          "answers": [
+            "Lithiase biliaire",
+            "Alcool",
+            "Hypercalcémie"
+          ],
+          "correct": [
+            "Lithiase biliaire",
+            "Alcool",
+            "Hypercalcémie"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quelle douleur est la plus évocatrice dans ce chapitre ?",
+          "options": [
+            "Épigastrique intense irradiant au dos",
+            "Douleur uniquement anale",
+            "Douleur exclusivement à la déglutition",
+            "Douleur dentaire isolée"
+          ],
+          "explanation": "A Épigastrique intense irradiant au dos. La douleur épigastrique transfixiante est mise en avant.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 36.",
+          "answers": [
+            "Épigastrique intense irradiant au dos"
+          ],
+          "correct": [
+            "Épigastrique intense irradiant au dos"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quels signes orientent vers la gravité ?",
+          "options": [
+            "Hypotension",
+            "Détresse respiratoire",
+            "Choc",
+            "Pyrosis isolé ancien"
+          ],
+          "explanation": "A Hypotension ; B Détresse respiratoire ; C Choc. Ils traduisent un retentissement systémique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 36.",
+          "answers": [
+            "Hypotension",
+            "Détresse respiratoire",
+            "Choc"
+          ],
+          "correct": [
+            "Hypotension",
+            "Détresse respiratoire",
+            "Choc"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quel dosage est l’examen biologique de référence cité ?",
+          "options": [
+            "TSH",
+            "Lipase",
+            "Vitamine B12",
+            "Troponine"
+          ],
+          "explanation": "B Lipase. La lipasémie est au premier plan du diagnostic biologique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 36.",
+          "answers": [
+            "Lipase"
+          ],
+          "correct": [
+            "Lipase"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quel objectif correspond au scanner abdominal ?",
+          "options": [
+            "Rechercher lésions et nécrose",
+            "Mesurer le reflux acide",
+            "Compter directement les selles",
+            "Étudier la motricité œsophagienne"
+          ],
+          "explanation": "A Rechercher lésions et nécrose. L’imagerie précise les lésions pancréatiques.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 37.",
+          "answers": [
+            "Rechercher lésions et nécrose"
+          ],
+          "correct": [
+            "Rechercher lésions et nécrose"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quelles complications locales sont citées ?",
+          "options": [
+            "Abcès",
+            "Nécrose",
+            "Pseudokyste",
+            "RCH nouvellement obligatoire"
+          ],
+          "explanation": "A Abcès ; B Nécrose ; C Pseudokyste. Elles surviennent au niveau ou autour du pancréas.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 37.",
+          "answers": [
+            "Abcès",
+            "Nécrose",
+            "Pseudokyste"
+          ],
+          "correct": [
+            "Abcès",
+            "Nécrose",
+            "Pseudokyste"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Quelles complications générales sont possibles ?",
+          "options": [
+            "Défaillance multiviscérale",
+            "Insuffisance rénale aiguë",
+            "Guérison constante sans surveillance",
+            "Choc hypovolémique"
+          ],
+          "explanation": "A Défaillance multiviscérale ; B Insuffisance rénale aiguë ; D Choc hypovolémique. Ces complications peuvent engager le pronostic vital.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 37.",
+          "answers": [
+            "Défaillance multiviscérale",
+            "Insuffisance rénale aiguë",
+            "Choc hypovolémique"
+          ],
+          "correct": [
+            "Défaillance multiviscérale",
+            "Insuffisance rénale aiguë",
+            "Choc hypovolémique"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Dans quel contexte les antibiotiques sont ils indiqués selon le cours ?",
+          "options": [
+            "Toute douleur sans évaluation",
+            "Tout pyrosis isolé",
+            "Infection documentée",
+            "Toute lipase normale"
+          ],
+          "explanation": "C Infection documentée. L’antibiothérapie n’est pas systématique dans une inflammation non infectée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 37.",
+          "answers": [
+            "Infection documentée"
+          ],
+          "correct": [
+            "Infection documentée"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quels paramètres sont surveillés par l’infirmier ?",
+          "options": [
+            "PA et pouls",
+            "Fréquence respiratoire",
+            "Uniquement le transit une fois par mois",
+            "Douleur et température"
+          ],
+          "explanation": "A PA et pouls ; B Fréquence respiratoire ; D Douleur et température. La surveillance doit être rigoureuse et continue.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 38.",
+          "answers": [
+            "PA et pouls",
+            "Fréquence respiratoire",
+            "Douleur et température"
+          ],
+          "correct": [
+            "PA et pouls",
+            "Fréquence respiratoire",
+            "Douleur et température"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-09",
+      "title": "Sujet 9 — Pancréatite chronique",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "La pancréatite chronique entraîne une destruction progressive du pancréas.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La fibrose s’accompagne d’une perte fonctionnelle.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 39.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "Les lésions de pancréatite chronique sont décrites comme totalement réversibles.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Le cours les présente comme irréversibles.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 39.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "L’alcoolisme chronique est une cause majeure chez l’adulte.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il est présenté comme la cause la plus fréquente.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 39.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "La mucoviscidose est une cause génétique citée.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Les causes héréditaires font partie des étiologies.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 39.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "Une obstruction canalaire peut contribuer à une pancréatite chronique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Sténoses et tumeurs sont citées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 39.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "La fibrose pancréatique peut s’accompagner de calcifications.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ces modifications sont décrites dans la physiopathologie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "L’insuffisance exocrine peut provoquer une maldigestion.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Les enzymes digestives deviennent insuffisantes.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "La stéatorrhée correspond à un excès de graisses dans les selles.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Les selles peuvent être abondantes et luisantes.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "La destruction endocrine peut provoquer un diabète.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. L’atteinte des cellules productrices d’insuline y participe.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "L’amaigrissement exclut une pancréatite chronique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Il peut accompagner maldigestion et dénutrition.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "La lipase est obligatoirement très élevée dans toute pancréatite chronique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle peut être normale.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "L’HbA1c peut être utile dans l’évaluation métabolique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle complète notamment la glycémie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "Le scanner peut montrer une atrophie pancréatique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il peut aussi montrer calcifications et dilatation canalaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 41.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "L’écho endoscopie est citée pour les formes débutantes.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours la présente comme très sensible dans ce contexte.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 41.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "Une compression biliaire est une complication possible.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle figure parmi les complications digestives.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 41.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "Le risque de cancer pancréatique n’est jamais augmenté.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Le cours mentionne un risque accru.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 41.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "Les enzymes pancréatiques peuvent substituer l’insuffisance exocrine.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elles compensent le déficit enzymatique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 41.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "L’insuline peut être prescrite en cas de diabète associé.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle traite le déficit endocrine selon l’indication.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 41.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "Le sevrage alcoolique et tabagique fait partie de l’éducation.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il vise à limiter les facteurs aggravants.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 41 et 42.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "La surveillance du poids est inutile dans une maladie avec maldigestion.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle aide à dépister une dénutrition.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 42.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Quel mécanisme caractérise cette maladie ?",
+          "options": [
+            "Hyperproduction constante d’insuline",
+            "Obstacle isolé du canal cystique",
+            "Fibrose progressive irréversible",
+            "Inflammation exclusivement pharyngée"
+          ],
+          "explanation": "C Fibrose progressive irréversible. La destruction progressive est l’élément central.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 39 et 40.",
+          "answers": [
+            "Fibrose progressive irréversible"
+          ],
+          "correct": [
+            "Fibrose progressive irréversible"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Quel signe traduit surtout l’insuffisance exocrine ?",
+          "options": [
+            "Stéatorrhée",
+            "Ictère isolé",
+            "Hématémèse",
+            "Dysphagie oropharyngée"
+          ],
+          "explanation": "A Stéatorrhée. Les graisses mal digérées sont éliminées dans les selles.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answers": [
+            "Stéatorrhée"
+          ],
+          "correct": [
+            "Stéatorrhée"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quel signe traduit surtout l’insuffisance endocrine ?",
+          "options": [
+            "Méléna",
+            "Signe de Murphy",
+            "Pyrosis",
+            "Diabète"
+          ],
+          "explanation": "D Diabète. La destruction endocrine réduit notamment la sécrétion d’insuline.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answers": [
+            "Diabète"
+          ],
+          "correct": [
+            "Diabète"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quels examens biologiques sont cités ?",
+          "options": [
+            "Bilan nutritionnel",
+            "pH métrie sanguine comme seul test",
+            "Glycémie",
+            "HbA1c"
+          ],
+          "explanation": "A Bilan nutritionnel ; C Glycémie ; D HbA1c. Ils évaluent le retentissement métabolique et nutritionnel.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answers": [
+            "Bilan nutritionnel",
+            "Glycémie",
+            "HbA1c"
+          ],
+          "correct": [
+            "Bilan nutritionnel",
+            "Glycémie",
+            "HbA1c"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quelles anomalies sont recherchées au scanner ?",
+          "options": [
+            "Calcifications",
+            "Ulcérations rectales exclusivement",
+            "Dilatation canalaire",
+            "Atrophie"
+          ],
+          "explanation": "A Calcifications ; C Dilatation canalaire ; D Atrophie. Ces anomalies peuvent témoigner d’une atteinte chronique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 41.",
+          "answers": [
+            "Calcifications",
+            "Dilatation canalaire",
+            "Atrophie"
+          ],
+          "correct": [
+            "Calcifications",
+            "Dilatation canalaire",
+            "Atrophie"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quelles complications sont décrites ?",
+          "options": [
+            "Pseudokyste",
+            "Dénutrition",
+            "Obstruction duodénale",
+            "Achalasie obligatoire"
+          ],
+          "explanation": "A Pseudokyste ; B Dénutrition ; C Obstruction duodénale. Le chapitre décrit des complications digestives et métaboliques.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 41.",
+          "answers": [
+            "Pseudokyste",
+            "Dénutrition",
+            "Obstruction duodénale"
+          ],
+          "correct": [
+            "Pseudokyste",
+            "Dénutrition",
+            "Obstruction duodénale"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quel traitement compense le déficit digestif exocrine ?",
+          "options": [
+            "IPP seul",
+            "Vitamine K seule",
+            "Enzymes pancréatiques",
+            "Insuline seule"
+          ],
+          "explanation": "C Enzymes pancréatiques. La substitution enzymatique vise la maldigestion.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 41.",
+          "answers": [
+            "Enzymes pancréatiques"
+          ],
+          "correct": [
+            "Enzymes pancréatiques"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Quelles situations peuvent faire discuter une chirurgie ?",
+          "options": [
+            "Complications obstructives",
+            "Douleurs rebelles",
+            "Simple antécédent de tabagisme",
+            "Toute lipase normale isolée"
+          ],
+          "explanation": "A Complications obstructives ; B Douleurs rebelles. Les indications citées sont les douleurs résistantes et les complications.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 42.",
+          "answers": [
+            "Complications obstructives",
+            "Douleurs rebelles"
+          ],
+          "correct": [
+            "Complications obstructives",
+            "Douleurs rebelles"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Quels éléments relèvent du suivi infirmier ?",
+          "options": [
+            "Douleur",
+            "Poids",
+            "Glycémie",
+            "Uniquement le signe de Murphy"
+          ],
+          "explanation": "A Douleur ; B Poids ; C Glycémie. La surveillance associe nutrition, douleur et métabolisme.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 42.",
+          "answers": [
+            "Douleur",
+            "Poids",
+            "Glycémie"
+          ],
+          "correct": [
+            "Douleur",
+            "Poids",
+            "Glycémie"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quelle comparaison correspond au tableau du cours ?",
+          "options": [
+            "Aiguë toujours sans complication",
+            "Chronique toujours brutale",
+            "Aiguë souvent réversible et chronique irréversible",
+            "Chronique sans déficit fonctionnel"
+          ],
+          "explanation": "C Aiguë souvent réversible et chronique irréversible. L’évolution distingue les deux formes.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 43.",
+          "answers": [
+            "Aiguë souvent réversible et chronique irréversible"
+          ],
+          "correct": [
+            "Aiguë souvent réversible et chronique irréversible"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-10",
+      "title": "Sujet 10 — Hémorragies digestives hautes et basses",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "Une hémorragie digestive provient du tube digestif.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle correspond à une perte sanguine digestive.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 44.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "Le repère anatomique haut ou bas utilisé dans le cours est l’angle de Treitz.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La classification repose sur la situation par rapport à cet angle.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 44 et 45.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "Une hémorragie digestive haute siège en aval de l’angle de Treitz.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle siège en amont.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 44.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "L’ulcère gastro duodénal peut provoquer une hémorragie haute.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. C’est une cause citée dans le chapitre.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 44.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "Une rupture de varices œsophagiennes peut saigner dans le tube digestif.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle constitue une cause d’hémorragie haute.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 44.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "L’hématémèse désigne un vomissement de sang.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le sang peut être rouge ou noirâtre.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 44.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "Le méléna correspond à des selles noires goudronneuses.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours les décrit aussi comme malodorantes.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "La rectorragie désigne exclusivement un vomissement sanglant.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle désigne une émission de sang rouge par l’anus.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "Les hémorroïdes figurent parmi les causes de saignement bas.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours cite aussi diverticulose et cancer colorectal.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "Une RCH peut être responsable de saignement digestif bas.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle est citée avec la maladie de Crohn.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "Une tachycardie peut signaler la gravité d’une hémorragie.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle doit être interprétée avec les autres signes circulatoires.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "L’oligurie est rassurante pendant une hémorragie abondante.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle peut traduire une hypoperfusion.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "Sueurs froides et troubles de conscience sont des signes d’alerte.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils figurent parmi les signes de gravité.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "L’interrogatoire recherche la prise d’AINS et d’anticoagulants.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils sont des médicaments importants à identifier.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "La FOGD peut avoir un rôle diagnostique et thérapeutique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. L’endoscopie peut permettre une hémostase.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 46 et 47.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "Le groupe sanguin et le Rhésus sont sans intérêt devant une hémorragie grave.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Ils participent à la préparation d’une éventuelle transfusion.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "Deux voies veineuses périphériques de gros calibre sont citées dans la prise en charge.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elles permettent notamment les traitements prescrits.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 46.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "Les IPP sont cités dans le traitement d’une hémorragie ulcéreuse.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils peuvent être associés à l’hémostase endoscopique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 46.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "La surveillance doit s’arrêter dès le premier traitement reçu.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle reste nécessaire pendant toute la phase aiguë.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 47.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "Une récidive de saignement doit conduire à une réévaluation rapide.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. L’éducation insiste sur la consultation en cas de récidive.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 47.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Quelle manifestation correspond à une hématémèse ?",
+          "options": [
+            "Vomissement de sang",
+            "Difficulté à avaler",
+            "Accumulation de liquide péritonéal",
+            "Selles graisseuses"
+          ],
+          "explanation": "A Vomissement de sang. L’hématémèse se manifeste par la bouche lors d’un vomissement.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 44.",
+          "answers": [
+            "Vomissement de sang"
+          ],
+          "correct": [
+            "Vomissement de sang"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Quelle description correspond au méléna ?",
+          "options": [
+            "Vomissement bilieux simple",
+            "Selles uniquement grasses",
+            "Urines rouges",
+            "Selles noires goudronneuses"
+          ],
+          "explanation": "D Selles noires goudronneuses. Il correspond à l’élimination de sang digéré.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answers": [
+            "Selles noires goudronneuses"
+          ],
+          "correct": [
+            "Selles noires goudronneuses"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quelles causes d’hémorragie haute sont citées ?",
+          "options": [
+            "Hémorroïdes",
+            "Ulcère gastro duodénal",
+            "Varices œsophagiennes",
+            "Gastrite érosive"
+          ],
+          "explanation": "B Ulcère gastro duodénal ; C Varices œsophagiennes ; D Gastrite érosive. Les hémorroïdes appartiennent aux causes basses du cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 44 et 45.",
+          "answers": [
+            "Ulcère gastro duodénal",
+            "Varices œsophagiennes",
+            "Gastrite érosive"
+          ],
+          "correct": [
+            "Ulcère gastro duodénal",
+            "Varices œsophagiennes",
+            "Gastrite érosive"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quelles causes d’hémorragie basse sont citées ?",
+          "options": [
+            "Cancer colorectal",
+            "RCH",
+            "Œsophagite isolée",
+            "Diverticulose"
+          ],
+          "explanation": "A Cancer colorectal ; B RCH ; D Diverticulose. Elles se situent en aval du repère utilisé.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answers": [
+            "Cancer colorectal",
+            "RCH",
+            "Diverticulose"
+          ],
+          "correct": [
+            "Cancer colorectal",
+            "RCH",
+            "Diverticulose"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quels signes doivent alerter sur une mauvaise tolérance circulatoire ?",
+          "options": [
+            "Oligurie",
+            "Hypotension",
+            "Tachycardie",
+            "Simple prurit ancien isolé"
+          ],
+          "explanation": "A Oligurie ; B Hypotension ; C Tachycardie. Ils peuvent traduire un retentissement hémodynamique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answers": [
+            "Oligurie",
+            "Hypotension",
+            "Tachycardie"
+          ],
+          "correct": [
+            "Oligurie",
+            "Hypotension",
+            "Tachycardie"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quels examens biologiques sont cités ?",
+          "options": [
+            "TP ou INR",
+            "Groupe et Rhésus",
+            "Test respiratoire à l’urée comme bilan principal",
+            "NFS"
+          ],
+          "explanation": "A TP ou INR ; B Groupe et Rhésus ; D NFS. Ils évaluent notamment anémie, compatibilité et coagulation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answers": [
+            "TP ou INR",
+            "Groupe et Rhésus",
+            "NFS"
+          ],
+          "correct": [
+            "TP ou INR",
+            "Groupe et Rhésus",
+            "NFS"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quel examen est la référence citée pour les hémorragies hautes ?",
+          "options": [
+            "Coloscopie exclusivement",
+            "FOGD",
+            "Manométrie",
+            "Cholangio IRM"
+          ],
+          "explanation": "B FOGD. La FOGD explore l’œsophage, l’estomac et le duodénum.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 46.",
+          "answers": [
+            "FOGD"
+          ],
+          "correct": [
+            "FOGD"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Quel geste est cité pour les varices œsophagiennes ?",
+          "options": [
+            "Cholécystectomie systématique",
+            "Substitution enzymatique seule",
+            "Ligature endoscopique",
+            "Ponction d’ascite seule"
+          ],
+          "explanation": "C Ligature endoscopique. La ligature appartient au traitement spécifique décrit.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 46.",
+          "answers": [
+            "Ligature endoscopique"
+          ],
+          "correct": [
+            "Ligature endoscopique"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Quels éléments relèvent de la surveillance infirmière ?",
+          "options": [
+            "Uniquement la lipase",
+            "Diurèse",
+            "Évolution du saignement",
+            "PA et pouls"
+          ],
+          "explanation": "B Diurèse ; C Évolution du saignement ; D PA et pouls. Le suivi recherche une dégradation ou une récidive.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 46 et 47.",
+          "answers": [
+            "Diurèse",
+            "Évolution du saignement",
+            "PA et pouls"
+          ],
+          "correct": [
+            "Diurèse",
+            "Évolution du saignement",
+            "PA et pouls"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quel conseil est donné après l’épisode ?",
+          "options": [
+            "Reprendre les AINS en automédication",
+            "Signaler rapidement tout nouveau saignement",
+            "Ignorer une nouvelle hématémèse",
+            "Supprimer les contrôles"
+          ],
+          "explanation": "B Signaler rapidement tout nouveau saignement. La surveillance des récidives fait partie de l’éducation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 47.",
+          "answers": [
+            "Signaler rapidement tout nouveau saignement"
+          ],
+          "correct": [
+            "Signaler rapidement tout nouveau saignement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-11",
+      "title": "Sujet 11 — Ascite et ses complications",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "L’ascite est une accumulation pathologique de liquide dans la cavité péritonéale.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle ne correspond pas à un liquide pleural.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 48.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "La cirrhose est une cause majeure d’ascite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. C’est la cause principale retenue dans le cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 48.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "Une insuffisance cardiaque droite peut être une cause d’ascite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Les causes cardiaques sont explicitement citées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 48.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "Le syndrome néphrotique est une cause rénale possible.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il figure parmi les étiologies.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 48.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "Une carcinose péritonéale peut s’accompagner d’ascite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Les causes tumorales sont présentées.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 48.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "La tuberculose péritonéale est exclue des causes d’ascite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle est citée parmi les causes infectieuses.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 48.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "L’hypertension portale participe à l’ascite de la cirrhose.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle s’associe à la rétention hydrosodée et à l’hypoalbuminémie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 48.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "La rétention de sodium et d’eau peut favoriser l’ascite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle contribue à l’accumulation de liquide.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 48 et 49.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "Une ascite ne peut jamais gêner la respiration.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Une dyspnée peut accompagner la distension abdominale.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 49.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "La matité déclive est un signe physique cité.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle est décrite avec l’onde ascitique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 49.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "Une éversion ombilicale peut accompagner une ascite abondante.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle fait partie des signes physiques présentés.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 49.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "L’échographie peut confirmer la présence de liquide.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle contribue aussi à en apprécier la quantité.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 49.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "La ponction d’ascite ne permet aucune analyse du liquide.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle permet notamment biochimie, cytologie et bactériologie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 49.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "Une péritonite bactérienne spontanée peut compliquer l’ascite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. C’est la complication infectieuse majeure présentée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 49 et 50.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "Fièvre et douleur abdominale chez un patient ascitique doivent alerter.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elles peuvent évoquer une infection du liquide.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 49.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "Le syndrome hépatorénal est une complication grave citée.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il correspond à une insuffisance rénale fonctionnelle sévère.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 49.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "La restriction hydrique est systématique chez tous les patients selon le cours.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Le cours précise « si nécessaire ».",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 50.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "La spironolactone et le furosémide sont cités comme traitements.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ce sont les diurétiques mentionnés.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 50.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "Le poids quotidien fait partie de la surveillance.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il complète périmètre abdominal et diurèse.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 50.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "La surveillance après ponction d’ascite est inutile.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle est explicitement prévue dans les soins.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 50.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Où le liquide d’ascite s’accumule t il ?",
+          "options": [
+            "Lumière œsophagienne",
+            "Cavité pleurale uniquement",
+            "Canal pancréatique uniquement",
+            "Cavité péritonéale"
+          ],
+          "explanation": "D Cavité péritonéale. L’ascite est un épanchement péritonéal.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 48.",
+          "answers": [
+            "Cavité péritonéale"
+          ],
+          "correct": [
+            "Cavité péritonéale"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Quelles étiologies sont citées ?",
+          "options": [
+            "Œsophagite superficielle isolée",
+            "Carcinose péritonéale",
+            "Insuffisance cardiaque droite",
+            "Cirrhose"
+          ],
+          "explanation": "B Carcinose péritonéale ; C Insuffisance cardiaque droite ; D Cirrhose. Le cours présente des causes hépatiques et extra hépatiques.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 48.",
+          "answers": [
+            "Carcinose péritonéale",
+            "Insuffisance cardiaque droite",
+            "Cirrhose"
+          ],
+          "correct": [
+            "Carcinose péritonéale",
+            "Insuffisance cardiaque droite",
+            "Cirrhose"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quels mécanismes participent à l’ascite cirrhotique ?",
+          "options": [
+            "Hypoalbuminémie",
+            "Excès de facteur intrinsèque",
+            "Rétention hydrosodée",
+            "Hypertension portale"
+          ],
+          "explanation": "A Hypoalbuminémie ; C Rétention hydrosodée ; D Hypertension portale. Ils favorisent l’accumulation péritonéale de liquide.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 48 et 49.",
+          "answers": [
+            "Hypoalbuminémie",
+            "Rétention hydrosodée",
+            "Hypertension portale"
+          ],
+          "correct": [
+            "Hypoalbuminémie",
+            "Rétention hydrosodée",
+            "Hypertension portale"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quels signes physiques sont décrits ?",
+          "options": [
+            "Signe de Murphy obligatoire",
+            "Distension abdominale",
+            "Onde ascitique",
+            "Matité déclive"
+          ],
+          "explanation": "B Distension abdominale ; C Onde ascitique ; D Matité déclive. Ces signes orientent vers un épanchement liquidien.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 49.",
+          "answers": [
+            "Distension abdominale",
+            "Onde ascitique",
+            "Matité déclive"
+          ],
+          "correct": [
+            "Distension abdominale",
+            "Onde ascitique",
+            "Matité déclive"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quelles analyses sont possibles après ponction ?",
+          "options": [
+            "Bactériologie",
+            "Cytologie",
+            "Manométrie œsophagienne sur le liquide",
+            "Biochimie"
+          ],
+          "explanation": "A Bactériologie ; B Cytologie ; D Biochimie. Le liquide prélevé est analysé en laboratoire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 49.",
+          "answers": [
+            "Bactériologie",
+            "Cytologie",
+            "Biochimie"
+          ],
+          "correct": [
+            "Bactériologie",
+            "Cytologie",
+            "Biochimie"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quelle association fait rechercher une péritonite bactérienne spontanée ?",
+          "options": [
+            "Dysphagie ancienne isolée",
+            "Fièvre et douleur abdominale",
+            "Pyrosis isolé sans fièvre",
+            "Stéatorrhée isolée stable"
+          ],
+          "explanation": "B Fièvre et douleur abdominale. Ces signes sont cités pour la complication infectieuse.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 49.",
+          "answers": [
+            "Fièvre et douleur abdominale"
+          ],
+          "correct": [
+            "Fièvre et douleur abdominale"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quels médicaments sont cités dans le traitement ?",
+          "options": [
+            "Aspirine systématique",
+            "Furosémide",
+            "Spironolactone",
+            "Insuline obligatoire pour toute ascite"
+          ],
+          "explanation": "B Furosémide ; C Spironolactone. Le cours mentionne ces deux diurétiques.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 50.",
+          "answers": [
+            "Furosémide",
+            "Spironolactone"
+          ],
+          "correct": [
+            "Furosémide",
+            "Spironolactone"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Dans quelle situation une ponction évacuatrice est elle citée ?",
+          "options": [
+            "Gastrite sans épanchement",
+            "Ascite abondante",
+            "Simple reflux acide",
+            "Toute diarrhée isolée"
+          ],
+          "explanation": "B Ascite abondante. Elle permet d’évacuer un volume liquidien important.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 50.",
+          "answers": [
+            "Ascite abondante"
+          ],
+          "correct": [
+            "Ascite abondante"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Quels paramètres suivre régulièrement ?",
+          "options": [
+            "Poids",
+            "Diurèse",
+            "Uniquement l’acidité gastrique",
+            "Périmètre abdominal"
+          ],
+          "explanation": "A Poids ; B Diurèse ; D Périmètre abdominal. Ils renseignent sur l’évolution de la rétention liquidienne.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 50.",
+          "answers": [
+            "Poids",
+            "Diurèse",
+            "Périmètre abdominal"
+          ],
+          "correct": [
+            "Poids",
+            "Diurèse",
+            "Périmètre abdominal"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quel conseil éducatif est adapté ?",
+          "options": [
+            "Augmenter systématiquement le sel",
+            "Arrêter seul les traitements",
+            "Supprimer toute surveillance après ponction",
+            "Respecter le régime pauvre en sel prescrit"
+          ],
+          "explanation": "D Respecter le régime pauvre en sel prescrit. Le régime et l’observance figurent dans l’éducation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 50.",
+          "answers": [
+            "Respecter le régime pauvre en sel prescrit"
+          ],
+          "correct": [
+            "Respecter le régime pauvre en sel prescrit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-12",
+      "title": "Sujet 12 — Prise en charge des urgences hépato digestives",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "Une urgence hépato digestive nécessite une prise en charge rapide.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle peut engager le pronostic vital.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 51.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "L’occlusion intestinale aiguë figure parmi les urgences digestives.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours cite aussi péritonite et perforation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 51.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "La rupture de varices œsophagiennes est une urgence potentielle.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle expose à un saignement grave.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 51.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "Une angiocholite ne relève jamais d’une prise en charge urgente.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle figure parmi les urgences biliaires.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 51.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "Une pancréatite aiguë grave peut relever de la réanimation.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle peut entraîner des défaillances d’organes.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52 et 53.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "La lettre A de l’évaluation ABCDE concerne les voies aériennes.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Airway signifie évaluer leur liberté.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "La lettre B de l’ABCDE concerne la respiration.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle comprend notamment l’évaluation de l’oxygénation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "La lettre C concerne uniquement la conscience.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. C correspond à la circulation ; D à l’état neurologique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "Le score de Glasgow peut participer à l’évaluation neurologique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il est cité dans l’étape D.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "L’étape E correspond à un examen complet du patient.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Exposure complète l’évaluation initiale.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "Hypotension et tachycardie peuvent être des signes de gravité.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils peuvent révéler un retentissement circulatoire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "Une confusion nouvelle est un signe qu’il faut ignorer.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle peut annoncer une urgence neurologique ou systémique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "Une désaturation est un signe respiratoire préoccupant.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle figure parmi les signes de gravité.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "Le monitoring participe à la mise en condition initiale.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il aide à suivre l’évolution clinique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "La fonction rénale peut faire partie du bilan d’urgence.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle est citée avec le bilan hépatique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 53.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "Le remplissage vise notamment à restaurer la volémie lorsqu’il est indiqué.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. C’est un objectif de la réanimation initiale.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 53.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "La réanimation initiale vise à favoriser la défaillance multiviscérale.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle cherche à la prévenir.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 53.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "La surveillance des produits sanguins relève du rôle infirmier.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle figure dans le suivi des traitements.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 53.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "La prévention des escarres et de la dénutrition est citée.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle fait partie de la prévention des complications.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 53.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "L’information de la famille est toujours exclue de l’accompagnement.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Le cours la prévoit avec celle du patient.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 54.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Quelles situations figurent parmi les urgences digestives ?",
+          "options": [
+            "Perforation digestive",
+            "Péritonite",
+            "Gastrite asymptomatique stable uniquement",
+            "Occlusion aiguë"
+          ],
+          "explanation": "A Perforation digestive ; B Péritonite ; D Occlusion aiguë. Ces situations nécessitent une évaluation rapide.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 51.",
+          "answers": [
+            "Perforation digestive",
+            "Péritonite",
+            "Occlusion aiguë"
+          ],
+          "correct": [
+            "Perforation digestive",
+            "Péritonite",
+            "Occlusion aiguë"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "À quelle étape de l’ABCDE évalue t on les voies aériennes ?",
+          "options": [
+            "B",
+            "E",
+            "A",
+            "C"
+          ],
+          "explanation": "C A. A correspond à Airway.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answers": [
+            "A"
+          ],
+          "correct": [
+            "A"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quelle étape examine respiration et saturation ?",
+          "options": [
+            "D",
+            "C",
+            "E",
+            "B"
+          ],
+          "explanation": "D B. B correspond à Breathing.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answers": [
+            "B"
+          ],
+          "correct": [
+            "B"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quels paramètres relèvent principalement de C ?",
+          "options": [
+            "Motricité œsophagienne",
+            "Coloration cutanée",
+            "Pouls",
+            "Pression artérielle"
+          ],
+          "explanation": "B Coloration cutanée ; C Pouls ; D Pression artérielle. Ils participent à l’évaluation circulatoire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answers": [
+            "Coloration cutanée",
+            "Pouls",
+            "Pression artérielle"
+          ],
+          "correct": [
+            "Coloration cutanée",
+            "Pouls",
+            "Pression artérielle"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quels signes indiquent une possible gravité neurologique ?",
+          "options": [
+            "Agitation",
+            "Prurit isolé chronique",
+            "Confusion",
+            "Coma"
+          ],
+          "explanation": "A Agitation ; C Confusion ; D Coma. Ils justifient une réévaluation immédiate.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answers": [
+            "Agitation",
+            "Confusion",
+            "Coma"
+          ],
+          "correct": [
+            "Agitation",
+            "Confusion",
+            "Coma"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quels examens sont cités dans le bilan initial ?",
+          "options": [
+            "Groupe sanguin",
+            "Ionogramme",
+            "NFS",
+            "Audiométrie systématique"
+          ],
+          "explanation": "A Groupe sanguin ; B Ionogramme ; C NFS. Le bilan s’adapte à la situation et aux prescriptions.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answers": [
+            "Groupe sanguin",
+            "Ionogramme",
+            "NFS"
+          ],
+          "correct": [
+            "Groupe sanguin",
+            "Ionogramme",
+            "NFS"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quels sont les objectifs de la réanimation initiale ?",
+          "options": [
+            "Prévenir les défaillances",
+            "Retarder volontairement l’évaluation",
+            "Restaurer la volémie",
+            "Maintenir l’oxygénation"
+          ],
+          "explanation": "A Prévenir les défaillances ; C Restaurer la volémie ; D Maintenir l’oxygénation. La prise en charge cherche à préserver les fonctions vitales.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 53.",
+          "answers": [
+            "Prévenir les défaillances",
+            "Restaurer la volémie",
+            "Maintenir l’oxygénation"
+          ],
+          "correct": [
+            "Prévenir les défaillances",
+            "Restaurer la volémie",
+            "Maintenir l’oxygénation"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Quels éléments biologiques sont suivis ?",
+          "options": [
+            "Uniquement l’antigène H. pylori",
+            "Fonction rénale",
+            "Glycémie",
+            "Hémoglobine"
+          ],
+          "explanation": "B Fonction rénale ; C Glycémie ; D Hémoglobine. Le cours mentionne aussi les bilans hépatiques.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 53.",
+          "answers": [
+            "Fonction rénale",
+            "Glycémie",
+            "Hémoglobine"
+          ],
+          "correct": [
+            "Fonction rénale",
+            "Glycémie",
+            "Hémoglobine"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Quelles complications cherche t on à prévenir ?",
+          "options": [
+            "Choc",
+            "Amélioration de la perfusion",
+            "Dénutrition",
+            "Infections"
+          ],
+          "explanation": "A Choc ; C Dénutrition ; D Infections. Les complications évitables font partie du rôle infirmier.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 53.",
+          "answers": [
+            "Choc",
+            "Dénutrition",
+            "Infections"
+          ],
+          "correct": [
+            "Choc",
+            "Dénutrition",
+            "Infections"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quelle conduite d’accompagnement est prévue ?",
+          "options": [
+            "Informer et soutenir le patient et sa famille",
+            "Exclure toute explication",
+            "Supprimer le suivi prescrit",
+            "Encourager l’alcool"
+          ],
+          "explanation": "A Informer et soutenir le patient et sa famille. L’information et le soutien psychologique sont explicitement cités.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 54.",
+          "answers": [
+            "Informer et soutenir le patient et sa famille"
+          ],
+          "correct": [
+            "Informer et soutenir le patient et sa famille"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-13",
+      "title": "Sujet 13 — Préparation et surveillance des examens endoscopiques",
+      "matter": "Hépatogastroentérologie",
+      "description": "30 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcd",
+          "text": "L’endoscopie utilise un appareil muni d’une caméra et d’une source lumineuse.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle permet une visualisation directe de la muqueuse.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 55.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcd",
+          "text": "L’endoscopie digestive peut avoir une fonction thérapeutique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Son rôle ne se limite pas au diagnostic.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 55.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcd",
+          "text": "La FOGD explore l’œsophage, l’estomac et le duodénum.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ce sont les trois segments cités.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 55.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcd",
+          "text": "La rectoscopie explore principalement l’estomac.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle explore le rectum.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 56.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "La coloscopie peut explorer le côlon et l’iléon terminal.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le rectum fait également partie du trajet exploré.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 56.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcd",
+          "text": "Une hématémèse peut justifier une endoscopie haute.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle figure parmi les indications de FOGD.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 56.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "La diarrhée chronique peut être une indication de coloscopie.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours cite aussi rectorragies et dépistage colorectal.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 56.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcd",
+          "text": "Il est inutile de vérifier l’identité avant l’endoscopie.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle fait partie des vérifications préalables.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 56.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcd",
+          "text": "Le consentement éclairé fait partie des vérifications prévues.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il est cité avec la prescription et le dossier.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 56.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "Les allergies doivent être recherchées avant l’examen.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elles font partie de la préparation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 56.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "Les prothèses dentaires amovibles sont laissées systématiquement pour la FOGD.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Le cours prévoit leur retrait.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 56.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "La préparation colique vise à obtenir un côlon propre.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle conditionne la qualité de l’exploration.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 57.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "L’hydratation doit être surveillée pendant la préparation colique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours insiste sur la tolérance digestive et hydrique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 57.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "Le décubitus latéral gauche est une position citée pour l’endoscopie.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle est mentionnée pour FOGD et coloscopie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 57.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcd",
+          "text": "La saturation et la conscience sont surveillées pendant l’examen.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elles complètent pouls et pression artérielle.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 57.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcd",
+          "text": "Après sédation, une somnolence excessive est toujours rassurante.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle peut annoncer une complication de la sédation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 57.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcd",
+          "text": "Une dépression respiratoire peut survenir après sédation.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle justifie une surveillance adaptée.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 57.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "La reprise alimentaire doit suivre les consignes médicales.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle dépend notamment de l’absence de complication.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 57 et 58.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcd",
+          "text": "Un saignement est possible après biopsie ou polypectomie.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Il fait partie des complications à rechercher.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 58.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "La traçabilité des soins est inutile après une endoscopie.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Elle figure dans le rôle infirmier après l’examen.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 59.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Quelle exploration correspond à la FOGD ?",
+          "options": [
+            "Œsophage estomac duodénum",
+            "Côlon uniquement",
+            "Cavité péritonéale uniquement",
+            "Rectum uniquement"
+          ],
+          "explanation": "A Œsophage estomac duodénum. La FOGD explore le haut du tube digestif.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 55.",
+          "answers": [
+            "Œsophage estomac duodénum"
+          ],
+          "correct": [
+            "Œsophage estomac duodénum"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Quelles indications de coloscopie sont citées ?",
+          "options": [
+            "Dépistage colorectal",
+            "Rectorragies",
+            "Dysphagie isolée comme indication principale",
+            "Diarrhée chronique"
+          ],
+          "explanation": "A Dépistage colorectal ; B Rectorragies ; D Diarrhée chronique. Elles concernent l’exploration digestive basse.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 56.",
+          "answers": [
+            "Dépistage colorectal",
+            "Rectorragies",
+            "Diarrhée chronique"
+          ],
+          "correct": [
+            "Dépistage colorectal",
+            "Rectorragies",
+            "Diarrhée chronique"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Quelles vérifications sont prévues avant l’examen ?",
+          "options": [
+            "Identité",
+            "Consentement",
+            "Choix personnel d’une sédation sans prescription",
+            "Prescription"
+          ],
+          "explanation": "A Identité ; B Consentement ; D Prescription. Ces vérifications sécurisent la prise en charge.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 56.",
+          "answers": [
+            "Identité",
+            "Consentement",
+            "Prescription"
+          ],
+          "correct": [
+            "Identité",
+            "Consentement",
+            "Prescription"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "Quelles mesures figurent dans la préparation de FOGD ?",
+          "options": [
+            "Vérification des allergies",
+            "Respect du jeûne prescrit",
+            "Retrait des prothèses dentaires",
+            "Repas solide juste avant"
+          ],
+          "explanation": "A Vérification des allergies ; B Respect du jeûne prescrit ; C Retrait des prothèses dentaires. Ces précautions sont décrites avant l’examen.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 56.",
+          "answers": [
+            "Vérification des allergies",
+            "Respect du jeûne prescrit",
+            "Retrait des prothèses dentaires"
+          ],
+          "correct": [
+            "Vérification des allergies",
+            "Respect du jeûne prescrit",
+            "Retrait des prothèses dentaires"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Quel est l’objectif de la préparation colique ?",
+          "options": [
+            "Évaluer la glycémie seule",
+            "Provoquer une stase biliaire",
+            "Nettoyer le côlon",
+            "Augmenter le saignement"
+          ],
+          "explanation": "C Nettoyer le côlon. Un côlon propre améliore la qualité de visualisation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 57.",
+          "answers": [
+            "Nettoyer le côlon"
+          ],
+          "correct": [
+            "Nettoyer le côlon"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Quels paramètres sont surveillés pendant l’endoscopie ?",
+          "options": [
+            "PA",
+            "SpO2",
+            "Uniquement l’appétit",
+            "Pouls"
+          ],
+          "explanation": "A PA ; B SpO2 ; D Pouls. La conscience est également suivie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 57.",
+          "answers": [
+            "PA",
+            "SpO2",
+            "Pouls"
+          ],
+          "correct": [
+            "PA",
+            "SpO2",
+            "Pouls"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Quelles complications de sédation faut il rechercher ?",
+          "options": [
+            "Dépression respiratoire",
+            "Somnolence excessive",
+            "Hypotension",
+            "Reprise normale de la vigilance comme complication"
+          ],
+          "explanation": "A Dépression respiratoire ; B Somnolence excessive ; C Hypotension. Ces manifestations peuvent nécessiter une intervention.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 57.",
+          "answers": [
+            "Dépression respiratoire",
+            "Somnolence excessive",
+            "Hypotension"
+          ],
+          "correct": [
+            "Dépression respiratoire",
+            "Somnolence excessive",
+            "Hypotension"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Quelles complications majeures sont décrites ?",
+          "options": [
+            "Ballonnement modéré seul classé toujours majeur",
+            "Perforation digestive",
+            "Hémorragie",
+            "Détresse respiratoire"
+          ],
+          "explanation": "B Perforation digestive ; C Hémorragie ; D Détresse respiratoire. Le chapitre distingue complications mineures et majeures.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 58.",
+          "answers": [
+            "Perforation digestive",
+            "Hémorragie",
+            "Détresse respiratoire"
+          ],
+          "correct": [
+            "Perforation digestive",
+            "Hémorragie",
+            "Détresse respiratoire"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcm",
+          "text": "Quels signes doivent être signalés après le retour ?",
+          "options": [
+            "Douleur importante",
+            "Simple oubli d’un nom sans autre symptôme",
+            "Fièvre",
+            "Saignement anormal"
+          ],
+          "explanation": "A Douleur importante ; C Fièvre ; D Saignement anormal. L’éducation insiste sur ces signes d’alerte.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 58.",
+          "answers": [
+            "Douleur importante",
+            "Fièvre",
+            "Saignement anormal"
+          ],
+          "correct": [
+            "Douleur importante",
+            "Fièvre",
+            "Saignement anormal"
+          ]
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Quelle consigne est donnée après une sédation ?",
+          "options": [
+            "Ignorer une somnolence excessive",
+            "Reprendre toute activité sans consigne",
+            "Rentrer systématiquement seul",
+            "Être accompagné au retour"
+          ],
+          "explanation": "D Être accompagné au retour. L’accompagnement est prévu dans l’éducation du patient.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 58.",
+          "answers": [
+            "Être accompagné au retour"
+          ],
+          "correct": [
+            "Être accompagné au retour"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hepato-chapitre-14",
+      "title": "Sujet 14 — Évaluation transversale",
+      "matter": "Hépatogastroentérologie",
+      "description": "60 questions corrigées",
+      "instructions": "QCD : choisir Vrai ou Faux. QCM : choisir toutes les réponses exactes.",
+      "duration": 90,
+      "programmed": true,
+      "openDate": "2026-01-01",
+      "openTime": "00:00",
+      "closeDate": "2030-12-31",
+      "closeTime": "23:59",
+      "marking": {
+        "correct": 1,
+        "wrong": -1,
+        "empty": 0
+      },
+      "filiere": "IDE",
+      "questions": [
+        {
+          "originalNumber": 1,
+          "type": "qcm",
+          "text": "Un scanner met en évidence une nécrose pancréatique. Quelle forme est décrite ?",
+          "options": [
+            "Œsophagite médicamenteuse",
+            "Gastrite chronique simple",
+            "Pancréatite aiguë nécrosante",
+            "RCH isolée"
+          ],
+          "explanation": "C Pancréatite aiguë nécrosante. La nécrose caractérise une forme potentiellement grave.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 37.",
+          "answers": [
+            "Pancréatite aiguë nécrosante"
+          ],
+          "correct": [
+            "Pancréatite aiguë nécrosante"
+          ]
+        },
+        {
+          "originalNumber": 2,
+          "type": "qcm",
+          "text": "Un malade présente douleur de l’hypochondre droit, fièvre avec frissons et ictère. Quel tableau faut il suspecter ?",
+          "options": [
+            "Angiocholite",
+            "Achalasie simple",
+            "Gastrite atrophique isolée",
+            "Hémorroïdes simples"
+          ],
+          "explanation": "A Angiocholite. Cette association correspond à la triade de Charcot.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answers": [
+            "Angiocholite"
+          ],
+          "correct": [
+            "Angiocholite"
+          ]
+        },
+        {
+          "originalNumber": 3,
+          "type": "qcm",
+          "text": "Une douleur sous costale droite provoque un arrêt inspiratoire à la palpation. Quel signe est décrit ?",
+          "options": [
+            "Onde ascitique",
+            "Astérixis",
+            "Ténesme",
+            "Murphy"
+          ],
+          "explanation": "D Murphy. Le signe de Murphy est décrit dans la cholécystite.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 25.",
+          "answers": [
+            "Murphy"
+          ],
+          "correct": [
+            "Murphy"
+          ]
+        },
+        {
+          "originalNumber": 4,
+          "type": "qcm",
+          "text": "Quel ensemble permet le suivi infirmier d’une ascite ?",
+          "options": [
+            "Test respiratoire seul",
+            "Poids, périmètre abdominal et diurèse",
+            "Manométrie seule",
+            "Lipase seule"
+          ],
+          "explanation": "B Poids, périmètre abdominal et diurèse. Ces paramètres suivent la rétention et son évolution.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 50.",
+          "answers": [
+            "Poids, périmètre abdominal et diurèse"
+          ],
+          "correct": [
+            "Poids, périmètre abdominal et diurèse"
+          ]
+        },
+        {
+          "originalNumber": 5,
+          "type": "qcd",
+          "text": "Sans infection documentée, le cours recommande une antibiothérapie systématique de toute pancréatite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Il ne recommande pas d’antibiotiques systématiques hors infection.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 37.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 6,
+          "type": "qcm",
+          "text": "Un malade saigne et présente PA basse, pouls rapide et oligurie. Quel risque faut il rechercher ?",
+          "options": [
+            "Dysphagie bénigne",
+            "Simple reflux sans retentissement",
+            "Diabète nécessairement isolé",
+            "Choc hypovolémique"
+          ],
+          "explanation": "D Choc hypovolémique. Ces signes traduisent une mauvaise tolérance circulatoire possible.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answers": [
+            "Choc hypovolémique"
+          ],
+          "correct": [
+            "Choc hypovolémique"
+          ]
+        },
+        {
+          "originalNumber": 7,
+          "type": "qcd",
+          "text": "Une angiocholite obstructive s’améliore parfois par antibiothérapie et drainage biliaire. Ces deux axes sont complémentaires dans le cours.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils traitent l’infection et son obstacle favorisant.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 29 et 30.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 8,
+          "type": "qcm",
+          "text": "Un calcul migre vers l’ampoule de Vater avant une pancréatite. Quelle origine est évoquée ?",
+          "options": [
+            "Biliaire",
+            "Colique exclusivement",
+            "Neurologique oropharyngée",
+            "Auto immune gastrique exclusivement"
+          ],
+          "explanation": "A Biliaire. L’obstruction ampullaire par un calcul est un mécanisme décrit.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 35.",
+          "answers": [
+            "Biliaire"
+          ],
+          "correct": [
+            "Biliaire"
+          ]
+        },
+        {
+          "originalNumber": 9,
+          "type": "qcm",
+          "text": "Avant une éventuelle transfusion, quels examens sont cités ?",
+          "options": [
+            "Groupe sanguin",
+            "Manométrie comme seul bilan",
+            "Rhésus",
+            "NFS"
+          ],
+          "explanation": "A Groupe sanguin ; C Rhésus ; D NFS. Ils participent à l’évaluation et à la préparation transfusionnelle.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 45.",
+          "answers": [
+            "Groupe sanguin",
+            "Rhésus",
+            "NFS"
+          ],
+          "correct": [
+            "Groupe sanguin",
+            "Rhésus",
+            "NFS"
+          ]
+        },
+        {
+          "originalNumber": 10,
+          "type": "qcd",
+          "text": "Une tumeur biliaire obstructive peut se compliquer d’angiocholite.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. L’infection biliaire figure parmi les complications locales.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 11,
+          "type": "qcd",
+          "text": "Une CPRE peut être utilisée pour extraire un calcul responsable d’obstruction biliaire.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle peut réaliser extraction et drainage.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 29.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 12,
+          "type": "qcd",
+          "text": "La fibroscopie d’un patient permet de voir la muqueuse gastrique et de prélever des biopsies.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La FOGD possède ces deux intérêts diagnostiques.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 10.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 13,
+          "type": "qcd",
+          "text": "Un patient est confus et sa saturation chute. Ces deux signes justifient une réévaluation urgente.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils correspondent à des signes de gravité neurologique et respiratoire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 14,
+          "type": "qcd",
+          "text": "Une patiente atteinte de MICI présente une uvéite. L’atteinte oculaire exclut le lien avec sa maladie digestive.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Des manifestations oculaires extra digestives sont décrites.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 15.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 15,
+          "type": "qcm",
+          "text": "Pendant une préparation colique, le patient tolère mal les laxatifs. Que faut il surveiller dans le cours ?",
+          "options": [
+            "Uniquement la couleur du drain biliaire",
+            "Hydratation et tolérance digestive",
+            "Uniquement la lipase",
+            "Uniquement le réflexe rotulien"
+          ],
+          "explanation": "B Hydratation et tolérance digestive. La préparation peut avoir un retentissement digestif et hydrique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 57.",
+          "answers": [
+            "Hydratation et tolérance digestive"
+          ],
+          "correct": [
+            "Hydratation et tolérance digestive"
+          ]
+        },
+        {
+          "originalNumber": 16,
+          "type": "qcm",
+          "text": "Quelles mesures correspondent au suivi de la pancréatite chronique ?",
+          "options": [
+            "Substitution enzymatique prescrite",
+            "Surveillance glycémique",
+            "Arrêt autonome de toute alimentation",
+            "Soutien au sevrage alcoolique"
+          ],
+          "explanation": "A Substitution enzymatique prescrite ; B Surveillance glycémique ; D Soutien au sevrage alcoolique. Le suivi traite déficits et facteurs de risque.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 41 et 42.",
+          "answers": [
+            "Substitution enzymatique prescrite",
+            "Surveillance glycémique",
+            "Soutien au sevrage alcoolique"
+          ],
+          "correct": [
+            "Substitution enzymatique prescrite",
+            "Surveillance glycémique",
+            "Soutien au sevrage alcoolique"
+          ]
+        },
+        {
+          "originalNumber": 17,
+          "type": "qcm",
+          "text": "Un ictère s’installe progressivement avec prurit et amaigrissement. Quel groupe de maladies faut il notamment rechercher ?",
+          "options": [
+            "RCH obligatoirement",
+            "Œsophagite isolée uniquement",
+            "Tumeurs des voies biliaires",
+            "Dysphagie neurologique seule"
+          ],
+          "explanation": "C Tumeurs des voies biliaires. Le cours décrit ce tableau cholestatique tumoral.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answers": [
+            "Tumeurs des voies biliaires"
+          ],
+          "correct": [
+            "Tumeurs des voies biliaires"
+          ]
+        },
+        {
+          "originalNumber": 18,
+          "type": "qcd",
+          "text": "Chez un patient atteint de tumeur biliaire, nutrition et soutien psychologique sont étrangers au rôle infirmier.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Ils font partie de l’accompagnement prévu.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 33.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 19,
+          "type": "qcm",
+          "text": "À l’accueil d’une urgence digestive, un soignant vérifie d’abord la liberté des voies aériennes. À quelle lettre de l’ABCDE cela correspond il ?",
+          "options": [
+            "D",
+            "C",
+            "B",
+            "A"
+          ],
+          "explanation": "D A. Il s’agit de l’étape Airway.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 52.",
+          "answers": [
+            "A"
+          ],
+          "correct": [
+            "A"
+          ]
+        },
+        {
+          "originalNumber": 20,
+          "type": "qcd",
+          "text": "La restriction hydrique doit être imposée automatiquement à toute ascite, sans indication individuelle.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Le cours ne la prévoit que si nécessaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 50.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 21,
+          "type": "qcm",
+          "text": "Pour suivre une poussée de MICI, quels éléments recueillir ?",
+          "options": [
+            "Fréquence des selles",
+            "Uniquement le périmètre abdominal une fois par an",
+            "Douleur et état nutritionnel",
+            "Présence de sang"
+          ],
+          "explanation": "A Fréquence des selles ; C Douleur et état nutritionnel ; D Présence de sang. Ces informations suivent activité et retentissement de la maladie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 16.",
+          "answers": [
+            "Fréquence des selles",
+            "Douleur et état nutritionnel",
+            "Présence de sang"
+          ],
+          "correct": [
+            "Fréquence des selles",
+            "Douleur et état nutritionnel",
+            "Présence de sang"
+          ]
+        },
+        {
+          "originalNumber": 22,
+          "type": "qcm",
+          "text": "Chez ce patient ascitique, une fièvre et une douleur abdominale apparaissent. Quelle complication doit être recherchée ?",
+          "options": [
+            "Achalasie simple",
+            "RGO non compliqué uniquement",
+            "Gastrite asymptomatique seule",
+            "Péritonite bactérienne spontanée"
+          ],
+          "explanation": "D Péritonite bactérienne spontanée. Ces signes font évoquer une infection du liquide d’ascite.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 49.",
+          "answers": [
+            "Péritonite bactérienne spontanée"
+          ],
+          "correct": [
+            "Péritonite bactérienne spontanée"
+          ]
+        },
+        {
+          "originalNumber": 23,
+          "type": "qcm",
+          "text": "Un patient atteint de pancréatite chronique a une lipase normale. Cela suffit il à exclure sa maladie ?",
+          "options": [
+            "Non",
+            "Oui si le poids baisse",
+            "Oui toujours",
+            "Oui si un diabète est présent"
+          ],
+          "explanation": "A Non. Le cours précise que la lipase peut être normale.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answers": [
+            "Non"
+          ],
+          "correct": [
+            "Non"
+          ]
+        },
+        {
+          "originalNumber": 24,
+          "type": "qcm",
+          "text": "La PA baisse et la diurèse diminue chez un patient infecté des voies biliaires. Quelle complication redouter ?",
+          "options": [
+            "Dysphagie isolée",
+            "Gastrite asymptomatique",
+            "Choc septique avec retentissement rénal",
+            "Simple reflux sans gravité"
+          ],
+          "explanation": "C Choc septique avec retentissement rénal. Choc et insuffisance rénale font partie des complications.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 29 et 30.",
+          "answers": [
+            "Choc septique avec retentissement rénal"
+          ],
+          "correct": [
+            "Choc septique avec retentissement rénal"
+          ]
+        },
+        {
+          "originalNumber": 25,
+          "type": "qcm",
+          "text": "Le patient s’améliore après stabilisation. Quelles actions restent prévues ?",
+          "options": [
+            "Soutien à l’observance",
+            "Information de la famille",
+            "Prévention de la dénutrition",
+            "Suppression de toute traçabilité"
+          ],
+          "explanation": "A Soutien à l’observance ; B Information de la famille ; C Prévention de la dénutrition. L’accompagnement complète la prise en charge aiguë.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 53 et 54.",
+          "answers": [
+            "Soutien à l’observance",
+            "Information de la famille",
+            "Prévention de la dénutrition"
+          ],
+          "correct": [
+            "Soutien à l’observance",
+            "Information de la famille",
+            "Prévention de la dénutrition"
+          ]
+        },
+        {
+          "originalNumber": 26,
+          "type": "qcm",
+          "text": "Un patient vomit du sang rouge. Comment nommer cette manifestation ?",
+          "options": [
+            "Hématémèse",
+            "Stéatorrhée",
+            "Rectorragie",
+            "Pyrosis"
+          ],
+          "explanation": "A Hématémèse. Il s’agit d’un vomissement sanglant.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 44.",
+          "answers": [
+            "Hématémèse"
+          ],
+          "correct": [
+            "Hématémèse"
+          ]
+        },
+        {
+          "originalNumber": 27,
+          "type": "qcm",
+          "text": "Une personne immunodéprimée présente une œsophagite. Quelles causes infectieuses sont citées ?",
+          "options": [
+            "Candida",
+            "Calcul cholédocien",
+            "CMV",
+            "Herpès simplex"
+          ],
+          "explanation": "A Candida ; C CMV ; D Herpès simplex. Ces trois agents sont cités parmi les causes infectieuses.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 4.",
+          "answers": [
+            "Candida",
+            "CMV",
+            "Herpès simplex"
+          ],
+          "correct": [
+            "Candida",
+            "CMV",
+            "Herpès simplex"
+          ]
+        },
+        {
+          "originalNumber": 28,
+          "type": "qcm",
+          "text": "Au tableau précédent s’ajoutent choc et confusion. Quelle association nommée décrit cette gravité ?",
+          "options": [
+            "Pentade de Reynolds",
+            "Score d’Apgar",
+            "Signe de Murphy isolé",
+            "Triade de Virchow"
+          ],
+          "explanation": "A Pentade de Reynolds. Reynolds ajoute choc et troubles de conscience à Charcot.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 28.",
+          "answers": [
+            "Pentade de Reynolds"
+          ],
+          "correct": [
+            "Pentade de Reynolds"
+          ]
+        },
+        {
+          "originalNumber": 29,
+          "type": "qcd",
+          "text": "Une patiente maigrit car elle ne peut plus avaler normalement. Le suivi du poids et de l’hydratation fait partie des soins.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La dysphagie expose à la dénutrition et à la déshydratation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 7.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 30,
+          "type": "qcm",
+          "text": "Une coloscopie montre des lésions discontinues et une atteinte iléale. Quelle MICI est la plus compatible avec cette description ?",
+          "options": [
+            "Cholécystite",
+            "RCH typique",
+            "Gastrite aiguë",
+            "Crohn"
+          ],
+          "explanation": "D Crohn. Crohn peut atteindre l’iléon avec des lésions en saut.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answers": [
+            "Crohn"
+          ],
+          "correct": [
+            "Crohn"
+          ]
+        },
+        {
+          "originalNumber": 31,
+          "type": "qcm",
+          "text": "Un patient traité contre H. pylori veut arrêter seul ses médicaments. Quel objectif éducatif retenir ?",
+          "options": [
+            "Reprise de l’alcool pour stimuler la digestion",
+            "Arrêt dès disparition de la douleur",
+            "Respect du traitement prescrit",
+            "Prise libre d’AINS"
+          ],
+          "explanation": "C Respect du traitement prescrit. Le cours insiste sur l’observance du traitement.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 11.",
+          "answers": [
+            "Respect du traitement prescrit"
+          ],
+          "correct": [
+            "Respect du traitement prescrit"
+          ]
+        },
+        {
+          "originalNumber": 32,
+          "type": "qcm",
+          "text": "Après un AVC, un patient tousse au cours des repas. Quel risque doit être recherché en priorité dans ce chapitre ?",
+          "options": [
+            "Fausse route",
+            "Ascite néoplasique",
+            "Cholestase tumorale",
+            "Calcification pancréatique"
+          ],
+          "explanation": "A Fausse route. Un trouble oropharyngé expose à l’inhalation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 6 et 7.",
+          "answers": [
+            "Fausse route"
+          ],
+          "correct": [
+            "Fausse route"
+          ]
+        },
+        {
+          "originalNumber": 33,
+          "type": "qcd",
+          "text": "L’infirmier surveille conscience, diurèse et périmètre abdominal chez un insuffisant hépatique. Ces trois éléments relèvent du suivi prévu.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ils font partie des paramètres cliniques à surveiller.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 22.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 34,
+          "type": "qcm",
+          "text": "Une gastrite atrophique s’accompagne d’une baisse du facteur intrinsèque. Quelle carence est à rechercher dans le cours ?",
+          "options": [
+            "Lipase",
+            "Sodium exclusivement",
+            "Vitamine B12",
+            "Glucose"
+          ],
+          "explanation": "C Vitamine B12. La carence en B12 peut provoquer une anémie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 10.",
+          "answers": [
+            "Vitamine B12"
+          ],
+          "correct": [
+            "Vitamine B12"
+          ]
+        },
+        {
+          "originalNumber": 35,
+          "type": "qcd",
+          "text": "Un patient atteint de Crohn développe une fistule. Cette complication est compatible avec le cours.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. La fistule figure parmi les complications de Crohn.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 15.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 36,
+          "type": "qcm",
+          "text": "Un patient atteint de pancréatite aiguë présente détresse respiratoire et hypotension. Quels éléments sont présents ?",
+          "options": [
+            "Signes de gravité",
+            "Risque de défaillance d’organes",
+            "Signes garantissant une forme bénigne",
+            "Indication d’évaluation urgente"
+          ],
+          "explanation": "A Signes de gravité ; B Risque de défaillance d’organes ; D Indication d’évaluation urgente. Le retentissement respiratoire et circulatoire impose une surveillance accrue.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 36 et 37.",
+          "answers": [
+            "Signes de gravité",
+            "Risque de défaillance d’organes",
+            "Indication d’évaluation urgente"
+          ],
+          "correct": [
+            "Signes de gravité",
+            "Risque de défaillance d’organes",
+            "Indication d’évaluation urgente"
+          ]
+        },
+        {
+          "originalNumber": 37,
+          "type": "qcm",
+          "text": "Une endoprothèse est placée pour améliorer le drainage sans résection tumorale. Quel objectif est décrit ?",
+          "options": [
+            "Guérison histologique automatiquement acquise",
+            "Prévention des fausses routes uniquement",
+            "Substitution endocrine",
+            "Palliatif"
+          ],
+          "explanation": "D Palliatif. Le drainage avec prothèse figure dans les soins palliatifs.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 33.",
+          "answers": [
+            "Palliatif"
+          ],
+          "correct": [
+            "Palliatif"
+          ]
+        },
+        {
+          "originalNumber": 38,
+          "type": "qcm",
+          "text": "Un patient prend des AINS sans avis médical puis présente des épigastralgies. Quel facteur faut il relever ?",
+          "options": [
+            "MICI confirmée",
+            "Obstruction cystique prouvée",
+            "Déficit endocrine pancréatique certain",
+            "Agression médicamenteuse gastrique"
+          ],
+          "explanation": "D Agression médicamenteuse gastrique. Les AINS figurent parmi les causes de gastrite aiguë.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 9.",
+          "answers": [
+            "Agression médicamenteuse gastrique"
+          ],
+          "correct": [
+            "Agression médicamenteuse gastrique"
+          ]
+        },
+        {
+          "originalNumber": 39,
+          "type": "qcm",
+          "text": "Une atteinte continue part du rectum et reste rectocolique. Quelle maladie est évoquée ?",
+          "options": [
+            "Pancréatite chronique",
+            "Angiocholite",
+            "RCH",
+            "Œsophagite caustique"
+          ],
+          "explanation": "C RCH. La RCH associe continuité et localisation rectocolique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 14.",
+          "answers": [
+            "RCH"
+          ],
+          "correct": [
+            "RCH"
+          ]
+        },
+        {
+          "originalNumber": 40,
+          "type": "qcd",
+          "text": "Une dysphagie persistante doit être considérée comme toujours bénigne sans exploration.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. Une sténose ou une tumeur peuvent être en cause.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 6 et 7.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 41,
+          "type": "qcm",
+          "text": "Une douleur épigastrique brutale irradie au dos avec vomissements. Quel dosage est prioritairement cité pour rechercher une pancréatite aiguë ?",
+          "options": [
+            "TSH",
+            "INR seul",
+            "Vitamine B12",
+            "Lipase"
+          ],
+          "explanation": "D Lipase. La lipasémie est l’examen biologique de référence du chapitre.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 36.",
+          "answers": [
+            "Lipase"
+          ],
+          "correct": [
+            "Lipase"
+          ]
+        },
+        {
+          "originalNumber": 42,
+          "type": "qcm",
+          "text": "Un prélèvement tumoral est étudié au microscope. Quel examen contribue à la confirmation ?",
+          "options": [
+            "Manométrie",
+            "HbA1c seule",
+            "Anatomopathologie",
+            "pH métrie"
+          ],
+          "explanation": "C Anatomopathologie. La confirmation histologique repose sur l’étude tissulaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 32.",
+          "answers": [
+            "Anatomopathologie"
+          ],
+          "correct": [
+            "Anatomopathologie"
+          ]
+        },
+        {
+          "originalNumber": 43,
+          "type": "qcm",
+          "text": "Un calcul est enclavé dans le canal cystique. Quelle affection ce mécanisme favorise t il ?",
+          "options": [
+            "Cholécystite",
+            "RCH",
+            "Gastrite auto immune",
+            "Œsophagite infectieuse"
+          ],
+          "explanation": "A Cholécystite. L’obstacle provoque stase et inflammation vésiculaire.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 24.",
+          "answers": [
+            "Cholécystite"
+          ],
+          "correct": [
+            "Cholécystite"
+          ]
+        },
+        {
+          "originalNumber": 44,
+          "type": "qcd",
+          "text": "Après hémostase endoscopique, la surveillance d’une récidive de saignement reste nécessaire.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le traitement initial ne supprime pas la nécessité du suivi.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 46 et 47.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 45,
+          "type": "qcm",
+          "text": "Un malade du foie devient confus et somnolent avec astérixis. Quelle complication faut il évoquer ?",
+          "options": [
+            "Achalasie",
+            "Encéphalopathie hépatique",
+            "Gastrite simple isolée",
+            "Hémorroïdes"
+          ],
+          "explanation": "B Encéphalopathie hépatique. Ces manifestations neurologiques sont citées dans l’encéphalopathie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 20 et 21.",
+          "answers": [
+            "Encéphalopathie hépatique"
+          ],
+          "correct": [
+            "Encéphalopathie hépatique"
+          ]
+        },
+        {
+          "originalNumber": 46,
+          "type": "qcm",
+          "text": "Un patient a des selles grasses, volumineuses et luisantes. Quel déficit pancréatique est évoqué ?",
+          "options": [
+            "Motricité pharyngée uniquement",
+            "Endocrine uniquement",
+            "Synthèse hépatique uniquement",
+            "Exocrine"
+          ],
+          "explanation": "D Exocrine. La stéatorrhée traduit une maldigestion des graisses.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answers": [
+            "Exocrine"
+          ],
+          "correct": [
+            "Exocrine"
+          ]
+        },
+        {
+          "originalNumber": 47,
+          "type": "qcm",
+          "text": "Quels objectifs guident la réanimation initiale ?",
+          "options": [
+            "Attendre l’arrêt complet de la diurèse",
+            "Prévenir les défaillances",
+            "Restaurer la volémie si nécessaire",
+            "Maintenir l’oxygénation"
+          ],
+          "explanation": "B Prévenir les défaillances ; C Restaurer la volémie si nécessaire ; D Maintenir l’oxygénation. Les soins cherchent à préserver les fonctions vitales.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 53.",
+          "answers": [
+            "Prévenir les défaillances",
+            "Restaurer la volémie si nécessaire",
+            "Maintenir l’oxygénation"
+          ],
+          "correct": [
+            "Prévenir les défaillances",
+            "Restaurer la volémie si nécessaire",
+            "Maintenir l’oxygénation"
+          ]
+        },
+        {
+          "originalNumber": 48,
+          "type": "qcm",
+          "text": "Pour rechercher une cholécystite, quelle imagerie est citée en première intention ?",
+          "options": [
+            "pH métrie",
+            "Échographie abdominale",
+            "Coloscopie",
+            "Manométrie œsophagienne"
+          ],
+          "explanation": "B Échographie abdominale. Elle recherche calculs, distension et épaississement pariétal.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 25.",
+          "answers": [
+            "Échographie abdominale"
+          ],
+          "correct": [
+            "Échographie abdominale"
+          ]
+        },
+        {
+          "originalNumber": 49,
+          "type": "qcm",
+          "text": "Après décision de cholécystectomie, quel soin relève du rôle infirmier ?",
+          "options": [
+            "Préparation préopératoire et surveillance des perfusions",
+            "Suppression de toute mesure de température",
+            "Arrêt autonome des antibiotiques",
+            "Extraction d’un calcul au lit sans prescription"
+          ],
+          "explanation": "A Préparation préopératoire et surveillance des perfusions. La préparation et la surveillance sont décrites dans le chapitre.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 26.",
+          "answers": [
+            "Préparation préopératoire et surveillance des perfusions"
+          ],
+          "correct": [
+            "Préparation préopératoire et surveillance des perfusions"
+          ]
+        },
+        {
+          "originalNumber": 50,
+          "type": "qcd",
+          "text": "Une destruction des îlots de Langerhans peut expliquer un diabète au cours d’une pancréatite chronique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Elle altère la fonction endocrine.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 40.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 51,
+          "type": "qcd",
+          "text": "Un patient grave en réanimation présente une inflammation vésiculaire sans calcul. Cette forme est possible.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours décrit la cholécystite alithiasique sur ce terrain.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 24.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 52,
+          "type": "qcm",
+          "text": "Un surdosage en paracétamol est rapporté avant une défaillance hépatique rapide. Quelle catégorie étiologique retenir ?",
+          "options": [
+            "Médicamenteuse",
+            "Uniquement génétique",
+            "Toujours tumorale",
+            "Toujours parasitaire"
+          ],
+          "explanation": "A Médicamenteuse. Le surdosage est cité parmi les causes aiguës.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 19.",
+          "answers": [
+            "Médicamenteuse"
+          ],
+          "correct": [
+            "Médicamenteuse"
+          ]
+        },
+        {
+          "originalNumber": 53,
+          "type": "qcd",
+          "text": "Dans une gastrite chronique, l’absence de douleur exclut toute lésion gastrique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "B Faux. La gastrite chronique peut être asymptomatique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 10.",
+          "answer": "Faux",
+          "correct": "Faux"
+        },
+        {
+          "originalNumber": 54,
+          "type": "qcm",
+          "text": "Un patient cirrhotique a un abdomen distendu et une matité déclive. Quel épanchement rechercher ?",
+          "options": [
+            "Pneumothorax",
+            "Ascite",
+            "Épanchement péricardique uniquement",
+            "Collection œsophagienne"
+          ],
+          "explanation": "B Ascite. Ces signes évoquent du liquide dans la cavité péritonéale.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 48 et 49.",
+          "answers": [
+            "Ascite"
+          ],
+          "correct": [
+            "Ascite"
+          ]
+        },
+        {
+          "originalNumber": 55,
+          "type": "qcm",
+          "text": "Un patient décrit une brûlure derrière le sternum avec remontées acides. Quel terme désigne cette brûlure ?",
+          "options": [
+            "Stéatorrhée",
+            "Ascite",
+            "Pyrosis",
+            "Méléna"
+          ],
+          "explanation": "C Pyrosis. Le pyrosis correspond à la brûlure rétrosternale décrite dans le cours.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 5.",
+          "answers": [
+            "Pyrosis"
+          ],
+          "correct": [
+            "Pyrosis"
+          ]
+        },
+        {
+          "originalNumber": 56,
+          "type": "qcm",
+          "text": "Après retour à domicile, quels signes nécessitent un signalement rapide ?",
+          "options": [
+            "Douleur importante",
+            "Saignement anormal",
+            "Fièvre",
+            "Absence de symptôme seule"
+          ],
+          "explanation": "A Douleur importante ; B Saignement anormal ; C Fièvre. Ces signes d’alerte figurent dans l’éducation post endoscopie.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 58.",
+          "answers": [
+            "Douleur importante",
+            "Saignement anormal",
+            "Fièvre"
+          ],
+          "correct": [
+            "Douleur importante",
+            "Saignement anormal",
+            "Fièvre"
+          ]
+        },
+        {
+          "originalNumber": 57,
+          "type": "qcd",
+          "text": "Chez un insuffisant hépatique, le TP diminue et l’INR augmente. Ce profil peut traduire une atteinte de la synthèse des facteurs de coagulation.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Le cours associe ce profil au risque hémorragique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 18 et 21.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        },
+        {
+          "originalNumber": 58,
+          "type": "qcm",
+          "text": "Avant une FOGD, quelles vérifications sont prévues ?",
+          "options": [
+            "Retrait des prothèses dentaires",
+            "Identité et consentement",
+            "Repas solide immédiatement avant",
+            "Allergies"
+          ],
+          "explanation": "A Retrait des prothèses dentaires ; B Identité et consentement ; D Allergies. La préparation associe sécurité administrative et clinique.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 56.",
+          "answers": [
+            "Retrait des prothèses dentaires",
+            "Identité et consentement",
+            "Allergies"
+          ],
+          "correct": [
+            "Retrait des prothèses dentaires",
+            "Identité et consentement",
+            "Allergies"
+          ]
+        },
+        {
+          "originalNumber": 59,
+          "type": "qcm",
+          "text": "Une baisse d’albumine s’accompagne d’œdèmes. Quelle fonction hépatique est notamment en cause ?",
+          "options": [
+            "Production d’insuline exclusivement",
+            "Sécrétion de facteur intrinsèque",
+            "Motricité œsophagienne",
+            "Synthèse protéique"
+          ],
+          "explanation": "D Synthèse protéique. Le foie produit l’albumine ; sa diminution favorise les œdèmes.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 18 et 19 et 20.",
+          "answers": [
+            "Synthèse protéique"
+          ],
+          "correct": [
+            "Synthèse protéique"
+          ]
+        },
+        {
+          "originalNumber": 60,
+          "type": "qcd",
+          "text": "Après sédation endoscopique, une somnolence excessive avec respiration déprimée nécessite une surveillance et une alerte adaptées.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "A Vrai. Ces manifestations sont des complications possibles de la sédation.",
+          "source": "HEPATOGASTRO ENTEROLOGIE (1).pdf — PDF p. 57. Référence Cours harmonisé d’hépatogastroentérologie, document fourni HEPATOGASTRO ENTEROLOGIE (1).pdf. Sommaire p. PDF 2, chapitres p. PDF 3 à 59. Les questions reformulent les notions du support pour l’entraînement.",
+          "answer": "Vrai",
+          "correct": "Vrai"
+        }
+      ]
+    },
+    {
       "id": "reanimation-l2-60",
       "title": "Réanimation L2 — 60 questions QCM et QCD",
       "matter": "Réanimation",
@@ -1120,7 +8602,7 @@ const CONFIG = {
           ]
         }
       ],
-      "filiere": "COMMUN"
+      "filiere": "SFM"
     },
     {
       "id": "chirurgie-pediatrique-l2-60",
@@ -2084,5713 +9566,7 @@ const CONFIG = {
           "correct": "Continuer à surveiller l'état de l'enfant"
         }
       ],
-      "filiere": "COMMUN"
-    },
-    {
-      "id": "ide-1",
-      "title": "Cardiologie L3 — Hypertension artérielle",
-      "matter": "Cardiologie L3",
-      "filiere": "IDE",
-      "description": "Sujet 1 — 60 questions corrigées",
-      "instructions": "QCD : Vrai ou Faux. QCM : sélectionner la ou les bonnes réponses.",
-      "duration": 90,
-      "programmed": true,
-      "openDate": "2026-01-01",
-      "openTime": "00:00",
-      "closeDate": "2030-12-31",
-      "closeTime": "23:59",
-      "marking": {
-        "correct": 1,
-        "wrong": -1,
-        "empty": 0
-      },
-      "questions": [
-        {
-          "text": "L’HTA correspond à une PAS ≥ 140 mmHg et/ou une PAD ≥ 90 mmHg constatée à deux reprises et pas le même jour.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le diagnostic repose sur des chiffres élevés confirmés à deux reprises, hors situation d’urgence.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Une seule mesure de PA élevée suffit toujours pour affirmer une HTA.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le diagnostic repose sur des chiffres élevés confirmés à deux reprises, hors situation d’urgence.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La pression artérielle systolique correspond à la pression maximale lors de la contraction cardiaque.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La PAS est mesurée pendant la systole, lorsque le cœur éjecte le sang.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La PAS correspond à la pression minimale observée pendant le remplissage cardiaque.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La PAS est mesurée pendant la systole, lorsque le cœur éjecte le sang.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La pression artérielle diastolique correspond à la pression minimale pendant la relaxation du cœur.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La PAD est la pression artérielle observée pendant la diastole.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La PAD est la pression maximale produite pendant la systole.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La PAD est la pression artérielle observée pendant la diastole.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "En cabinet, une pression artérielle inférieure à 140/90 mmHg est considérée comme normale dans le cours.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le seuil présenté dans le cours est 140/90 mmHg.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Une PA de 160/100 mmHg est considérée comme normale dans le cours.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le seuil présenté dans le cours est 140/90 mmHg.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La PA se mesure de préférence chez un patient assis ou couché au repos depuis au moins cinq minutes.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le repos préalable limite les erreurs de mesure.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La PA doit être mesurée immédiatement après un effort intense.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le repos préalable limite les erreurs de mesure.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le brassard doit être adapté à la taille du bras et placé environ 2 à 3 cm au-dessus du pli du coude.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Un brassard inadapté fausse la mesure.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La taille du brassard n’influence pas la mesure de la PA.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Un brassard inadapté fausse la mesure.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le bras du patient doit être soutenu à hauteur du cœur pendant la mesure.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La position à hauteur du cœur améliore la fiabilité.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le bras doit rester pendant librement sous le niveau du cœur.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La position à hauteur du cœur améliore la fiabilité.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Lors de la première consultation, la PA doit être mesurée aux deux bras.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Comparer les deux bras permet de repérer une différence tensionnelle.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Lors de la première consultation, la mesure doit obligatoirement se faire uniquement au bras gauche.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Comparer les deux bras permet de repérer une différence tensionnelle.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La recherche d’une hypotension orthostatique est particulièrement importante chez le sujet âgé et le diabétique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces patients présentent un risque accru d’hypotension orthostatique.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’hypotension orthostatique ne doit jamais être recherchée chez le diabétique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces patients présentent un risque accru d’hypotension orthostatique.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La surveillance de la tolérance recherche notamment céphalées, troubles visuels, dyspnée et troubles de l’équilibre.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces signes peuvent traduire une mauvaise tolérance ou une complication.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La surveillance d’une HTA exclut l’évaluation des troubles visuels.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces signes peuvent traduire une mauvaise tolérance ou une complication.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’ionogramme et la créatininémie participent à l’évaluation du retentissement rénal de l’HTA.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’HTA peut altérer la fonction rénale.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La créatininémie n’a aucun intérêt dans le bilan d’un patient hypertendu.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’HTA peut altérer la fonction rénale.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La bandelette urinaire permet notamment de rechercher protéinurie et hématurie.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Protéinurie et hématurie peuvent révéler un retentissement rénal.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La bandelette urinaire sert uniquement à mesurer la pression artérielle.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Protéinurie et hématurie peuvent révéler un retentissement rénal.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Un environnement calme et propice au repos aide à éviter l’aggravation d’une poussée hypertensive.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le calme réduit les stimulations et favorise le repos.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Un environnement bruyant est recommandé pendant une poussée hypertensive.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le calme réduit les stimulations et favorise le repos.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’éducation thérapeutique doit être adaptée aux connaissances et au mode de vie du patient.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’individualisation favorise la compréhension et l’observance.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’éducation doit être identique pour tous sans tenir compte du mode de vie.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’individualisation favorise la compréhension et l’observance.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Associer la prise du traitement à une habitude quotidienne peut améliorer l’observance.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Une routine stable facilite la régularité du traitement.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Changer volontairement chaque jour l’heure de prise améliore l’observance.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Une routine stable facilite la régularité du traitement.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Concernant définition, quelle proposition est correcte ?",
-          "options": [
-            "L’HTA correspond à une PAS ≥ 140 mmHg et/ou une PAD ≥ 90 mmHg constatée à deux reprises et pas le même jour.",
-            "La PAS correspond à la pression minimale observée pendant le remplissage cardiaque.",
-            "La PAD est la pression maximale produite pendant la systole.",
-            "Une PA de 160/100 mmHg est considérée comme normale dans le cours."
-          ],
-          "type": "qcm",
-          "explanation": "Le diagnostic repose sur des chiffres élevés confirmés à deux reprises, hors situation d’urgence.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "L’HTA correspond à une PAS ≥ 140 mmHg et/ou une PAD ≥ 90 mmHg constatée à deux reprises et pas le même jour."
-          ],
-          "correct": [
-            "L’HTA correspond à une PAS ≥ 140 mmHg et/ou une PAD ≥ 90 mmHg constatée à deux reprises et pas le même jour."
-          ]
-        },
-        {
-          "text": "Concernant PAS, quelle proposition est correcte ?",
-          "options": [
-            "La pression artérielle systolique correspond à la pression maximale lors de la contraction cardiaque.",
-            "La PAD est la pression maximale produite pendant la systole.",
-            "Une PA de 160/100 mmHg est considérée comme normale dans le cours.",
-            "La PA doit être mesurée immédiatement après un effort intense."
-          ],
-          "type": "qcm",
-          "explanation": "La PAS est mesurée pendant la systole, lorsque le cœur éjecte le sang.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "La pression artérielle systolique correspond à la pression maximale lors de la contraction cardiaque."
-          ],
-          "correct": [
-            "La pression artérielle systolique correspond à la pression maximale lors de la contraction cardiaque."
-          ]
-        },
-        {
-          "text": "Concernant PAD, quelle proposition est correcte ?",
-          "options": [
-            "La pression artérielle diastolique correspond à la pression minimale pendant la relaxation du cœur.",
-            "Une PA de 160/100 mmHg est considérée comme normale dans le cours.",
-            "La PA doit être mesurée immédiatement après un effort intense.",
-            "La taille du brassard n’influence pas la mesure de la PA."
-          ],
-          "type": "qcm",
-          "explanation": "La PAD est la pression artérielle observée pendant la diastole.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "La pression artérielle diastolique correspond à la pression minimale pendant la relaxation du cœur."
-          ],
-          "correct": [
-            "La pression artérielle diastolique correspond à la pression minimale pendant la relaxation du cœur."
-          ]
-        },
-        {
-          "text": "Concernant valeur normale, quelle proposition est correcte ?",
-          "options": [
-            "En cabinet, une pression artérielle inférieure à 140/90 mmHg est considérée comme normale dans le cours.",
-            "La PA doit être mesurée immédiatement après un effort intense.",
-            "La taille du brassard n’influence pas la mesure de la PA.",
-            "Le bras doit rester pendant librement sous le niveau du cœur."
-          ],
-          "type": "qcm",
-          "explanation": "Le seuil présenté dans le cours est 140/90 mmHg.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "En cabinet, une pression artérielle inférieure à 140/90 mmHg est considérée comme normale dans le cours."
-          ],
-          "correct": [
-            "En cabinet, une pression artérielle inférieure à 140/90 mmHg est considérée comme normale dans le cours."
-          ]
-        },
-        {
-          "text": "Concernant repos, quelle proposition est correcte ?",
-          "options": [
-            "La PA se mesure de préférence chez un patient assis ou couché au repos depuis au moins cinq minutes.",
-            "La taille du brassard n’influence pas la mesure de la PA.",
-            "Le bras doit rester pendant librement sous le niveau du cœur.",
-            "Lors de la première consultation, la mesure doit obligatoirement se faire uniquement au bras gauche."
-          ],
-          "type": "qcm",
-          "explanation": "Le repos préalable limite les erreurs de mesure.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "La PA se mesure de préférence chez un patient assis ou couché au repos depuis au moins cinq minutes."
-          ],
-          "correct": [
-            "La PA se mesure de préférence chez un patient assis ou couché au repos depuis au moins cinq minutes."
-          ]
-        },
-        {
-          "text": "Concernant brassard, quelle proposition est correcte ?",
-          "options": [
-            "Le brassard doit être adapté à la taille du bras et placé environ 2 à 3 cm au-dessus du pli du coude.",
-            "Le bras doit rester pendant librement sous le niveau du cœur.",
-            "Lors de la première consultation, la mesure doit obligatoirement se faire uniquement au bras gauche.",
-            "L’hypotension orthostatique ne doit jamais être recherchée chez le diabétique."
-          ],
-          "type": "qcm",
-          "explanation": "Un brassard inadapté fausse la mesure.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "Le brassard doit être adapté à la taille du bras et placé environ 2 à 3 cm au-dessus du pli du coude."
-          ],
-          "correct": [
-            "Le brassard doit être adapté à la taille du bras et placé environ 2 à 3 cm au-dessus du pli du coude."
-          ]
-        },
-        {
-          "text": "Concernant position du bras, quelle proposition est correcte ?",
-          "options": [
-            "Le bras du patient doit être soutenu à hauteur du cœur pendant la mesure.",
-            "Lors de la première consultation, la mesure doit obligatoirement se faire uniquement au bras gauche.",
-            "L’hypotension orthostatique ne doit jamais être recherchée chez le diabétique.",
-            "La surveillance d’une HTA exclut l’évaluation des troubles visuels."
-          ],
-          "type": "qcm",
-          "explanation": "La position à hauteur du cœur améliore la fiabilité.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "Le bras du patient doit être soutenu à hauteur du cœur pendant la mesure."
-          ],
-          "correct": [
-            "Le bras du patient doit être soutenu à hauteur du cœur pendant la mesure."
-          ]
-        },
-        {
-          "text": "Concernant première consultation, quelle proposition est correcte ?",
-          "options": [
-            "Lors de la première consultation, la PA doit être mesurée aux deux bras.",
-            "L’hypotension orthostatique ne doit jamais être recherchée chez le diabétique.",
-            "La surveillance d’une HTA exclut l’évaluation des troubles visuels.",
-            "La créatininémie n’a aucun intérêt dans le bilan d’un patient hypertendu."
-          ],
-          "type": "qcm",
-          "explanation": "Comparer les deux bras permet de repérer une différence tensionnelle.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "Lors de la première consultation, la PA doit être mesurée aux deux bras."
-          ],
-          "correct": [
-            "Lors de la première consultation, la PA doit être mesurée aux deux bras."
-          ]
-        },
-        {
-          "text": "Concernant hypotension orthostatique, quelle proposition est correcte ?",
-          "options": [
-            "La recherche d’une hypotension orthostatique est particulièrement importante chez le sujet âgé et le diabétique.",
-            "La surveillance d’une HTA exclut l’évaluation des troubles visuels.",
-            "La créatininémie n’a aucun intérêt dans le bilan d’un patient hypertendu.",
-            "La bandelette urinaire sert uniquement à mesurer la pression artérielle."
-          ],
-          "type": "qcm",
-          "explanation": "Ces patients présentent un risque accru d’hypotension orthostatique.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "La recherche d’une hypotension orthostatique est particulièrement importante chez le sujet âgé et le diabétique."
-          ],
-          "correct": [
-            "La recherche d’une hypotension orthostatique est particulièrement importante chez le sujet âgé et le diabétique."
-          ]
-        },
-        {
-          "text": "Concernant tolérance, quelle proposition est correcte ?",
-          "options": [
-            "La surveillance de la tolérance recherche notamment céphalées, troubles visuels, dyspnée et troubles de l’équilibre.",
-            "La créatininémie n’a aucun intérêt dans le bilan d’un patient hypertendu.",
-            "La bandelette urinaire sert uniquement à mesurer la pression artérielle.",
-            "Un environnement bruyant est recommandé pendant une poussée hypertensive."
-          ],
-          "type": "qcm",
-          "explanation": "Ces signes peuvent traduire une mauvaise tolérance ou une complication.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "La surveillance de la tolérance recherche notamment céphalées, troubles visuels, dyspnée et troubles de l’équilibre."
-          ],
-          "correct": [
-            "La surveillance de la tolérance recherche notamment céphalées, troubles visuels, dyspnée et troubles de l’équilibre."
-          ]
-        },
-        {
-          "text": "Concernant bilan rénal, quelle proposition est correcte ?",
-          "options": [
-            "L’ionogramme et la créatininémie participent à l’évaluation du retentissement rénal de l’HTA.",
-            "La bandelette urinaire sert uniquement à mesurer la pression artérielle.",
-            "Un environnement bruyant est recommandé pendant une poussée hypertensive.",
-            "L’éducation doit être identique pour tous sans tenir compte du mode de vie."
-          ],
-          "type": "qcm",
-          "explanation": "L’HTA peut altérer la fonction rénale.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "L’ionogramme et la créatininémie participent à l’évaluation du retentissement rénal de l’HTA."
-          ],
-          "correct": [
-            "L’ionogramme et la créatininémie participent à l’évaluation du retentissement rénal de l’HTA."
-          ]
-        },
-        {
-          "text": "Concernant bandelette urinaire, quelle proposition est correcte ?",
-          "options": [
-            "La bandelette urinaire permet notamment de rechercher protéinurie et hématurie.",
-            "Un environnement bruyant est recommandé pendant une poussée hypertensive.",
-            "L’éducation doit être identique pour tous sans tenir compte du mode de vie.",
-            "Changer volontairement chaque jour l’heure de prise améliore l’observance."
-          ],
-          "type": "qcm",
-          "explanation": "Protéinurie et hématurie peuvent révéler un retentissement rénal.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "La bandelette urinaire permet notamment de rechercher protéinurie et hématurie."
-          ],
-          "correct": [
-            "La bandelette urinaire permet notamment de rechercher protéinurie et hématurie."
-          ]
-        },
-        {
-          "text": "Concernant environnement, quelle proposition est correcte ?",
-          "options": [
-            "Un environnement calme et propice au repos aide à éviter l’aggravation d’une poussée hypertensive.",
-            "L’éducation doit être identique pour tous sans tenir compte du mode de vie.",
-            "Changer volontairement chaque jour l’heure de prise améliore l’observance.",
-            "Une seule mesure de PA élevée suffit toujours pour affirmer une HTA."
-          ],
-          "type": "qcm",
-          "explanation": "Le calme réduit les stimulations et favorise le repos.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "Un environnement calme et propice au repos aide à éviter l’aggravation d’une poussée hypertensive."
-          ],
-          "correct": [
-            "Un environnement calme et propice au repos aide à éviter l’aggravation d’une poussée hypertensive."
-          ]
-        },
-        {
-          "text": "Concernant éducation, quelle proposition est correcte ?",
-          "options": [
-            "L’éducation thérapeutique doit être adaptée aux connaissances et au mode de vie du patient.",
-            "Changer volontairement chaque jour l’heure de prise améliore l’observance.",
-            "Une seule mesure de PA élevée suffit toujours pour affirmer une HTA.",
-            "La PAS correspond à la pression minimale observée pendant le remplissage cardiaque."
-          ],
-          "type": "qcm",
-          "explanation": "L’individualisation favorise la compréhension et l’observance.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "L’éducation thérapeutique doit être adaptée aux connaissances et au mode de vie du patient."
-          ],
-          "correct": [
-            "L’éducation thérapeutique doit être adaptée aux connaissances et au mode de vie du patient."
-          ]
-        },
-        {
-          "text": "Concernant observance, quelle proposition est correcte ?",
-          "options": [
-            "Associer la prise du traitement à une habitude quotidienne peut améliorer l’observance.",
-            "Une seule mesure de PA élevée suffit toujours pour affirmer une HTA.",
-            "La PAS correspond à la pression minimale observée pendant le remplissage cardiaque.",
-            "La PAD est la pression maximale produite pendant la systole."
-          ],
-          "type": "qcm",
-          "explanation": "Une routine stable facilite la régularité du traitement.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "Associer la prise du traitement à une habitude quotidienne peut améliorer l’observance."
-          ],
-          "correct": [
-            "Associer la prise du traitement à une habitude quotidienne peut améliorer l’observance."
-          ]
-        },
-        {
-          "text": "À propos de définition, choisissez les deux propositions exactes.",
-          "options": [
-            "L’HTA correspond à une PAS ≥ 140 mmHg et/ou une PAD ≥ 90 mmHg constatée à deux reprises et pas le même jour.",
-            "La pression artérielle systolique correspond à la pression maximale lors de la contraction cardiaque.",
-            "La PAD est la pression maximale produite pendant la systole.",
-            "Une PA de 160/100 mmHg est considérée comme normale dans le cours."
-          ],
-          "type": "qcm",
-          "explanation": "Le diagnostic repose sur des chiffres élevés confirmés à deux reprises, hors situation d’urgence. La PAS est mesurée pendant la systole, lorsque le cœur éjecte le sang.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "L’HTA correspond à une PAS ≥ 140 mmHg et/ou une PAD ≥ 90 mmHg constatée à deux reprises et pas le même jour.",
-            "La pression artérielle systolique correspond à la pression maximale lors de la contraction cardiaque."
-          ],
-          "correct": [
-            "L’HTA correspond à une PAS ≥ 140 mmHg et/ou une PAD ≥ 90 mmHg constatée à deux reprises et pas le même jour.",
-            "La pression artérielle systolique correspond à la pression maximale lors de la contraction cardiaque."
-          ]
-        },
-        {
-          "text": "À propos de PAS, choisissez les deux propositions exactes.",
-          "options": [
-            "La pression artérielle systolique correspond à la pression maximale lors de la contraction cardiaque.",
-            "La pression artérielle diastolique correspond à la pression minimale pendant la relaxation du cœur.",
-            "Une PA de 160/100 mmHg est considérée comme normale dans le cours.",
-            "La PA doit être mesurée immédiatement après un effort intense."
-          ],
-          "type": "qcm",
-          "explanation": "La PAS est mesurée pendant la systole, lorsque le cœur éjecte le sang. La PAD est la pression artérielle observée pendant la diastole.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "La pression artérielle systolique correspond à la pression maximale lors de la contraction cardiaque.",
-            "La pression artérielle diastolique correspond à la pression minimale pendant la relaxation du cœur."
-          ],
-          "correct": [
-            "La pression artérielle systolique correspond à la pression maximale lors de la contraction cardiaque.",
-            "La pression artérielle diastolique correspond à la pression minimale pendant la relaxation du cœur."
-          ]
-        },
-        {
-          "text": "À propos de PAD, choisissez les deux propositions exactes.",
-          "options": [
-            "La pression artérielle diastolique correspond à la pression minimale pendant la relaxation du cœur.",
-            "En cabinet, une pression artérielle inférieure à 140/90 mmHg est considérée comme normale dans le cours.",
-            "La PA doit être mesurée immédiatement après un effort intense.",
-            "La taille du brassard n’influence pas la mesure de la PA."
-          ],
-          "type": "qcm",
-          "explanation": "La PAD est la pression artérielle observée pendant la diastole. Le seuil présenté dans le cours est 140/90 mmHg.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "La pression artérielle diastolique correspond à la pression minimale pendant la relaxation du cœur.",
-            "En cabinet, une pression artérielle inférieure à 140/90 mmHg est considérée comme normale dans le cours."
-          ],
-          "correct": [
-            "La pression artérielle diastolique correspond à la pression minimale pendant la relaxation du cœur.",
-            "En cabinet, une pression artérielle inférieure à 140/90 mmHg est considérée comme normale dans le cours."
-          ]
-        },
-        {
-          "text": "À propos de valeur normale, choisissez les deux propositions exactes.",
-          "options": [
-            "En cabinet, une pression artérielle inférieure à 140/90 mmHg est considérée comme normale dans le cours.",
-            "La PA se mesure de préférence chez un patient assis ou couché au repos depuis au moins cinq minutes.",
-            "La taille du brassard n’influence pas la mesure de la PA.",
-            "Le bras doit rester pendant librement sous le niveau du cœur."
-          ],
-          "type": "qcm",
-          "explanation": "Le seuil présenté dans le cours est 140/90 mmHg. Le repos préalable limite les erreurs de mesure.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "En cabinet, une pression artérielle inférieure à 140/90 mmHg est considérée comme normale dans le cours.",
-            "La PA se mesure de préférence chez un patient assis ou couché au repos depuis au moins cinq minutes."
-          ],
-          "correct": [
-            "En cabinet, une pression artérielle inférieure à 140/90 mmHg est considérée comme normale dans le cours.",
-            "La PA se mesure de préférence chez un patient assis ou couché au repos depuis au moins cinq minutes."
-          ]
-        },
-        {
-          "text": "À propos de repos, choisissez les deux propositions exactes.",
-          "options": [
-            "La PA se mesure de préférence chez un patient assis ou couché au repos depuis au moins cinq minutes.",
-            "Le brassard doit être adapté à la taille du bras et placé environ 2 à 3 cm au-dessus du pli du coude.",
-            "Le bras doit rester pendant librement sous le niveau du cœur.",
-            "Lors de la première consultation, la mesure doit obligatoirement se faire uniquement au bras gauche."
-          ],
-          "type": "qcm",
-          "explanation": "Le repos préalable limite les erreurs de mesure. Un brassard inadapté fausse la mesure.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "La PA se mesure de préférence chez un patient assis ou couché au repos depuis au moins cinq minutes.",
-            "Le brassard doit être adapté à la taille du bras et placé environ 2 à 3 cm au-dessus du pli du coude."
-          ],
-          "correct": [
-            "La PA se mesure de préférence chez un patient assis ou couché au repos depuis au moins cinq minutes.",
-            "Le brassard doit être adapté à la taille du bras et placé environ 2 à 3 cm au-dessus du pli du coude."
-          ]
-        },
-        {
-          "text": "À propos de brassard, choisissez les deux propositions exactes.",
-          "options": [
-            "Le brassard doit être adapté à la taille du bras et placé environ 2 à 3 cm au-dessus du pli du coude.",
-            "Le bras du patient doit être soutenu à hauteur du cœur pendant la mesure.",
-            "Lors de la première consultation, la mesure doit obligatoirement se faire uniquement au bras gauche.",
-            "L’hypotension orthostatique ne doit jamais être recherchée chez le diabétique."
-          ],
-          "type": "qcm",
-          "explanation": "Un brassard inadapté fausse la mesure. La position à hauteur du cœur améliore la fiabilité.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "Le brassard doit être adapté à la taille du bras et placé environ 2 à 3 cm au-dessus du pli du coude.",
-            "Le bras du patient doit être soutenu à hauteur du cœur pendant la mesure."
-          ],
-          "correct": [
-            "Le brassard doit être adapté à la taille du bras et placé environ 2 à 3 cm au-dessus du pli du coude.",
-            "Le bras du patient doit être soutenu à hauteur du cœur pendant la mesure."
-          ]
-        },
-        {
-          "text": "À propos de position du bras, choisissez les deux propositions exactes.",
-          "options": [
-            "Le bras du patient doit être soutenu à hauteur du cœur pendant la mesure.",
-            "Lors de la première consultation, la PA doit être mesurée aux deux bras.",
-            "L’hypotension orthostatique ne doit jamais être recherchée chez le diabétique.",
-            "La surveillance d’une HTA exclut l’évaluation des troubles visuels."
-          ],
-          "type": "qcm",
-          "explanation": "La position à hauteur du cœur améliore la fiabilité. Comparer les deux bras permet de repérer une différence tensionnelle.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "Le bras du patient doit être soutenu à hauteur du cœur pendant la mesure.",
-            "Lors de la première consultation, la PA doit être mesurée aux deux bras."
-          ],
-          "correct": [
-            "Le bras du patient doit être soutenu à hauteur du cœur pendant la mesure.",
-            "Lors de la première consultation, la PA doit être mesurée aux deux bras."
-          ]
-        },
-        {
-          "text": "À propos de première consultation, choisissez les deux propositions exactes.",
-          "options": [
-            "Lors de la première consultation, la PA doit être mesurée aux deux bras.",
-            "La recherche d’une hypotension orthostatique est particulièrement importante chez le sujet âgé et le diabétique.",
-            "La surveillance d’une HTA exclut l’évaluation des troubles visuels.",
-            "La créatininémie n’a aucun intérêt dans le bilan d’un patient hypertendu."
-          ],
-          "type": "qcm",
-          "explanation": "Comparer les deux bras permet de repérer une différence tensionnelle. Ces patients présentent un risque accru d’hypotension orthostatique.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "Lors de la première consultation, la PA doit être mesurée aux deux bras.",
-            "La recherche d’une hypotension orthostatique est particulièrement importante chez le sujet âgé et le diabétique."
-          ],
-          "correct": [
-            "Lors de la première consultation, la PA doit être mesurée aux deux bras.",
-            "La recherche d’une hypotension orthostatique est particulièrement importante chez le sujet âgé et le diabétique."
-          ]
-        },
-        {
-          "text": "À propos de hypotension orthostatique, choisissez les deux propositions exactes.",
-          "options": [
-            "La recherche d’une hypotension orthostatique est particulièrement importante chez le sujet âgé et le diabétique.",
-            "La surveillance de la tolérance recherche notamment céphalées, troubles visuels, dyspnée et troubles de l’équilibre.",
-            "La créatininémie n’a aucun intérêt dans le bilan d’un patient hypertendu.",
-            "La bandelette urinaire sert uniquement à mesurer la pression artérielle."
-          ],
-          "type": "qcm",
-          "explanation": "Ces patients présentent un risque accru d’hypotension orthostatique. Ces signes peuvent traduire une mauvaise tolérance ou une complication.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "La recherche d’une hypotension orthostatique est particulièrement importante chez le sujet âgé et le diabétique.",
-            "La surveillance de la tolérance recherche notamment céphalées, troubles visuels, dyspnée et troubles de l’équilibre."
-          ],
-          "correct": [
-            "La recherche d’une hypotension orthostatique est particulièrement importante chez le sujet âgé et le diabétique.",
-            "La surveillance de la tolérance recherche notamment céphalées, troubles visuels, dyspnée et troubles de l’équilibre."
-          ]
-        },
-        {
-          "text": "À propos de tolérance, choisissez les deux propositions exactes.",
-          "options": [
-            "La surveillance de la tolérance recherche notamment céphalées, troubles visuels, dyspnée et troubles de l’équilibre.",
-            "L’ionogramme et la créatininémie participent à l’évaluation du retentissement rénal de l’HTA.",
-            "La bandelette urinaire sert uniquement à mesurer la pression artérielle.",
-            "Un environnement bruyant est recommandé pendant une poussée hypertensive."
-          ],
-          "type": "qcm",
-          "explanation": "Ces signes peuvent traduire une mauvaise tolérance ou une complication. L’HTA peut altérer la fonction rénale.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "La surveillance de la tolérance recherche notamment céphalées, troubles visuels, dyspnée et troubles de l’équilibre.",
-            "L’ionogramme et la créatininémie participent à l’évaluation du retentissement rénal de l’HTA."
-          ],
-          "correct": [
-            "La surveillance de la tolérance recherche notamment céphalées, troubles visuels, dyspnée et troubles de l’équilibre.",
-            "L’ionogramme et la créatininémie participent à l’évaluation du retentissement rénal de l’HTA."
-          ]
-        },
-        {
-          "text": "À propos de bilan rénal, choisissez les deux propositions exactes.",
-          "options": [
-            "L’ionogramme et la créatininémie participent à l’évaluation du retentissement rénal de l’HTA.",
-            "La bandelette urinaire permet notamment de rechercher protéinurie et hématurie.",
-            "Un environnement bruyant est recommandé pendant une poussée hypertensive.",
-            "L’éducation doit être identique pour tous sans tenir compte du mode de vie."
-          ],
-          "type": "qcm",
-          "explanation": "L’HTA peut altérer la fonction rénale. Protéinurie et hématurie peuvent révéler un retentissement rénal.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "L’ionogramme et la créatininémie participent à l’évaluation du retentissement rénal de l’HTA.",
-            "La bandelette urinaire permet notamment de rechercher protéinurie et hématurie."
-          ],
-          "correct": [
-            "L’ionogramme et la créatininémie participent à l’évaluation du retentissement rénal de l’HTA.",
-            "La bandelette urinaire permet notamment de rechercher protéinurie et hématurie."
-          ]
-        },
-        {
-          "text": "À propos de bandelette urinaire, choisissez les deux propositions exactes.",
-          "options": [
-            "La bandelette urinaire permet notamment de rechercher protéinurie et hématurie.",
-            "Un environnement calme et propice au repos aide à éviter l’aggravation d’une poussée hypertensive.",
-            "L’éducation doit être identique pour tous sans tenir compte du mode de vie.",
-            "Changer volontairement chaque jour l’heure de prise améliore l’observance."
-          ],
-          "type": "qcm",
-          "explanation": "Protéinurie et hématurie peuvent révéler un retentissement rénal. Le calme réduit les stimulations et favorise le repos.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "La bandelette urinaire permet notamment de rechercher protéinurie et hématurie.",
-            "Un environnement calme et propice au repos aide à éviter l’aggravation d’une poussée hypertensive."
-          ],
-          "correct": [
-            "La bandelette urinaire permet notamment de rechercher protéinurie et hématurie.",
-            "Un environnement calme et propice au repos aide à éviter l’aggravation d’une poussée hypertensive."
-          ]
-        },
-        {
-          "text": "À propos de environnement, choisissez les deux propositions exactes.",
-          "options": [
-            "Un environnement calme et propice au repos aide à éviter l’aggravation d’une poussée hypertensive.",
-            "L’éducation thérapeutique doit être adaptée aux connaissances et au mode de vie du patient.",
-            "Changer volontairement chaque jour l’heure de prise améliore l’observance.",
-            "Une seule mesure de PA élevée suffit toujours pour affirmer une HTA."
-          ],
-          "type": "qcm",
-          "explanation": "Le calme réduit les stimulations et favorise le repos. L’individualisation favorise la compréhension et l’observance.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "Un environnement calme et propice au repos aide à éviter l’aggravation d’une poussée hypertensive.",
-            "L’éducation thérapeutique doit être adaptée aux connaissances et au mode de vie du patient."
-          ],
-          "correct": [
-            "Un environnement calme et propice au repos aide à éviter l’aggravation d’une poussée hypertensive.",
-            "L’éducation thérapeutique doit être adaptée aux connaissances et au mode de vie du patient."
-          ]
-        },
-        {
-          "text": "À propos de éducation, choisissez les deux propositions exactes.",
-          "options": [
-            "L’éducation thérapeutique doit être adaptée aux connaissances et au mode de vie du patient.",
-            "Associer la prise du traitement à une habitude quotidienne peut améliorer l’observance.",
-            "Une seule mesure de PA élevée suffit toujours pour affirmer une HTA.",
-            "La PAS correspond à la pression minimale observée pendant le remplissage cardiaque."
-          ],
-          "type": "qcm",
-          "explanation": "L’individualisation favorise la compréhension et l’observance. Une routine stable facilite la régularité du traitement.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "L’éducation thérapeutique doit être adaptée aux connaissances et au mode de vie du patient.",
-            "Associer la prise du traitement à une habitude quotidienne peut améliorer l’observance."
-          ],
-          "correct": [
-            "L’éducation thérapeutique doit être adaptée aux connaissances et au mode de vie du patient.",
-            "Associer la prise du traitement à une habitude quotidienne peut améliorer l’observance."
-          ]
-        },
-        {
-          "text": "À propos de observance, choisissez les deux propositions exactes.",
-          "options": [
-            "Associer la prise du traitement à une habitude quotidienne peut améliorer l’observance.",
-            "L’HTA correspond à une PAS ≥ 140 mmHg et/ou une PAD ≥ 90 mmHg constatée à deux reprises et pas le même jour.",
-            "La PAS correspond à la pression minimale observée pendant le remplissage cardiaque.",
-            "La PAD est la pression maximale produite pendant la systole."
-          ],
-          "type": "qcm",
-          "explanation": "Une routine stable facilite la régularité du traitement. Le diagnostic repose sur des chiffres élevés confirmés à deux reprises, hors situation d’urgence.",
-          "source": "Cours de cardiologie L3, Chapitre 1  Hypertension artérielle, PDF pages 3 à 6.",
-          "answers": [
-            "Associer la prise du traitement à une habitude quotidienne peut améliorer l’observance.",
-            "L’HTA correspond à une PAS ≥ 140 mmHg et/ou une PAD ≥ 90 mmHg constatée à deux reprises et pas le même jour."
-          ],
-          "correct": [
-            "Associer la prise du traitement à une habitude quotidienne peut améliorer l’observance.",
-            "L’HTA correspond à une PAS ≥ 140 mmHg et/ou une PAD ≥ 90 mmHg constatée à deux reprises et pas le même jour."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ide-2",
-      "title": "Cardiologie L3 — Phlébite",
-      "matter": "Cardiologie L3",
-      "filiere": "IDE",
-      "description": "Sujet 2 — 60 questions corrigées",
-      "instructions": "QCD : Vrai ou Faux. QCM : sélectionner la ou les bonnes réponses.",
-      "duration": 90,
-      "programmed": true,
-      "openDate": "2026-01-01",
-      "openTime": "00:00",
-      "closeDate": "2030-12-31",
-      "closeTime": "23:59",
-      "marking": {
-        "correct": 1,
-        "wrong": -1,
-        "empty": 0
-      },
-      "questions": [
-        {
-          "text": "La thrombose veineuse profonde est l’obstruction partielle ou totale d’une veine par un thrombus.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La TVP concerne une veine, le plus souvent profonde, obstruée par un caillot.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La TVP est une infection exclusive des artères coronaires.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La TVP concerne une veine, le plus souvent profonde, obstruée par un caillot.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La complication vitale majeure d’une TVP est l’embolie pulmonaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Un fragment du thrombus peut migrer vers l’artère pulmonaire.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La TVP ne peut jamais entraîner d’embolie pulmonaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Un fragment du thrombus peut migrer vers l’artère pulmonaire.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La maladie post-phlébitique peut entraîner douleurs, varices, œdème et troubles trophiques.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’obstruction veineuse persistante altère durablement le retour veineux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La maladie post-phlébitique n’entraîne aucun trouble trophique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’obstruction veineuse persistante altère durablement le retour veineux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le thrombus se forme souvent au niveau d’une valve veineuse.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La stase autour des valves favorise la thrombose.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le thrombus veineux se forme toujours dans une alvéole pulmonaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La stase autour des valves favorise la thrombose.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’immobilisation prolongée favorise la stase veineuse et la TVP.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La diminution de la pompe musculaire ralentit le retour veineux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’immobilisation prolongée protège contre la TVP.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La diminution de la pompe musculaire ralentit le retour veineux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’insuffisance cardiaque droite peut favoriser une TVP par stase veineuse.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La congestion veineuse favorise la thrombose.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’insuffisance cardiaque droite exclut tout risque de stase veineuse.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La congestion veineuse favorise la thrombose.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Une compression veineuse, un cancer ou un long voyage peuvent favoriser la TVP.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces situations ralentissent le flux veineux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Un long voyage avec immobilité ne constitue jamais un facteur de risque.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces situations ralentissent le flux veineux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La grossesse, le post-partum et certains cancers peuvent augmenter le risque thrombotique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces états peuvent favoriser l’hypercoagulabilité.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le post-partum supprime le risque thrombotique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces états peuvent favoriser l’hypercoagulabilité.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Une TVP du membre inférieur peut se manifester par douleur et œdème unilatéral.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’atteinte est fréquemment unilatérale.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Une TVP provoque obligatoirement un œdème parfaitement symétrique des deux jambes.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’atteinte est fréquemment unilatérale.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Une TVP peut être asymptomatique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le tableau clinique peut être incomplet ou silencieux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’absence de douleur élimine formellement une TVP.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le tableau clinique peut être incomplet ou silencieux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Au stade aigu, le repos strict au lit peut être prescrit pour limiter la migration du thrombus.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La mobilisation dépend de la prescription et du risque embolique.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La marche forcée immédiate est toujours indiquée au stade aigu.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La mobilisation dépend de la prescription et du risque embolique.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La surélévation des pieds du lit favorise le retour veineux.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Elle aide à réduire la stase et l’œdème.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La surélévation des pieds du lit bloque volontairement le retour veineux.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Elle aide à réduire la stase et l’œdème.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le traitement héparinique vise à limiter l’extension et la migration du thrombus.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’anticoagulation prévient l’extension et l’embolie.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’héparine a pour objectif principal de provoquer une thrombose.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’anticoagulation prévient l’extension et l’embolie.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Sous héparine, la surveillance recherche notamment hématomes, épistaxis, gingivorragies, méléna et hématurie.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le risque principal du traitement anticoagulant est hémorragique.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La recherche de saignements est inutile sous héparine.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le risque principal du traitement anticoagulant est hémorragique.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Sous AVK, le patient doit éviter l’automédication et signaler son traitement avant tout soin.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Les interactions et gestes invasifs augmentent le risque hémorragique.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Sous AVK, les injections intramusculaires sont recommandées sans précaution.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Les interactions et gestes invasifs augmentent le risque hémorragique.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Concernant définition, quelle proposition est correcte ?",
-          "options": [
-            "La thrombose veineuse profonde est l’obstruction partielle ou totale d’une veine par un thrombus.",
-            "La TVP ne peut jamais entraîner d’embolie pulmonaire.",
-            "La maladie post-phlébitique n’entraîne aucun trouble trophique.",
-            "Le thrombus veineux se forme toujours dans une alvéole pulmonaire."
-          ],
-          "type": "qcm",
-          "explanation": "La TVP concerne une veine, le plus souvent profonde, obstruée par un caillot.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "La thrombose veineuse profonde est l’obstruction partielle ou totale d’une veine par un thrombus."
-          ],
-          "correct": [
-            "La thrombose veineuse profonde est l’obstruction partielle ou totale d’une veine par un thrombus."
-          ]
-        },
-        {
-          "text": "Concernant gravité, quelle proposition est correcte ?",
-          "options": [
-            "La complication vitale majeure d’une TVP est l’embolie pulmonaire.",
-            "La maladie post-phlébitique n’entraîne aucun trouble trophique.",
-            "Le thrombus veineux se forme toujours dans une alvéole pulmonaire.",
-            "L’immobilisation prolongée protège contre la TVP."
-          ],
-          "type": "qcm",
-          "explanation": "Un fragment du thrombus peut migrer vers l’artère pulmonaire.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "La complication vitale majeure d’une TVP est l’embolie pulmonaire."
-          ],
-          "correct": [
-            "La complication vitale majeure d’une TVP est l’embolie pulmonaire."
-          ]
-        },
-        {
-          "text": "Concernant séquelles, quelle proposition est correcte ?",
-          "options": [
-            "La maladie post-phlébitique peut entraîner douleurs, varices, œdème et troubles trophiques.",
-            "Le thrombus veineux se forme toujours dans une alvéole pulmonaire.",
-            "L’immobilisation prolongée protège contre la TVP.",
-            "L’insuffisance cardiaque droite exclut tout risque de stase veineuse."
-          ],
-          "type": "qcm",
-          "explanation": "L’obstruction veineuse persistante altère durablement le retour veineux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "La maladie post-phlébitique peut entraîner douleurs, varices, œdème et troubles trophiques."
-          ],
-          "correct": [
-            "La maladie post-phlébitique peut entraîner douleurs, varices, œdème et troubles trophiques."
-          ]
-        },
-        {
-          "text": "Concernant mécanisme, quelle proposition est correcte ?",
-          "options": [
-            "Le thrombus se forme souvent au niveau d’une valve veineuse.",
-            "L’immobilisation prolongée protège contre la TVP.",
-            "L’insuffisance cardiaque droite exclut tout risque de stase veineuse.",
-            "Un long voyage avec immobilité ne constitue jamais un facteur de risque."
-          ],
-          "type": "qcm",
-          "explanation": "La stase autour des valves favorise la thrombose.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Le thrombus se forme souvent au niveau d’une valve veineuse."
-          ],
-          "correct": [
-            "Le thrombus se forme souvent au niveau d’une valve veineuse."
-          ]
-        },
-        {
-          "text": "Concernant stase, quelle proposition est correcte ?",
-          "options": [
-            "L’immobilisation prolongée favorise la stase veineuse et la TVP.",
-            "L’insuffisance cardiaque droite exclut tout risque de stase veineuse.",
-            "Un long voyage avec immobilité ne constitue jamais un facteur de risque.",
-            "Le post-partum supprime le risque thrombotique."
-          ],
-          "type": "qcm",
-          "explanation": "La diminution de la pompe musculaire ralentit le retour veineux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "L’immobilisation prolongée favorise la stase veineuse et la TVP."
-          ],
-          "correct": [
-            "L’immobilisation prolongée favorise la stase veineuse et la TVP."
-          ]
-        },
-        {
-          "text": "Concernant facteur cardiaque, quelle proposition est correcte ?",
-          "options": [
-            "L’insuffisance cardiaque droite peut favoriser une TVP par stase veineuse.",
-            "Un long voyage avec immobilité ne constitue jamais un facteur de risque.",
-            "Le post-partum supprime le risque thrombotique.",
-            "Une TVP provoque obligatoirement un œdème parfaitement symétrique des deux jambes."
-          ],
-          "type": "qcm",
-          "explanation": "La congestion veineuse favorise la thrombose.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "L’insuffisance cardiaque droite peut favoriser une TVP par stase veineuse."
-          ],
-          "correct": [
-            "L’insuffisance cardiaque droite peut favoriser une TVP par stase veineuse."
-          ]
-        },
-        {
-          "text": "Concernant compression, quelle proposition est correcte ?",
-          "options": [
-            "Une compression veineuse, un cancer ou un long voyage peuvent favoriser la TVP.",
-            "Le post-partum supprime le risque thrombotique.",
-            "Une TVP provoque obligatoirement un œdème parfaitement symétrique des deux jambes.",
-            "L’absence de douleur élimine formellement une TVP."
-          ],
-          "type": "qcm",
-          "explanation": "Ces situations ralentissent le flux veineux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Une compression veineuse, un cancer ou un long voyage peuvent favoriser la TVP."
-          ],
-          "correct": [
-            "Une compression veineuse, un cancer ou un long voyage peuvent favoriser la TVP."
-          ]
-        },
-        {
-          "text": "Concernant hypercoagulabilité, quelle proposition est correcte ?",
-          "options": [
-            "La grossesse, le post-partum et certains cancers peuvent augmenter le risque thrombotique.",
-            "Une TVP provoque obligatoirement un œdème parfaitement symétrique des deux jambes.",
-            "L’absence de douleur élimine formellement une TVP.",
-            "La marche forcée immédiate est toujours indiquée au stade aigu."
-          ],
-          "type": "qcm",
-          "explanation": "Ces états peuvent favoriser l’hypercoagulabilité.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "La grossesse, le post-partum et certains cancers peuvent augmenter le risque thrombotique."
-          ],
-          "correct": [
-            "La grossesse, le post-partum et certains cancers peuvent augmenter le risque thrombotique."
-          ]
-        },
-        {
-          "text": "Concernant signes, quelle proposition est correcte ?",
-          "options": [
-            "Une TVP du membre inférieur peut se manifester par douleur et œdème unilatéral.",
-            "L’absence de douleur élimine formellement une TVP.",
-            "La marche forcée immédiate est toujours indiquée au stade aigu.",
-            "La surélévation des pieds du lit bloque volontairement le retour veineux."
-          ],
-          "type": "qcm",
-          "explanation": "L’atteinte est fréquemment unilatérale.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Une TVP du membre inférieur peut se manifester par douleur et œdème unilatéral."
-          ],
-          "correct": [
-            "Une TVP du membre inférieur peut se manifester par douleur et œdème unilatéral."
-          ]
-        },
-        {
-          "text": "Concernant asymptomatique, quelle proposition est correcte ?",
-          "options": [
-            "Une TVP peut être asymptomatique.",
-            "La marche forcée immédiate est toujours indiquée au stade aigu.",
-            "La surélévation des pieds du lit bloque volontairement le retour veineux.",
-            "L’héparine a pour objectif principal de provoquer une thrombose."
-          ],
-          "type": "qcm",
-          "explanation": "Le tableau clinique peut être incomplet ou silencieux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Une TVP peut être asymptomatique."
-          ],
-          "correct": [
-            "Une TVP peut être asymptomatique."
-          ]
-        },
-        {
-          "text": "Concernant repos, quelle proposition est correcte ?",
-          "options": [
-            "Au stade aigu, le repos strict au lit peut être prescrit pour limiter la migration du thrombus.",
-            "La surélévation des pieds du lit bloque volontairement le retour veineux.",
-            "L’héparine a pour objectif principal de provoquer une thrombose.",
-            "La recherche de saignements est inutile sous héparine."
-          ],
-          "type": "qcm",
-          "explanation": "La mobilisation dépend de la prescription et du risque embolique.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Au stade aigu, le repos strict au lit peut être prescrit pour limiter la migration du thrombus."
-          ],
-          "correct": [
-            "Au stade aigu, le repos strict au lit peut être prescrit pour limiter la migration du thrombus."
-          ]
-        },
-        {
-          "text": "Concernant surélévation, quelle proposition est correcte ?",
-          "options": [
-            "La surélévation des pieds du lit favorise le retour veineux.",
-            "L’héparine a pour objectif principal de provoquer une thrombose.",
-            "La recherche de saignements est inutile sous héparine.",
-            "Sous AVK, les injections intramusculaires sont recommandées sans précaution."
-          ],
-          "type": "qcm",
-          "explanation": "Elle aide à réduire la stase et l’œdème.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "La surélévation des pieds du lit favorise le retour veineux."
-          ],
-          "correct": [
-            "La surélévation des pieds du lit favorise le retour veineux."
-          ]
-        },
-        {
-          "text": "Concernant héparine, quelle proposition est correcte ?",
-          "options": [
-            "Le traitement héparinique vise à limiter l’extension et la migration du thrombus.",
-            "La recherche de saignements est inutile sous héparine.",
-            "Sous AVK, les injections intramusculaires sont recommandées sans précaution.",
-            "La TVP est une infection exclusive des artères coronaires."
-          ],
-          "type": "qcm",
-          "explanation": "L’anticoagulation prévient l’extension et l’embolie.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Le traitement héparinique vise à limiter l’extension et la migration du thrombus."
-          ],
-          "correct": [
-            "Le traitement héparinique vise à limiter l’extension et la migration du thrombus."
-          ]
-        },
-        {
-          "text": "Concernant surveillance, quelle proposition est correcte ?",
-          "options": [
-            "Sous héparine, la surveillance recherche notamment hématomes, épistaxis, gingivorragies, méléna et hématurie.",
-            "Sous AVK, les injections intramusculaires sont recommandées sans précaution.",
-            "La TVP est une infection exclusive des artères coronaires.",
-            "La TVP ne peut jamais entraîner d’embolie pulmonaire."
-          ],
-          "type": "qcm",
-          "explanation": "Le risque principal du traitement anticoagulant est hémorragique.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Sous héparine, la surveillance recherche notamment hématomes, épistaxis, gingivorragies, méléna et hématurie."
-          ],
-          "correct": [
-            "Sous héparine, la surveillance recherche notamment hématomes, épistaxis, gingivorragies, méléna et hématurie."
-          ]
-        },
-        {
-          "text": "Concernant éducation AVK, quelle proposition est correcte ?",
-          "options": [
-            "Sous AVK, le patient doit éviter l’automédication et signaler son traitement avant tout soin.",
-            "La TVP est une infection exclusive des artères coronaires.",
-            "La TVP ne peut jamais entraîner d’embolie pulmonaire.",
-            "La maladie post-phlébitique n’entraîne aucun trouble trophique."
-          ],
-          "type": "qcm",
-          "explanation": "Les interactions et gestes invasifs augmentent le risque hémorragique.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Sous AVK, le patient doit éviter l’automédication et signaler son traitement avant tout soin."
-          ],
-          "correct": [
-            "Sous AVK, le patient doit éviter l’automédication et signaler son traitement avant tout soin."
-          ]
-        },
-        {
-          "text": "À propos de définition, choisissez les deux propositions exactes.",
-          "options": [
-            "La thrombose veineuse profonde est l’obstruction partielle ou totale d’une veine par un thrombus.",
-            "La complication vitale majeure d’une TVP est l’embolie pulmonaire.",
-            "La maladie post-phlébitique n’entraîne aucun trouble trophique.",
-            "Le thrombus veineux se forme toujours dans une alvéole pulmonaire."
-          ],
-          "type": "qcm",
-          "explanation": "La TVP concerne une veine, le plus souvent profonde, obstruée par un caillot. Un fragment du thrombus peut migrer vers l’artère pulmonaire.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "La thrombose veineuse profonde est l’obstruction partielle ou totale d’une veine par un thrombus.",
-            "La complication vitale majeure d’une TVP est l’embolie pulmonaire."
-          ],
-          "correct": [
-            "La thrombose veineuse profonde est l’obstruction partielle ou totale d’une veine par un thrombus.",
-            "La complication vitale majeure d’une TVP est l’embolie pulmonaire."
-          ]
-        },
-        {
-          "text": "À propos de gravité, choisissez les deux propositions exactes.",
-          "options": [
-            "La complication vitale majeure d’une TVP est l’embolie pulmonaire.",
-            "La maladie post-phlébitique peut entraîner douleurs, varices, œdème et troubles trophiques.",
-            "Le thrombus veineux se forme toujours dans une alvéole pulmonaire.",
-            "L’immobilisation prolongée protège contre la TVP."
-          ],
-          "type": "qcm",
-          "explanation": "Un fragment du thrombus peut migrer vers l’artère pulmonaire. L’obstruction veineuse persistante altère durablement le retour veineux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "La complication vitale majeure d’une TVP est l’embolie pulmonaire.",
-            "La maladie post-phlébitique peut entraîner douleurs, varices, œdème et troubles trophiques."
-          ],
-          "correct": [
-            "La complication vitale majeure d’une TVP est l’embolie pulmonaire.",
-            "La maladie post-phlébitique peut entraîner douleurs, varices, œdème et troubles trophiques."
-          ]
-        },
-        {
-          "text": "À propos de séquelles, choisissez les deux propositions exactes.",
-          "options": [
-            "La maladie post-phlébitique peut entraîner douleurs, varices, œdème et troubles trophiques.",
-            "Le thrombus se forme souvent au niveau d’une valve veineuse.",
-            "L’immobilisation prolongée protège contre la TVP.",
-            "L’insuffisance cardiaque droite exclut tout risque de stase veineuse."
-          ],
-          "type": "qcm",
-          "explanation": "L’obstruction veineuse persistante altère durablement le retour veineux. La stase autour des valves favorise la thrombose.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "La maladie post-phlébitique peut entraîner douleurs, varices, œdème et troubles trophiques.",
-            "Le thrombus se forme souvent au niveau d’une valve veineuse."
-          ],
-          "correct": [
-            "La maladie post-phlébitique peut entraîner douleurs, varices, œdème et troubles trophiques.",
-            "Le thrombus se forme souvent au niveau d’une valve veineuse."
-          ]
-        },
-        {
-          "text": "À propos de mécanisme, choisissez les deux propositions exactes.",
-          "options": [
-            "Le thrombus se forme souvent au niveau d’une valve veineuse.",
-            "L’immobilisation prolongée favorise la stase veineuse et la TVP.",
-            "L’insuffisance cardiaque droite exclut tout risque de stase veineuse.",
-            "Un long voyage avec immobilité ne constitue jamais un facteur de risque."
-          ],
-          "type": "qcm",
-          "explanation": "La stase autour des valves favorise la thrombose. La diminution de la pompe musculaire ralentit le retour veineux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Le thrombus se forme souvent au niveau d’une valve veineuse.",
-            "L’immobilisation prolongée favorise la stase veineuse et la TVP."
-          ],
-          "correct": [
-            "Le thrombus se forme souvent au niveau d’une valve veineuse.",
-            "L’immobilisation prolongée favorise la stase veineuse et la TVP."
-          ]
-        },
-        {
-          "text": "À propos de stase, choisissez les deux propositions exactes.",
-          "options": [
-            "L’immobilisation prolongée favorise la stase veineuse et la TVP.",
-            "L’insuffisance cardiaque droite peut favoriser une TVP par stase veineuse.",
-            "Un long voyage avec immobilité ne constitue jamais un facteur de risque.",
-            "Le post-partum supprime le risque thrombotique."
-          ],
-          "type": "qcm",
-          "explanation": "La diminution de la pompe musculaire ralentit le retour veineux. La congestion veineuse favorise la thrombose.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "L’immobilisation prolongée favorise la stase veineuse et la TVP.",
-            "L’insuffisance cardiaque droite peut favoriser une TVP par stase veineuse."
-          ],
-          "correct": [
-            "L’immobilisation prolongée favorise la stase veineuse et la TVP.",
-            "L’insuffisance cardiaque droite peut favoriser une TVP par stase veineuse."
-          ]
-        },
-        {
-          "text": "À propos de facteur cardiaque, choisissez les deux propositions exactes.",
-          "options": [
-            "L’insuffisance cardiaque droite peut favoriser une TVP par stase veineuse.",
-            "Une compression veineuse, un cancer ou un long voyage peuvent favoriser la TVP.",
-            "Le post-partum supprime le risque thrombotique.",
-            "Une TVP provoque obligatoirement un œdème parfaitement symétrique des deux jambes."
-          ],
-          "type": "qcm",
-          "explanation": "La congestion veineuse favorise la thrombose. Ces situations ralentissent le flux veineux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "L’insuffisance cardiaque droite peut favoriser une TVP par stase veineuse.",
-            "Une compression veineuse, un cancer ou un long voyage peuvent favoriser la TVP."
-          ],
-          "correct": [
-            "L’insuffisance cardiaque droite peut favoriser une TVP par stase veineuse.",
-            "Une compression veineuse, un cancer ou un long voyage peuvent favoriser la TVP."
-          ]
-        },
-        {
-          "text": "À propos de compression, choisissez les deux propositions exactes.",
-          "options": [
-            "Une compression veineuse, un cancer ou un long voyage peuvent favoriser la TVP.",
-            "La grossesse, le post-partum et certains cancers peuvent augmenter le risque thrombotique.",
-            "Une TVP provoque obligatoirement un œdème parfaitement symétrique des deux jambes.",
-            "L’absence de douleur élimine formellement une TVP."
-          ],
-          "type": "qcm",
-          "explanation": "Ces situations ralentissent le flux veineux. Ces états peuvent favoriser l’hypercoagulabilité.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Une compression veineuse, un cancer ou un long voyage peuvent favoriser la TVP.",
-            "La grossesse, le post-partum et certains cancers peuvent augmenter le risque thrombotique."
-          ],
-          "correct": [
-            "Une compression veineuse, un cancer ou un long voyage peuvent favoriser la TVP.",
-            "La grossesse, le post-partum et certains cancers peuvent augmenter le risque thrombotique."
-          ]
-        },
-        {
-          "text": "À propos de hypercoagulabilité, choisissez les deux propositions exactes.",
-          "options": [
-            "La grossesse, le post-partum et certains cancers peuvent augmenter le risque thrombotique.",
-            "Une TVP du membre inférieur peut se manifester par douleur et œdème unilatéral.",
-            "L’absence de douleur élimine formellement une TVP.",
-            "La marche forcée immédiate est toujours indiquée au stade aigu."
-          ],
-          "type": "qcm",
-          "explanation": "Ces états peuvent favoriser l’hypercoagulabilité. L’atteinte est fréquemment unilatérale.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "La grossesse, le post-partum et certains cancers peuvent augmenter le risque thrombotique.",
-            "Une TVP du membre inférieur peut se manifester par douleur et œdème unilatéral."
-          ],
-          "correct": [
-            "La grossesse, le post-partum et certains cancers peuvent augmenter le risque thrombotique.",
-            "Une TVP du membre inférieur peut se manifester par douleur et œdème unilatéral."
-          ]
-        },
-        {
-          "text": "À propos de signes, choisissez les deux propositions exactes.",
-          "options": [
-            "Une TVP du membre inférieur peut se manifester par douleur et œdème unilatéral.",
-            "Une TVP peut être asymptomatique.",
-            "La marche forcée immédiate est toujours indiquée au stade aigu.",
-            "La surélévation des pieds du lit bloque volontairement le retour veineux."
-          ],
-          "type": "qcm",
-          "explanation": "L’atteinte est fréquemment unilatérale. Le tableau clinique peut être incomplet ou silencieux.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Une TVP du membre inférieur peut se manifester par douleur et œdème unilatéral.",
-            "Une TVP peut être asymptomatique."
-          ],
-          "correct": [
-            "Une TVP du membre inférieur peut se manifester par douleur et œdème unilatéral.",
-            "Une TVP peut être asymptomatique."
-          ]
-        },
-        {
-          "text": "À propos de asymptomatique, choisissez les deux propositions exactes.",
-          "options": [
-            "Une TVP peut être asymptomatique.",
-            "Au stade aigu, le repos strict au lit peut être prescrit pour limiter la migration du thrombus.",
-            "La surélévation des pieds du lit bloque volontairement le retour veineux.",
-            "L’héparine a pour objectif principal de provoquer une thrombose."
-          ],
-          "type": "qcm",
-          "explanation": "Le tableau clinique peut être incomplet ou silencieux. La mobilisation dépend de la prescription et du risque embolique.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Une TVP peut être asymptomatique.",
-            "Au stade aigu, le repos strict au lit peut être prescrit pour limiter la migration du thrombus."
-          ],
-          "correct": [
-            "Une TVP peut être asymptomatique.",
-            "Au stade aigu, le repos strict au lit peut être prescrit pour limiter la migration du thrombus."
-          ]
-        },
-        {
-          "text": "À propos de repos, choisissez les deux propositions exactes.",
-          "options": [
-            "Au stade aigu, le repos strict au lit peut être prescrit pour limiter la migration du thrombus.",
-            "La surélévation des pieds du lit favorise le retour veineux.",
-            "L’héparine a pour objectif principal de provoquer une thrombose.",
-            "La recherche de saignements est inutile sous héparine."
-          ],
-          "type": "qcm",
-          "explanation": "La mobilisation dépend de la prescription et du risque embolique. Elle aide à réduire la stase et l’œdème.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Au stade aigu, le repos strict au lit peut être prescrit pour limiter la migration du thrombus.",
-            "La surélévation des pieds du lit favorise le retour veineux."
-          ],
-          "correct": [
-            "Au stade aigu, le repos strict au lit peut être prescrit pour limiter la migration du thrombus.",
-            "La surélévation des pieds du lit favorise le retour veineux."
-          ]
-        },
-        {
-          "text": "À propos de surélévation, choisissez les deux propositions exactes.",
-          "options": [
-            "La surélévation des pieds du lit favorise le retour veineux.",
-            "Le traitement héparinique vise à limiter l’extension et la migration du thrombus.",
-            "La recherche de saignements est inutile sous héparine.",
-            "Sous AVK, les injections intramusculaires sont recommandées sans précaution."
-          ],
-          "type": "qcm",
-          "explanation": "Elle aide à réduire la stase et l’œdème. L’anticoagulation prévient l’extension et l’embolie.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "La surélévation des pieds du lit favorise le retour veineux.",
-            "Le traitement héparinique vise à limiter l’extension et la migration du thrombus."
-          ],
-          "correct": [
-            "La surélévation des pieds du lit favorise le retour veineux.",
-            "Le traitement héparinique vise à limiter l’extension et la migration du thrombus."
-          ]
-        },
-        {
-          "text": "À propos de héparine, choisissez les deux propositions exactes.",
-          "options": [
-            "Le traitement héparinique vise à limiter l’extension et la migration du thrombus.",
-            "Sous héparine, la surveillance recherche notamment hématomes, épistaxis, gingivorragies, méléna et hématurie.",
-            "Sous AVK, les injections intramusculaires sont recommandées sans précaution.",
-            "La TVP est une infection exclusive des artères coronaires."
-          ],
-          "type": "qcm",
-          "explanation": "L’anticoagulation prévient l’extension et l’embolie. Le risque principal du traitement anticoagulant est hémorragique.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Le traitement héparinique vise à limiter l’extension et la migration du thrombus.",
-            "Sous héparine, la surveillance recherche notamment hématomes, épistaxis, gingivorragies, méléna et hématurie."
-          ],
-          "correct": [
-            "Le traitement héparinique vise à limiter l’extension et la migration du thrombus.",
-            "Sous héparine, la surveillance recherche notamment hématomes, épistaxis, gingivorragies, méléna et hématurie."
-          ]
-        },
-        {
-          "text": "À propos de surveillance, choisissez les deux propositions exactes.",
-          "options": [
-            "Sous héparine, la surveillance recherche notamment hématomes, épistaxis, gingivorragies, méléna et hématurie.",
-            "Sous AVK, le patient doit éviter l’automédication et signaler son traitement avant tout soin.",
-            "La TVP est une infection exclusive des artères coronaires.",
-            "La TVP ne peut jamais entraîner d’embolie pulmonaire."
-          ],
-          "type": "qcm",
-          "explanation": "Le risque principal du traitement anticoagulant est hémorragique. Les interactions et gestes invasifs augmentent le risque hémorragique.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Sous héparine, la surveillance recherche notamment hématomes, épistaxis, gingivorragies, méléna et hématurie.",
-            "Sous AVK, le patient doit éviter l’automédication et signaler son traitement avant tout soin."
-          ],
-          "correct": [
-            "Sous héparine, la surveillance recherche notamment hématomes, épistaxis, gingivorragies, méléna et hématurie.",
-            "Sous AVK, le patient doit éviter l’automédication et signaler son traitement avant tout soin."
-          ]
-        },
-        {
-          "text": "À propos de éducation AVK, choisissez les deux propositions exactes.",
-          "options": [
-            "Sous AVK, le patient doit éviter l’automédication et signaler son traitement avant tout soin.",
-            "La thrombose veineuse profonde est l’obstruction partielle ou totale d’une veine par un thrombus.",
-            "La TVP ne peut jamais entraîner d’embolie pulmonaire.",
-            "La maladie post-phlébitique n’entraîne aucun trouble trophique."
-          ],
-          "type": "qcm",
-          "explanation": "Les interactions et gestes invasifs augmentent le risque hémorragique. La TVP concerne une veine, le plus souvent profonde, obstruée par un caillot.",
-          "source": "Cours de cardiologie L3, Chapitre 2  Phlébite, PDF pages 7 à 10.",
-          "answers": [
-            "Sous AVK, le patient doit éviter l’automédication et signaler son traitement avant tout soin.",
-            "La thrombose veineuse profonde est l’obstruction partielle ou totale d’une veine par un thrombus."
-          ],
-          "correct": [
-            "Sous AVK, le patient doit éviter l’automédication et signaler son traitement avant tout soin.",
-            "La thrombose veineuse profonde est l’obstruction partielle ou totale d’une veine par un thrombus."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ide-3",
-      "title": "Cardiologie L3 — Embolie pulmonaire",
-      "matter": "Cardiologie L3",
-      "filiere": "IDE",
-      "description": "Sujet 3 — 60 questions corrigées",
-      "instructions": "QCD : Vrai ou Faux. QCM : sélectionner la ou les bonnes réponses.",
-      "duration": 90,
-      "programmed": true,
-      "openDate": "2026-01-01",
-      "openTime": "00:00",
-      "closeDate": "2030-12-31",
-      "closeTime": "23:59",
-      "marking": {
-        "correct": 1,
-        "wrong": -1,
-        "empty": 0
-      },
-      "questions": [
-        {
-          "text": "L’embolie pulmonaire est l’obstruction brutale d’une branche de l’artère pulmonaire par un ou plusieurs emboles.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’embole atteint la circulation pulmonaire après migration.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’embolie pulmonaire est une obstruction chronique exclusive de l’aorte.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’embole atteint la circulation pulmonaire après migration.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Dans la majorité des cas, l’embolie pulmonaire provient d’une thrombose veineuse profonde.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le thrombus veineux migre vers le cœur droit puis l’artère pulmonaire.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’embolie pulmonaire ne peut jamais provenir d’une TVP.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le thrombus veineux migre vers le cœur droit puis l’artère pulmonaire.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’embole se bloque lorsque le calibre artériel devient inférieur à celui du caillot.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’obstruction réduit ou abolit la perfusion du territoire concerné.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Un embole ne modifie jamais le débit sanguin pulmonaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’obstruction réduit ou abolit la perfusion du territoire concerné.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La douleur thoracique de l’EP peut être brutale et unilatérale, à type de coup de poignard.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La douleur pleurale brutale est un signe évocateur.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La douleur d’EP est toujours ancienne, progressive et uniquement abdominale.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La douleur pleurale brutale est un signe évocateur.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Une dyspnée brutale peut révéler une embolie pulmonaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’altération de la perfusion pulmonaire provoque une gêne respiratoire.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Une embolie pulmonaire n’entraîne jamais de dyspnée.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’altération de la perfusion pulmonaire provoque une gêne respiratoire.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’hémoptysie correspond à un crachat de sang rouge lors d’un effort de toux.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ce signe respiratoire peut accompagner l’EP.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’hémoptysie désigne uniquement un saignement urinaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ce signe respiratoire peut accompagner l’EP.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Des râles crépitants localisés peuvent être retrouvés à l’auscultation.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Des anomalies focales peuvent exister.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’auscultation pulmonaire est toujours normale dans toute EP.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Des anomalies focales peuvent exister.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Une EP grave peut provoquer hypotension et tachycardie.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La baisse du retour veineux et du débit cardiaque explique l’hypotension.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Une EP grave provoque obligatoirement hypertension et bradycardie.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La baisse du retour veineux et du débit cardiaque explique l’hypotension.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Une angoisse intense avec impression de mort imminente peut accompagner l’EP.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La détresse respiratoire aiguë peut provoquer une angoisse majeure.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’EP exclut toute manifestation anxieuse.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La détresse respiratoire aiguë peut provoquer une angoisse majeure.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La gazométrie peut montrer une hypoxémie et une hypocapnie.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La zone ventilée mais non perfusée altère les échanges gazeux.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La gazométrie montre obligatoirement une hyperoxémie.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La zone ventilée mais non perfusée altère les échanges gazeux.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Une gazométrie normale n’exclut pas toujours une embolie pulmonaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours indique qu’elle peut être normale chez certains patients.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Une gazométrie normale élimine formellement toute EP.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours indique qu’elle peut être normale chez certains patients.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Un ECG est systématique devant une douleur thoracique et évalue notamment le retentissement droit.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Il contribue au diagnostic différentiel et à l’évaluation cardiaque.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’ECG est interdit devant une douleur thoracique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Il contribue au diagnostic différentiel et à l’évaluation cardiaque.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Une radiographie thoracique normale n’exclut pas le diagnostic d’EP.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La radiographie peut être normale malgré une embolie.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Une radiographie normale élimine toujours l’EP.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La radiographie peut être normale malgré une embolie.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’échodoppler des membres inférieurs recherche une thrombose veineuse profonde.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Il recherche la source veineuse de l’embolie.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’échodoppler des membres inférieurs mesure uniquement la glycémie.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Il recherche la source veineuse de l’embolie.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’angioscanner spiralé avec injection iodée peut visualiser l’embolie pulmonaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "C’est un examen majeur de confirmation diagnostique.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’angioscanner ne peut jamais visualiser les artères pulmonaires.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "C’est un examen majeur de confirmation diagnostique.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Concernant définition, quelle proposition est correcte ?",
-          "options": [
-            "L’embolie pulmonaire est l’obstruction brutale d’une branche de l’artère pulmonaire par un ou plusieurs emboles.",
-            "L’embolie pulmonaire ne peut jamais provenir d’une TVP.",
-            "Un embole ne modifie jamais le débit sanguin pulmonaire.",
-            "La douleur d’EP est toujours ancienne, progressive et uniquement abdominale."
-          ],
-          "type": "qcm",
-          "explanation": "L’embole atteint la circulation pulmonaire après migration.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "L’embolie pulmonaire est l’obstruction brutale d’une branche de l’artère pulmonaire par un ou plusieurs emboles."
-          ],
-          "correct": [
-            "L’embolie pulmonaire est l’obstruction brutale d’une branche de l’artère pulmonaire par un ou plusieurs emboles."
-          ]
-        },
-        {
-          "text": "Concernant origine, quelle proposition est correcte ?",
-          "options": [
-            "Dans la majorité des cas, l’embolie pulmonaire provient d’une thrombose veineuse profonde.",
-            "Un embole ne modifie jamais le débit sanguin pulmonaire.",
-            "La douleur d’EP est toujours ancienne, progressive et uniquement abdominale.",
-            "Une embolie pulmonaire n’entraîne jamais de dyspnée."
-          ],
-          "type": "qcm",
-          "explanation": "Le thrombus veineux migre vers le cœur droit puis l’artère pulmonaire.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Dans la majorité des cas, l’embolie pulmonaire provient d’une thrombose veineuse profonde."
-          ],
-          "correct": [
-            "Dans la majorité des cas, l’embolie pulmonaire provient d’une thrombose veineuse profonde."
-          ]
-        },
-        {
-          "text": "Concernant mécanique, quelle proposition est correcte ?",
-          "options": [
-            "L’embole se bloque lorsque le calibre artériel devient inférieur à celui du caillot.",
-            "La douleur d’EP est toujours ancienne, progressive et uniquement abdominale.",
-            "Une embolie pulmonaire n’entraîne jamais de dyspnée.",
-            "L’hémoptysie désigne uniquement un saignement urinaire."
-          ],
-          "type": "qcm",
-          "explanation": "L’obstruction réduit ou abolit la perfusion du territoire concerné.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "L’embole se bloque lorsque le calibre artériel devient inférieur à celui du caillot."
-          ],
-          "correct": [
-            "L’embole se bloque lorsque le calibre artériel devient inférieur à celui du caillot."
-          ]
-        },
-        {
-          "text": "Concernant douleur, quelle proposition est correcte ?",
-          "options": [
-            "La douleur thoracique de l’EP peut être brutale et unilatérale, à type de coup de poignard.",
-            "Une embolie pulmonaire n’entraîne jamais de dyspnée.",
-            "L’hémoptysie désigne uniquement un saignement urinaire.",
-            "L’auscultation pulmonaire est toujours normale dans toute EP."
-          ],
-          "type": "qcm",
-          "explanation": "La douleur pleurale brutale est un signe évocateur.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "La douleur thoracique de l’EP peut être brutale et unilatérale, à type de coup de poignard."
-          ],
-          "correct": [
-            "La douleur thoracique de l’EP peut être brutale et unilatérale, à type de coup de poignard."
-          ]
-        },
-        {
-          "text": "Concernant dyspnée, quelle proposition est correcte ?",
-          "options": [
-            "Une dyspnée brutale peut révéler une embolie pulmonaire.",
-            "L’hémoptysie désigne uniquement un saignement urinaire.",
-            "L’auscultation pulmonaire est toujours normale dans toute EP.",
-            "Une EP grave provoque obligatoirement hypertension et bradycardie."
-          ],
-          "type": "qcm",
-          "explanation": "L’altération de la perfusion pulmonaire provoque une gêne respiratoire.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Une dyspnée brutale peut révéler une embolie pulmonaire."
-          ],
-          "correct": [
-            "Une dyspnée brutale peut révéler une embolie pulmonaire."
-          ]
-        },
-        {
-          "text": "Concernant hémoptysie, quelle proposition est correcte ?",
-          "options": [
-            "L’hémoptysie correspond à un crachat de sang rouge lors d’un effort de toux.",
-            "L’auscultation pulmonaire est toujours normale dans toute EP.",
-            "Une EP grave provoque obligatoirement hypertension et bradycardie.",
-            "L’EP exclut toute manifestation anxieuse."
-          ],
-          "type": "qcm",
-          "explanation": "Ce signe respiratoire peut accompagner l’EP.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "L’hémoptysie correspond à un crachat de sang rouge lors d’un effort de toux."
-          ],
-          "correct": [
-            "L’hémoptysie correspond à un crachat de sang rouge lors d’un effort de toux."
-          ]
-        },
-        {
-          "text": "Concernant auscultation, quelle proposition est correcte ?",
-          "options": [
-            "Des râles crépitants localisés peuvent être retrouvés à l’auscultation.",
-            "Une EP grave provoque obligatoirement hypertension et bradycardie.",
-            "L’EP exclut toute manifestation anxieuse.",
-            "La gazométrie montre obligatoirement une hyperoxémie."
-          ],
-          "type": "qcm",
-          "explanation": "Des anomalies focales peuvent exister.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Des râles crépitants localisés peuvent être retrouvés à l’auscultation."
-          ],
-          "correct": [
-            "Des râles crépitants localisés peuvent être retrouvés à l’auscultation."
-          ]
-        },
-        {
-          "text": "Concernant circulation, quelle proposition est correcte ?",
-          "options": [
-            "Une EP grave peut provoquer hypotension et tachycardie.",
-            "L’EP exclut toute manifestation anxieuse.",
-            "La gazométrie montre obligatoirement une hyperoxémie.",
-            "Une gazométrie normale élimine formellement toute EP."
-          ],
-          "type": "qcm",
-          "explanation": "La baisse du retour veineux et du débit cardiaque explique l’hypotension.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Une EP grave peut provoquer hypotension et tachycardie."
-          ],
-          "correct": [
-            "Une EP grave peut provoquer hypotension et tachycardie."
-          ]
-        },
-        {
-          "text": "Concernant angoisse, quelle proposition est correcte ?",
-          "options": [
-            "Une angoisse intense avec impression de mort imminente peut accompagner l’EP.",
-            "La gazométrie montre obligatoirement une hyperoxémie.",
-            "Une gazométrie normale élimine formellement toute EP.",
-            "L’ECG est interdit devant une douleur thoracique."
-          ],
-          "type": "qcm",
-          "explanation": "La détresse respiratoire aiguë peut provoquer une angoisse majeure.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Une angoisse intense avec impression de mort imminente peut accompagner l’EP."
-          ],
-          "correct": [
-            "Une angoisse intense avec impression de mort imminente peut accompagner l’EP."
-          ]
-        },
-        {
-          "text": "Concernant gazométrie, quelle proposition est correcte ?",
-          "options": [
-            "La gazométrie peut montrer une hypoxémie et une hypocapnie.",
-            "Une gazométrie normale élimine formellement toute EP.",
-            "L’ECG est interdit devant une douleur thoracique.",
-            "Une radiographie normale élimine toujours l’EP."
-          ],
-          "type": "qcm",
-          "explanation": "La zone ventilée mais non perfusée altère les échanges gazeux.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "La gazométrie peut montrer une hypoxémie et une hypocapnie."
-          ],
-          "correct": [
-            "La gazométrie peut montrer une hypoxémie et une hypocapnie."
-          ]
-        },
-        {
-          "text": "Concernant gazométrie normale, quelle proposition est correcte ?",
-          "options": [
-            "Une gazométrie normale n’exclut pas toujours une embolie pulmonaire.",
-            "L’ECG est interdit devant une douleur thoracique.",
-            "Une radiographie normale élimine toujours l’EP.",
-            "L’échodoppler des membres inférieurs mesure uniquement la glycémie."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours indique qu’elle peut être normale chez certains patients.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Une gazométrie normale n’exclut pas toujours une embolie pulmonaire."
-          ],
-          "correct": [
-            "Une gazométrie normale n’exclut pas toujours une embolie pulmonaire."
-          ]
-        },
-        {
-          "text": "Concernant ECG, quelle proposition est correcte ?",
-          "options": [
-            "Un ECG est systématique devant une douleur thoracique et évalue notamment le retentissement droit.",
-            "Une radiographie normale élimine toujours l’EP.",
-            "L’échodoppler des membres inférieurs mesure uniquement la glycémie.",
-            "L’angioscanner ne peut jamais visualiser les artères pulmonaires."
-          ],
-          "type": "qcm",
-          "explanation": "Il contribue au diagnostic différentiel et à l’évaluation cardiaque.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Un ECG est systématique devant une douleur thoracique et évalue notamment le retentissement droit."
-          ],
-          "correct": [
-            "Un ECG est systématique devant une douleur thoracique et évalue notamment le retentissement droit."
-          ]
-        },
-        {
-          "text": "Concernant radiographie, quelle proposition est correcte ?",
-          "options": [
-            "Une radiographie thoracique normale n’exclut pas le diagnostic d’EP.",
-            "L’échodoppler des membres inférieurs mesure uniquement la glycémie.",
-            "L’angioscanner ne peut jamais visualiser les artères pulmonaires.",
-            "L’embolie pulmonaire est une obstruction chronique exclusive de l’aorte."
-          ],
-          "type": "qcm",
-          "explanation": "La radiographie peut être normale malgré une embolie.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Une radiographie thoracique normale n’exclut pas le diagnostic d’EP."
-          ],
-          "correct": [
-            "Une radiographie thoracique normale n’exclut pas le diagnostic d’EP."
-          ]
-        },
-        {
-          "text": "Concernant échodoppler, quelle proposition est correcte ?",
-          "options": [
-            "L’échodoppler des membres inférieurs recherche une thrombose veineuse profonde.",
-            "L’angioscanner ne peut jamais visualiser les artères pulmonaires.",
-            "L’embolie pulmonaire est une obstruction chronique exclusive de l’aorte.",
-            "L’embolie pulmonaire ne peut jamais provenir d’une TVP."
-          ],
-          "type": "qcm",
-          "explanation": "Il recherche la source veineuse de l’embolie.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "L’échodoppler des membres inférieurs recherche une thrombose veineuse profonde."
-          ],
-          "correct": [
-            "L’échodoppler des membres inférieurs recherche une thrombose veineuse profonde."
-          ]
-        },
-        {
-          "text": "Concernant angioscanner, quelle proposition est correcte ?",
-          "options": [
-            "L’angioscanner spiralé avec injection iodée peut visualiser l’embolie pulmonaire.",
-            "L’embolie pulmonaire est une obstruction chronique exclusive de l’aorte.",
-            "L’embolie pulmonaire ne peut jamais provenir d’une TVP.",
-            "Un embole ne modifie jamais le débit sanguin pulmonaire."
-          ],
-          "type": "qcm",
-          "explanation": "C’est un examen majeur de confirmation diagnostique.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "L’angioscanner spiralé avec injection iodée peut visualiser l’embolie pulmonaire."
-          ],
-          "correct": [
-            "L’angioscanner spiralé avec injection iodée peut visualiser l’embolie pulmonaire."
-          ]
-        },
-        {
-          "text": "À propos de définition, choisissez les deux propositions exactes.",
-          "options": [
-            "L’embolie pulmonaire est l’obstruction brutale d’une branche de l’artère pulmonaire par un ou plusieurs emboles.",
-            "Dans la majorité des cas, l’embolie pulmonaire provient d’une thrombose veineuse profonde.",
-            "Un embole ne modifie jamais le débit sanguin pulmonaire.",
-            "La douleur d’EP est toujours ancienne, progressive et uniquement abdominale."
-          ],
-          "type": "qcm",
-          "explanation": "L’embole atteint la circulation pulmonaire après migration. Le thrombus veineux migre vers le cœur droit puis l’artère pulmonaire.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "L’embolie pulmonaire est l’obstruction brutale d’une branche de l’artère pulmonaire par un ou plusieurs emboles.",
-            "Dans la majorité des cas, l’embolie pulmonaire provient d’une thrombose veineuse profonde."
-          ],
-          "correct": [
-            "L’embolie pulmonaire est l’obstruction brutale d’une branche de l’artère pulmonaire par un ou plusieurs emboles.",
-            "Dans la majorité des cas, l’embolie pulmonaire provient d’une thrombose veineuse profonde."
-          ]
-        },
-        {
-          "text": "À propos de origine, choisissez les deux propositions exactes.",
-          "options": [
-            "Dans la majorité des cas, l’embolie pulmonaire provient d’une thrombose veineuse profonde.",
-            "L’embole se bloque lorsque le calibre artériel devient inférieur à celui du caillot.",
-            "La douleur d’EP est toujours ancienne, progressive et uniquement abdominale.",
-            "Une embolie pulmonaire n’entraîne jamais de dyspnée."
-          ],
-          "type": "qcm",
-          "explanation": "Le thrombus veineux migre vers le cœur droit puis l’artère pulmonaire. L’obstruction réduit ou abolit la perfusion du territoire concerné.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Dans la majorité des cas, l’embolie pulmonaire provient d’une thrombose veineuse profonde.",
-            "L’embole se bloque lorsque le calibre artériel devient inférieur à celui du caillot."
-          ],
-          "correct": [
-            "Dans la majorité des cas, l’embolie pulmonaire provient d’une thrombose veineuse profonde.",
-            "L’embole se bloque lorsque le calibre artériel devient inférieur à celui du caillot."
-          ]
-        },
-        {
-          "text": "À propos de mécanique, choisissez les deux propositions exactes.",
-          "options": [
-            "L’embole se bloque lorsque le calibre artériel devient inférieur à celui du caillot.",
-            "La douleur thoracique de l’EP peut être brutale et unilatérale, à type de coup de poignard.",
-            "Une embolie pulmonaire n’entraîne jamais de dyspnée.",
-            "L’hémoptysie désigne uniquement un saignement urinaire."
-          ],
-          "type": "qcm",
-          "explanation": "L’obstruction réduit ou abolit la perfusion du territoire concerné. La douleur pleurale brutale est un signe évocateur.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "L’embole se bloque lorsque le calibre artériel devient inférieur à celui du caillot.",
-            "La douleur thoracique de l’EP peut être brutale et unilatérale, à type de coup de poignard."
-          ],
-          "correct": [
-            "L’embole se bloque lorsque le calibre artériel devient inférieur à celui du caillot.",
-            "La douleur thoracique de l’EP peut être brutale et unilatérale, à type de coup de poignard."
-          ]
-        },
-        {
-          "text": "À propos de douleur, choisissez les deux propositions exactes.",
-          "options": [
-            "La douleur thoracique de l’EP peut être brutale et unilatérale, à type de coup de poignard.",
-            "Une dyspnée brutale peut révéler une embolie pulmonaire.",
-            "L’hémoptysie désigne uniquement un saignement urinaire.",
-            "L’auscultation pulmonaire est toujours normale dans toute EP."
-          ],
-          "type": "qcm",
-          "explanation": "La douleur pleurale brutale est un signe évocateur. L’altération de la perfusion pulmonaire provoque une gêne respiratoire.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "La douleur thoracique de l’EP peut être brutale et unilatérale, à type de coup de poignard.",
-            "Une dyspnée brutale peut révéler une embolie pulmonaire."
-          ],
-          "correct": [
-            "La douleur thoracique de l’EP peut être brutale et unilatérale, à type de coup de poignard.",
-            "Une dyspnée brutale peut révéler une embolie pulmonaire."
-          ]
-        },
-        {
-          "text": "À propos de dyspnée, choisissez les deux propositions exactes.",
-          "options": [
-            "Une dyspnée brutale peut révéler une embolie pulmonaire.",
-            "L’hémoptysie correspond à un crachat de sang rouge lors d’un effort de toux.",
-            "L’auscultation pulmonaire est toujours normale dans toute EP.",
-            "Une EP grave provoque obligatoirement hypertension et bradycardie."
-          ],
-          "type": "qcm",
-          "explanation": "L’altération de la perfusion pulmonaire provoque une gêne respiratoire. Ce signe respiratoire peut accompagner l’EP.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Une dyspnée brutale peut révéler une embolie pulmonaire.",
-            "L’hémoptysie correspond à un crachat de sang rouge lors d’un effort de toux."
-          ],
-          "correct": [
-            "Une dyspnée brutale peut révéler une embolie pulmonaire.",
-            "L’hémoptysie correspond à un crachat de sang rouge lors d’un effort de toux."
-          ]
-        },
-        {
-          "text": "À propos de hémoptysie, choisissez les deux propositions exactes.",
-          "options": [
-            "L’hémoptysie correspond à un crachat de sang rouge lors d’un effort de toux.",
-            "Des râles crépitants localisés peuvent être retrouvés à l’auscultation.",
-            "Une EP grave provoque obligatoirement hypertension et bradycardie.",
-            "L’EP exclut toute manifestation anxieuse."
-          ],
-          "type": "qcm",
-          "explanation": "Ce signe respiratoire peut accompagner l’EP. Des anomalies focales peuvent exister.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "L’hémoptysie correspond à un crachat de sang rouge lors d’un effort de toux.",
-            "Des râles crépitants localisés peuvent être retrouvés à l’auscultation."
-          ],
-          "correct": [
-            "L’hémoptysie correspond à un crachat de sang rouge lors d’un effort de toux.",
-            "Des râles crépitants localisés peuvent être retrouvés à l’auscultation."
-          ]
-        },
-        {
-          "text": "À propos de auscultation, choisissez les deux propositions exactes.",
-          "options": [
-            "Des râles crépitants localisés peuvent être retrouvés à l’auscultation.",
-            "Une EP grave peut provoquer hypotension et tachycardie.",
-            "L’EP exclut toute manifestation anxieuse.",
-            "La gazométrie montre obligatoirement une hyperoxémie."
-          ],
-          "type": "qcm",
-          "explanation": "Des anomalies focales peuvent exister. La baisse du retour veineux et du débit cardiaque explique l’hypotension.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Des râles crépitants localisés peuvent être retrouvés à l’auscultation.",
-            "Une EP grave peut provoquer hypotension et tachycardie."
-          ],
-          "correct": [
-            "Des râles crépitants localisés peuvent être retrouvés à l’auscultation.",
-            "Une EP grave peut provoquer hypotension et tachycardie."
-          ]
-        },
-        {
-          "text": "À propos de circulation, choisissez les deux propositions exactes.",
-          "options": [
-            "Une EP grave peut provoquer hypotension et tachycardie.",
-            "Une angoisse intense avec impression de mort imminente peut accompagner l’EP.",
-            "La gazométrie montre obligatoirement une hyperoxémie.",
-            "Une gazométrie normale élimine formellement toute EP."
-          ],
-          "type": "qcm",
-          "explanation": "La baisse du retour veineux et du débit cardiaque explique l’hypotension. La détresse respiratoire aiguë peut provoquer une angoisse majeure.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Une EP grave peut provoquer hypotension et tachycardie.",
-            "Une angoisse intense avec impression de mort imminente peut accompagner l’EP."
-          ],
-          "correct": [
-            "Une EP grave peut provoquer hypotension et tachycardie.",
-            "Une angoisse intense avec impression de mort imminente peut accompagner l’EP."
-          ]
-        },
-        {
-          "text": "À propos de angoisse, choisissez les deux propositions exactes.",
-          "options": [
-            "Une angoisse intense avec impression de mort imminente peut accompagner l’EP.",
-            "La gazométrie peut montrer une hypoxémie et une hypocapnie.",
-            "Une gazométrie normale élimine formellement toute EP.",
-            "L’ECG est interdit devant une douleur thoracique."
-          ],
-          "type": "qcm",
-          "explanation": "La détresse respiratoire aiguë peut provoquer une angoisse majeure. La zone ventilée mais non perfusée altère les échanges gazeux.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Une angoisse intense avec impression de mort imminente peut accompagner l’EP.",
-            "La gazométrie peut montrer une hypoxémie et une hypocapnie."
-          ],
-          "correct": [
-            "Une angoisse intense avec impression de mort imminente peut accompagner l’EP.",
-            "La gazométrie peut montrer une hypoxémie et une hypocapnie."
-          ]
-        },
-        {
-          "text": "À propos de gazométrie, choisissez les deux propositions exactes.",
-          "options": [
-            "La gazométrie peut montrer une hypoxémie et une hypocapnie.",
-            "Une gazométrie normale n’exclut pas toujours une embolie pulmonaire.",
-            "L’ECG est interdit devant une douleur thoracique.",
-            "Une radiographie normale élimine toujours l’EP."
-          ],
-          "type": "qcm",
-          "explanation": "La zone ventilée mais non perfusée altère les échanges gazeux. Le cours indique qu’elle peut être normale chez certains patients.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "La gazométrie peut montrer une hypoxémie et une hypocapnie.",
-            "Une gazométrie normale n’exclut pas toujours une embolie pulmonaire."
-          ],
-          "correct": [
-            "La gazométrie peut montrer une hypoxémie et une hypocapnie.",
-            "Une gazométrie normale n’exclut pas toujours une embolie pulmonaire."
-          ]
-        },
-        {
-          "text": "À propos de gazométrie normale, choisissez les deux propositions exactes.",
-          "options": [
-            "Une gazométrie normale n’exclut pas toujours une embolie pulmonaire.",
-            "Un ECG est systématique devant une douleur thoracique et évalue notamment le retentissement droit.",
-            "Une radiographie normale élimine toujours l’EP.",
-            "L’échodoppler des membres inférieurs mesure uniquement la glycémie."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours indique qu’elle peut être normale chez certains patients. Il contribue au diagnostic différentiel et à l’évaluation cardiaque.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Une gazométrie normale n’exclut pas toujours une embolie pulmonaire.",
-            "Un ECG est systématique devant une douleur thoracique et évalue notamment le retentissement droit."
-          ],
-          "correct": [
-            "Une gazométrie normale n’exclut pas toujours une embolie pulmonaire.",
-            "Un ECG est systématique devant une douleur thoracique et évalue notamment le retentissement droit."
-          ]
-        },
-        {
-          "text": "À propos de ECG, choisissez les deux propositions exactes.",
-          "options": [
-            "Un ECG est systématique devant une douleur thoracique et évalue notamment le retentissement droit.",
-            "Une radiographie thoracique normale n’exclut pas le diagnostic d’EP.",
-            "L’échodoppler des membres inférieurs mesure uniquement la glycémie.",
-            "L’angioscanner ne peut jamais visualiser les artères pulmonaires."
-          ],
-          "type": "qcm",
-          "explanation": "Il contribue au diagnostic différentiel et à l’évaluation cardiaque. La radiographie peut être normale malgré une embolie.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Un ECG est systématique devant une douleur thoracique et évalue notamment le retentissement droit.",
-            "Une radiographie thoracique normale n’exclut pas le diagnostic d’EP."
-          ],
-          "correct": [
-            "Un ECG est systématique devant une douleur thoracique et évalue notamment le retentissement droit.",
-            "Une radiographie thoracique normale n’exclut pas le diagnostic d’EP."
-          ]
-        },
-        {
-          "text": "À propos de radiographie, choisissez les deux propositions exactes.",
-          "options": [
-            "Une radiographie thoracique normale n’exclut pas le diagnostic d’EP.",
-            "L’échodoppler des membres inférieurs recherche une thrombose veineuse profonde.",
-            "L’angioscanner ne peut jamais visualiser les artères pulmonaires.",
-            "L’embolie pulmonaire est une obstruction chronique exclusive de l’aorte."
-          ],
-          "type": "qcm",
-          "explanation": "La radiographie peut être normale malgré une embolie. Il recherche la source veineuse de l’embolie.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "Une radiographie thoracique normale n’exclut pas le diagnostic d’EP.",
-            "L’échodoppler des membres inférieurs recherche une thrombose veineuse profonde."
-          ],
-          "correct": [
-            "Une radiographie thoracique normale n’exclut pas le diagnostic d’EP.",
-            "L’échodoppler des membres inférieurs recherche une thrombose veineuse profonde."
-          ]
-        },
-        {
-          "text": "À propos de échodoppler, choisissez les deux propositions exactes.",
-          "options": [
-            "L’échodoppler des membres inférieurs recherche une thrombose veineuse profonde.",
-            "L’angioscanner spiralé avec injection iodée peut visualiser l’embolie pulmonaire.",
-            "L’embolie pulmonaire est une obstruction chronique exclusive de l’aorte.",
-            "L’embolie pulmonaire ne peut jamais provenir d’une TVP."
-          ],
-          "type": "qcm",
-          "explanation": "Il recherche la source veineuse de l’embolie. C’est un examen majeur de confirmation diagnostique.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "L’échodoppler des membres inférieurs recherche une thrombose veineuse profonde.",
-            "L’angioscanner spiralé avec injection iodée peut visualiser l’embolie pulmonaire."
-          ],
-          "correct": [
-            "L’échodoppler des membres inférieurs recherche une thrombose veineuse profonde.",
-            "L’angioscanner spiralé avec injection iodée peut visualiser l’embolie pulmonaire."
-          ]
-        },
-        {
-          "text": "À propos de angioscanner, choisissez les deux propositions exactes.",
-          "options": [
-            "L’angioscanner spiralé avec injection iodée peut visualiser l’embolie pulmonaire.",
-            "L’embolie pulmonaire est l’obstruction brutale d’une branche de l’artère pulmonaire par un ou plusieurs emboles.",
-            "L’embolie pulmonaire ne peut jamais provenir d’une TVP.",
-            "Un embole ne modifie jamais le débit sanguin pulmonaire."
-          ],
-          "type": "qcm",
-          "explanation": "C’est un examen majeur de confirmation diagnostique. L’embole atteint la circulation pulmonaire après migration.",
-          "source": "Cours de cardiologie L3, Chapitre 3  Embolie pulmonaire, PDF pages 11 et 12.",
-          "answers": [
-            "L’angioscanner spiralé avec injection iodée peut visualiser l’embolie pulmonaire.",
-            "L’embolie pulmonaire est l’obstruction brutale d’une branche de l’artère pulmonaire par un ou plusieurs emboles."
-          ],
-          "correct": [
-            "L’angioscanner spiralé avec injection iodée peut visualiser l’embolie pulmonaire.",
-            "L’embolie pulmonaire est l’obstruction brutale d’une branche de l’artère pulmonaire par un ou plusieurs emboles."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ide-4",
-      "title": "Cardiologie L3 — Infarctus du myocarde",
-      "matter": "Cardiologie L3",
-      "filiere": "IDE",
-      "description": "Sujet 4 — 60 questions corrigées",
-      "instructions": "QCD : Vrai ou Faux. QCM : sélectionner la ou les bonnes réponses.",
-      "duration": 90,
-      "programmed": true,
-      "openDate": "2026-01-01",
-      "openTime": "00:00",
-      "closeDate": "2030-12-31",
-      "closeTime": "23:59",
-      "marking": {
-        "correct": 1,
-        "wrong": -1,
-        "empty": 0
-      },
-      "questions": [
-        {
-          "text": "L’IDM correspond à la nécrose d’une partie du muscle cardiaque insuffisamment irriguée par une artère coronaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’occlusion coronaire prive le myocarde d’oxygène et provoque la nécrose.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’IDM est une inflammation isolée des veines superficielles.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’occlusion coronaire prive le myocarde d’oxygène et provoque la nécrose.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’infarctus du myocarde est une urgence vitale dès les premières minutes.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le pronostic dépend fortement de la rapidité de reperfusion.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Un IDM peut attendre plusieurs jours avant toute prise en charge.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le pronostic dépend fortement de la rapidité de reperfusion.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La douleur thoracique trinitrorésistante est un signe essentiel de l’IDM.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La persistance malgré les nitrés est évocatrice.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La douleur de l’IDM cède toujours définitivement après une seule prise de trinitrine.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La persistance malgré les nitrés est évocatrice.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La douleur peut être absente, notamment chez certains patients diabétiques.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Les formes silencieuses sont possibles.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’absence de douleur exclut toujours l’IDM chez le diabétique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Les formes silencieuses sont possibles.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Toute douleur thoracique suspecte doit bénéficier rapidement d’un ECG.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’ECG contribue au diagnostic et à la localisation.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’ECG n’a aucun intérêt devant une douleur thoracique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’ECG contribue au diagnostic et à la localisation.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La nécrose myocardique devient complète autour de la sixième heure selon le cours.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours insiste sur les six heures d’or.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le délai de traitement n’a aucune influence sur la nécrose myocardique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours insiste sur les six heures d’or.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Dans environ 90 % des cas, l’IDM est lié à l’occlusion brutale d’une coronaire par un thrombus.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La thrombose survient souvent sur une plaque d’athérome rompue.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’IDM est toujours causé par une infection pulmonaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La thrombose survient souvent sur une plaque d’athérome rompue.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La rupture ou fissuration d’une plaque d’athérome favorise la thrombose coronaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’activation plaquettaire conduit à l’occlusion.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Une plaque d’athérome ne peut jamais intervenir dans l’IDM.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’activation plaquettaire conduit à l’occlusion.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La nécrose myocardique libère notamment troponine, CPK et myoglobine.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces marqueurs participent au diagnostic biologique.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La troponine n’a aucun lien avec la nécrose myocardique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces marqueurs participent au diagnostic biologique.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La nécrose entraîne une perte irréversible de la fonction contractile du territoire atteint.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le territoire nécrosé devient akinétique.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La nécrose améliore durablement la contractilité myocardique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le territoire nécrosé devient akinétique.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Tabagisme, HTA, diabète, obésité, sédentarité et stress sont des facteurs de risque.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces facteurs favorisent l’athérosclérose et les événements coronaires.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le tabagisme protège contre l’IDM.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces facteurs favorisent l’athérosclérose et les événements coronaires.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La douleur peut irradier vers les mâchoires et le membre supérieur.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Les irradiations cervico-brachiales sont classiques.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La douleur d’IDM reste obligatoirement limitée à un point cutané du pied.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Les irradiations cervico-brachiales sont classiques.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Un patient présentant un IDM doit être transféré rapidement en unité de soins intensifs cardiologiques.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le risque de troubles du rythme impose une surveillance continue.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Un IDM confirmé doit être surveillé uniquement à domicile.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le risque de troubles du rythme impose une surveillance continue.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’IDM peut se compliquer de tachycardie ventriculaire ou de fibrillation ventriculaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Les arythmies ventriculaires expliquent une partie des décès précoces.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’IDM ne provoque jamais de trouble du rythme.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Les arythmies ventriculaires expliquent une partie des décès précoces.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’épreuve d’effort peut être réalisée secondairement pour rechercher une ischémie résiduelle, selon indication.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Elle n’est pas réalisée pendant la phase aiguë instable.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Une épreuve d’effort maximale est systématique pendant la douleur aiguë d’IDM.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Elle n’est pas réalisée pendant la phase aiguë instable.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Concernant définition, quelle proposition est correcte ?",
-          "options": [
-            "L’IDM correspond à la nécrose d’une partie du muscle cardiaque insuffisamment irriguée par une artère coronaire.",
-            "Un IDM peut attendre plusieurs jours avant toute prise en charge.",
-            "La douleur de l’IDM cède toujours définitivement après une seule prise de trinitrine.",
-            "L’absence de douleur exclut toujours l’IDM chez le diabétique."
-          ],
-          "type": "qcm",
-          "explanation": "L’occlusion coronaire prive le myocarde d’oxygène et provoque la nécrose.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "L’IDM correspond à la nécrose d’une partie du muscle cardiaque insuffisamment irriguée par une artère coronaire."
-          ],
-          "correct": [
-            "L’IDM correspond à la nécrose d’une partie du muscle cardiaque insuffisamment irriguée par une artère coronaire."
-          ]
-        },
-        {
-          "text": "Concernant urgence, quelle proposition est correcte ?",
-          "options": [
-            "L’infarctus du myocarde est une urgence vitale dès les premières minutes.",
-            "La douleur de l’IDM cède toujours définitivement après une seule prise de trinitrine.",
-            "L’absence de douleur exclut toujours l’IDM chez le diabétique.",
-            "L’ECG n’a aucun intérêt devant une douleur thoracique."
-          ],
-          "type": "qcm",
-          "explanation": "Le pronostic dépend fortement de la rapidité de reperfusion.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "L’infarctus du myocarde est une urgence vitale dès les premières minutes."
-          ],
-          "correct": [
-            "L’infarctus du myocarde est une urgence vitale dès les premières minutes."
-          ]
-        },
-        {
-          "text": "Concernant douleur, quelle proposition est correcte ?",
-          "options": [
-            "La douleur thoracique trinitrorésistante est un signe essentiel de l’IDM.",
-            "L’absence de douleur exclut toujours l’IDM chez le diabétique.",
-            "L’ECG n’a aucun intérêt devant une douleur thoracique.",
-            "Le délai de traitement n’a aucune influence sur la nécrose myocardique."
-          ],
-          "type": "qcm",
-          "explanation": "La persistance malgré les nitrés est évocatrice.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La douleur thoracique trinitrorésistante est un signe essentiel de l’IDM."
-          ],
-          "correct": [
-            "La douleur thoracique trinitrorésistante est un signe essentiel de l’IDM."
-          ]
-        },
-        {
-          "text": "Concernant IDM silencieux, quelle proposition est correcte ?",
-          "options": [
-            "La douleur peut être absente, notamment chez certains patients diabétiques.",
-            "L’ECG n’a aucun intérêt devant une douleur thoracique.",
-            "Le délai de traitement n’a aucune influence sur la nécrose myocardique.",
-            "L’IDM est toujours causé par une infection pulmonaire."
-          ],
-          "type": "qcm",
-          "explanation": "Les formes silencieuses sont possibles.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La douleur peut être absente, notamment chez certains patients diabétiques."
-          ],
-          "correct": [
-            "La douleur peut être absente, notamment chez certains patients diabétiques."
-          ]
-        },
-        {
-          "text": "Concernant ECG, quelle proposition est correcte ?",
-          "options": [
-            "Toute douleur thoracique suspecte doit bénéficier rapidement d’un ECG.",
-            "Le délai de traitement n’a aucune influence sur la nécrose myocardique.",
-            "L’IDM est toujours causé par une infection pulmonaire.",
-            "Une plaque d’athérome ne peut jamais intervenir dans l’IDM."
-          ],
-          "type": "qcm",
-          "explanation": "L’ECG contribue au diagnostic et à la localisation.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "Toute douleur thoracique suspecte doit bénéficier rapidement d’un ECG."
-          ],
-          "correct": [
-            "Toute douleur thoracique suspecte doit bénéficier rapidement d’un ECG."
-          ]
-        },
-        {
-          "text": "Concernant délai, quelle proposition est correcte ?",
-          "options": [
-            "La nécrose myocardique devient complète autour de la sixième heure selon le cours.",
-            "L’IDM est toujours causé par une infection pulmonaire.",
-            "Une plaque d’athérome ne peut jamais intervenir dans l’IDM.",
-            "La troponine n’a aucun lien avec la nécrose myocardique."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours insiste sur les six heures d’or.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La nécrose myocardique devient complète autour de la sixième heure selon le cours."
-          ],
-          "correct": [
-            "La nécrose myocardique devient complète autour de la sixième heure selon le cours."
-          ]
-        },
-        {
-          "text": "Concernant cause, quelle proposition est correcte ?",
-          "options": [
-            "Dans environ 90 % des cas, l’IDM est lié à l’occlusion brutale d’une coronaire par un thrombus.",
-            "Une plaque d’athérome ne peut jamais intervenir dans l’IDM.",
-            "La troponine n’a aucun lien avec la nécrose myocardique.",
-            "La nécrose améliore durablement la contractilité myocardique."
-          ],
-          "type": "qcm",
-          "explanation": "La thrombose survient souvent sur une plaque d’athérome rompue.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "Dans environ 90 % des cas, l’IDM est lié à l’occlusion brutale d’une coronaire par un thrombus."
-          ],
-          "correct": [
-            "Dans environ 90 % des cas, l’IDM est lié à l’occlusion brutale d’une coronaire par un thrombus."
-          ]
-        },
-        {
-          "text": "Concernant athérome, quelle proposition est correcte ?",
-          "options": [
-            "La rupture ou fissuration d’une plaque d’athérome favorise la thrombose coronaire.",
-            "La troponine n’a aucun lien avec la nécrose myocardique.",
-            "La nécrose améliore durablement la contractilité myocardique.",
-            "Le tabagisme protège contre l’IDM."
-          ],
-          "type": "qcm",
-          "explanation": "L’activation plaquettaire conduit à l’occlusion.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La rupture ou fissuration d’une plaque d’athérome favorise la thrombose coronaire."
-          ],
-          "correct": [
-            "La rupture ou fissuration d’une plaque d’athérome favorise la thrombose coronaire."
-          ]
-        },
-        {
-          "text": "Concernant enzymes, quelle proposition est correcte ?",
-          "options": [
-            "La nécrose myocardique libère notamment troponine, CPK et myoglobine.",
-            "La nécrose améliore durablement la contractilité myocardique.",
-            "Le tabagisme protège contre l’IDM.",
-            "La douleur d’IDM reste obligatoirement limitée à un point cutané du pied."
-          ],
-          "type": "qcm",
-          "explanation": "Ces marqueurs participent au diagnostic biologique.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La nécrose myocardique libère notamment troponine, CPK et myoglobine."
-          ],
-          "correct": [
-            "La nécrose myocardique libère notamment troponine, CPK et myoglobine."
-          ]
-        },
-        {
-          "text": "Concernant contractilité, quelle proposition est correcte ?",
-          "options": [
-            "La nécrose entraîne une perte irréversible de la fonction contractile du territoire atteint.",
-            "Le tabagisme protège contre l’IDM.",
-            "La douleur d’IDM reste obligatoirement limitée à un point cutané du pied.",
-            "Un IDM confirmé doit être surveillé uniquement à domicile."
-          ],
-          "type": "qcm",
-          "explanation": "Le territoire nécrosé devient akinétique.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La nécrose entraîne une perte irréversible de la fonction contractile du territoire atteint."
-          ],
-          "correct": [
-            "La nécrose entraîne une perte irréversible de la fonction contractile du territoire atteint."
-          ]
-        },
-        {
-          "text": "Concernant facteurs de risque, quelle proposition est correcte ?",
-          "options": [
-            "Tabagisme, HTA, diabète, obésité, sédentarité et stress sont des facteurs de risque.",
-            "La douleur d’IDM reste obligatoirement limitée à un point cutané du pied.",
-            "Un IDM confirmé doit être surveillé uniquement à domicile.",
-            "L’IDM ne provoque jamais de trouble du rythme."
-          ],
-          "type": "qcm",
-          "explanation": "Ces facteurs favorisent l’athérosclérose et les événements coronaires.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "Tabagisme, HTA, diabète, obésité, sédentarité et stress sont des facteurs de risque."
-          ],
-          "correct": [
-            "Tabagisme, HTA, diabète, obésité, sédentarité et stress sont des facteurs de risque."
-          ]
-        },
-        {
-          "text": "Concernant irradiation, quelle proposition est correcte ?",
-          "options": [
-            "La douleur peut irradier vers les mâchoires et le membre supérieur.",
-            "Un IDM confirmé doit être surveillé uniquement à domicile.",
-            "L’IDM ne provoque jamais de trouble du rythme.",
-            "Une épreuve d’effort maximale est systématique pendant la douleur aiguë d’IDM."
-          ],
-          "type": "qcm",
-          "explanation": "Les irradiations cervico-brachiales sont classiques.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La douleur peut irradier vers les mâchoires et le membre supérieur."
-          ],
-          "correct": [
-            "La douleur peut irradier vers les mâchoires et le membre supérieur."
-          ]
-        },
-        {
-          "text": "Concernant USIC, quelle proposition est correcte ?",
-          "options": [
-            "Un patient présentant un IDM doit être transféré rapidement en unité de soins intensifs cardiologiques.",
-            "L’IDM ne provoque jamais de trouble du rythme.",
-            "Une épreuve d’effort maximale est systématique pendant la douleur aiguë d’IDM.",
-            "L’IDM est une inflammation isolée des veines superficielles."
-          ],
-          "type": "qcm",
-          "explanation": "Le risque de troubles du rythme impose une surveillance continue.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "Un patient présentant un IDM doit être transféré rapidement en unité de soins intensifs cardiologiques."
-          ],
-          "correct": [
-            "Un patient présentant un IDM doit être transféré rapidement en unité de soins intensifs cardiologiques."
-          ]
-        },
-        {
-          "text": "Concernant complications rythmiques, quelle proposition est correcte ?",
-          "options": [
-            "L’IDM peut se compliquer de tachycardie ventriculaire ou de fibrillation ventriculaire.",
-            "Une épreuve d’effort maximale est systématique pendant la douleur aiguë d’IDM.",
-            "L’IDM est une inflammation isolée des veines superficielles.",
-            "Un IDM peut attendre plusieurs jours avant toute prise en charge."
-          ],
-          "type": "qcm",
-          "explanation": "Les arythmies ventriculaires expliquent une partie des décès précoces.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "L’IDM peut se compliquer de tachycardie ventriculaire ou de fibrillation ventriculaire."
-          ],
-          "correct": [
-            "L’IDM peut se compliquer de tachycardie ventriculaire ou de fibrillation ventriculaire."
-          ]
-        },
-        {
-          "text": "Concernant effort, quelle proposition est correcte ?",
-          "options": [
-            "L’épreuve d’effort peut être réalisée secondairement pour rechercher une ischémie résiduelle, selon indication.",
-            "L’IDM est une inflammation isolée des veines superficielles.",
-            "Un IDM peut attendre plusieurs jours avant toute prise en charge.",
-            "La douleur de l’IDM cède toujours définitivement après une seule prise de trinitrine."
-          ],
-          "type": "qcm",
-          "explanation": "Elle n’est pas réalisée pendant la phase aiguë instable.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "L’épreuve d’effort peut être réalisée secondairement pour rechercher une ischémie résiduelle, selon indication."
-          ],
-          "correct": [
-            "L’épreuve d’effort peut être réalisée secondairement pour rechercher une ischémie résiduelle, selon indication."
-          ]
-        },
-        {
-          "text": "À propos de définition, choisissez les deux propositions exactes.",
-          "options": [
-            "L’IDM correspond à la nécrose d’une partie du muscle cardiaque insuffisamment irriguée par une artère coronaire.",
-            "L’infarctus du myocarde est une urgence vitale dès les premières minutes.",
-            "La douleur de l’IDM cède toujours définitivement après une seule prise de trinitrine.",
-            "L’absence de douleur exclut toujours l’IDM chez le diabétique."
-          ],
-          "type": "qcm",
-          "explanation": "L’occlusion coronaire prive le myocarde d’oxygène et provoque la nécrose. Le pronostic dépend fortement de la rapidité de reperfusion.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "L’IDM correspond à la nécrose d’une partie du muscle cardiaque insuffisamment irriguée par une artère coronaire.",
-            "L’infarctus du myocarde est une urgence vitale dès les premières minutes."
-          ],
-          "correct": [
-            "L’IDM correspond à la nécrose d’une partie du muscle cardiaque insuffisamment irriguée par une artère coronaire.",
-            "L’infarctus du myocarde est une urgence vitale dès les premières minutes."
-          ]
-        },
-        {
-          "text": "À propos de urgence, choisissez les deux propositions exactes.",
-          "options": [
-            "L’infarctus du myocarde est une urgence vitale dès les premières minutes.",
-            "La douleur thoracique trinitrorésistante est un signe essentiel de l’IDM.",
-            "L’absence de douleur exclut toujours l’IDM chez le diabétique.",
-            "L’ECG n’a aucun intérêt devant une douleur thoracique."
-          ],
-          "type": "qcm",
-          "explanation": "Le pronostic dépend fortement de la rapidité de reperfusion. La persistance malgré les nitrés est évocatrice.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "L’infarctus du myocarde est une urgence vitale dès les premières minutes.",
-            "La douleur thoracique trinitrorésistante est un signe essentiel de l’IDM."
-          ],
-          "correct": [
-            "L’infarctus du myocarde est une urgence vitale dès les premières minutes.",
-            "La douleur thoracique trinitrorésistante est un signe essentiel de l’IDM."
-          ]
-        },
-        {
-          "text": "À propos de douleur, choisissez les deux propositions exactes.",
-          "options": [
-            "La douleur thoracique trinitrorésistante est un signe essentiel de l’IDM.",
-            "La douleur peut être absente, notamment chez certains patients diabétiques.",
-            "L’ECG n’a aucun intérêt devant une douleur thoracique.",
-            "Le délai de traitement n’a aucune influence sur la nécrose myocardique."
-          ],
-          "type": "qcm",
-          "explanation": "La persistance malgré les nitrés est évocatrice. Les formes silencieuses sont possibles.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La douleur thoracique trinitrorésistante est un signe essentiel de l’IDM.",
-            "La douleur peut être absente, notamment chez certains patients diabétiques."
-          ],
-          "correct": [
-            "La douleur thoracique trinitrorésistante est un signe essentiel de l’IDM.",
-            "La douleur peut être absente, notamment chez certains patients diabétiques."
-          ]
-        },
-        {
-          "text": "À propos de IDM silencieux, choisissez les deux propositions exactes.",
-          "options": [
-            "La douleur peut être absente, notamment chez certains patients diabétiques.",
-            "Toute douleur thoracique suspecte doit bénéficier rapidement d’un ECG.",
-            "Le délai de traitement n’a aucune influence sur la nécrose myocardique.",
-            "L’IDM est toujours causé par une infection pulmonaire."
-          ],
-          "type": "qcm",
-          "explanation": "Les formes silencieuses sont possibles. L’ECG contribue au diagnostic et à la localisation.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La douleur peut être absente, notamment chez certains patients diabétiques.",
-            "Toute douleur thoracique suspecte doit bénéficier rapidement d’un ECG."
-          ],
-          "correct": [
-            "La douleur peut être absente, notamment chez certains patients diabétiques.",
-            "Toute douleur thoracique suspecte doit bénéficier rapidement d’un ECG."
-          ]
-        },
-        {
-          "text": "À propos de ECG, choisissez les deux propositions exactes.",
-          "options": [
-            "Toute douleur thoracique suspecte doit bénéficier rapidement d’un ECG.",
-            "La nécrose myocardique devient complète autour de la sixième heure selon le cours.",
-            "L’IDM est toujours causé par une infection pulmonaire.",
-            "Une plaque d’athérome ne peut jamais intervenir dans l’IDM."
-          ],
-          "type": "qcm",
-          "explanation": "L’ECG contribue au diagnostic et à la localisation. Le cours insiste sur les six heures d’or.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "Toute douleur thoracique suspecte doit bénéficier rapidement d’un ECG.",
-            "La nécrose myocardique devient complète autour de la sixième heure selon le cours."
-          ],
-          "correct": [
-            "Toute douleur thoracique suspecte doit bénéficier rapidement d’un ECG.",
-            "La nécrose myocardique devient complète autour de la sixième heure selon le cours."
-          ]
-        },
-        {
-          "text": "À propos de délai, choisissez les deux propositions exactes.",
-          "options": [
-            "La nécrose myocardique devient complète autour de la sixième heure selon le cours.",
-            "Dans environ 90 % des cas, l’IDM est lié à l’occlusion brutale d’une coronaire par un thrombus.",
-            "Une plaque d’athérome ne peut jamais intervenir dans l’IDM.",
-            "La troponine n’a aucun lien avec la nécrose myocardique."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours insiste sur les six heures d’or. La thrombose survient souvent sur une plaque d’athérome rompue.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La nécrose myocardique devient complète autour de la sixième heure selon le cours.",
-            "Dans environ 90 % des cas, l’IDM est lié à l’occlusion brutale d’une coronaire par un thrombus."
-          ],
-          "correct": [
-            "La nécrose myocardique devient complète autour de la sixième heure selon le cours.",
-            "Dans environ 90 % des cas, l’IDM est lié à l’occlusion brutale d’une coronaire par un thrombus."
-          ]
-        },
-        {
-          "text": "À propos de cause, choisissez les deux propositions exactes.",
-          "options": [
-            "Dans environ 90 % des cas, l’IDM est lié à l’occlusion brutale d’une coronaire par un thrombus.",
-            "La rupture ou fissuration d’une plaque d’athérome favorise la thrombose coronaire.",
-            "La troponine n’a aucun lien avec la nécrose myocardique.",
-            "La nécrose améliore durablement la contractilité myocardique."
-          ],
-          "type": "qcm",
-          "explanation": "La thrombose survient souvent sur une plaque d’athérome rompue. L’activation plaquettaire conduit à l’occlusion.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "Dans environ 90 % des cas, l’IDM est lié à l’occlusion brutale d’une coronaire par un thrombus.",
-            "La rupture ou fissuration d’une plaque d’athérome favorise la thrombose coronaire."
-          ],
-          "correct": [
-            "Dans environ 90 % des cas, l’IDM est lié à l’occlusion brutale d’une coronaire par un thrombus.",
-            "La rupture ou fissuration d’une plaque d’athérome favorise la thrombose coronaire."
-          ]
-        },
-        {
-          "text": "À propos de athérome, choisissez les deux propositions exactes.",
-          "options": [
-            "La rupture ou fissuration d’une plaque d’athérome favorise la thrombose coronaire.",
-            "La nécrose myocardique libère notamment troponine, CPK et myoglobine.",
-            "La nécrose améliore durablement la contractilité myocardique.",
-            "Le tabagisme protège contre l’IDM."
-          ],
-          "type": "qcm",
-          "explanation": "L’activation plaquettaire conduit à l’occlusion. Ces marqueurs participent au diagnostic biologique.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La rupture ou fissuration d’une plaque d’athérome favorise la thrombose coronaire.",
-            "La nécrose myocardique libère notamment troponine, CPK et myoglobine."
-          ],
-          "correct": [
-            "La rupture ou fissuration d’une plaque d’athérome favorise la thrombose coronaire.",
-            "La nécrose myocardique libère notamment troponine, CPK et myoglobine."
-          ]
-        },
-        {
-          "text": "À propos de enzymes, choisissez les deux propositions exactes.",
-          "options": [
-            "La nécrose myocardique libère notamment troponine, CPK et myoglobine.",
-            "La nécrose entraîne une perte irréversible de la fonction contractile du territoire atteint.",
-            "Le tabagisme protège contre l’IDM.",
-            "La douleur d’IDM reste obligatoirement limitée à un point cutané du pied."
-          ],
-          "type": "qcm",
-          "explanation": "Ces marqueurs participent au diagnostic biologique. Le territoire nécrosé devient akinétique.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La nécrose myocardique libère notamment troponine, CPK et myoglobine.",
-            "La nécrose entraîne une perte irréversible de la fonction contractile du territoire atteint."
-          ],
-          "correct": [
-            "La nécrose myocardique libère notamment troponine, CPK et myoglobine.",
-            "La nécrose entraîne une perte irréversible de la fonction contractile du territoire atteint."
-          ]
-        },
-        {
-          "text": "À propos de contractilité, choisissez les deux propositions exactes.",
-          "options": [
-            "La nécrose entraîne une perte irréversible de la fonction contractile du territoire atteint.",
-            "Tabagisme, HTA, diabète, obésité, sédentarité et stress sont des facteurs de risque.",
-            "La douleur d’IDM reste obligatoirement limitée à un point cutané du pied.",
-            "Un IDM confirmé doit être surveillé uniquement à domicile."
-          ],
-          "type": "qcm",
-          "explanation": "Le territoire nécrosé devient akinétique. Ces facteurs favorisent l’athérosclérose et les événements coronaires.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La nécrose entraîne une perte irréversible de la fonction contractile du territoire atteint.",
-            "Tabagisme, HTA, diabète, obésité, sédentarité et stress sont des facteurs de risque."
-          ],
-          "correct": [
-            "La nécrose entraîne une perte irréversible de la fonction contractile du territoire atteint.",
-            "Tabagisme, HTA, diabète, obésité, sédentarité et stress sont des facteurs de risque."
-          ]
-        },
-        {
-          "text": "À propos de facteurs de risque, choisissez les deux propositions exactes.",
-          "options": [
-            "Tabagisme, HTA, diabète, obésité, sédentarité et stress sont des facteurs de risque.",
-            "La douleur peut irradier vers les mâchoires et le membre supérieur.",
-            "Un IDM confirmé doit être surveillé uniquement à domicile.",
-            "L’IDM ne provoque jamais de trouble du rythme."
-          ],
-          "type": "qcm",
-          "explanation": "Ces facteurs favorisent l’athérosclérose et les événements coronaires. Les irradiations cervico-brachiales sont classiques.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "Tabagisme, HTA, diabète, obésité, sédentarité et stress sont des facteurs de risque.",
-            "La douleur peut irradier vers les mâchoires et le membre supérieur."
-          ],
-          "correct": [
-            "Tabagisme, HTA, diabète, obésité, sédentarité et stress sont des facteurs de risque.",
-            "La douleur peut irradier vers les mâchoires et le membre supérieur."
-          ]
-        },
-        {
-          "text": "À propos de irradiation, choisissez les deux propositions exactes.",
-          "options": [
-            "La douleur peut irradier vers les mâchoires et le membre supérieur.",
-            "Un patient présentant un IDM doit être transféré rapidement en unité de soins intensifs cardiologiques.",
-            "L’IDM ne provoque jamais de trouble du rythme.",
-            "Une épreuve d’effort maximale est systématique pendant la douleur aiguë d’IDM."
-          ],
-          "type": "qcm",
-          "explanation": "Les irradiations cervico-brachiales sont classiques. Le risque de troubles du rythme impose une surveillance continue.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "La douleur peut irradier vers les mâchoires et le membre supérieur.",
-            "Un patient présentant un IDM doit être transféré rapidement en unité de soins intensifs cardiologiques."
-          ],
-          "correct": [
-            "La douleur peut irradier vers les mâchoires et le membre supérieur.",
-            "Un patient présentant un IDM doit être transféré rapidement en unité de soins intensifs cardiologiques."
-          ]
-        },
-        {
-          "text": "À propos de USIC, choisissez les deux propositions exactes.",
-          "options": [
-            "Un patient présentant un IDM doit être transféré rapidement en unité de soins intensifs cardiologiques.",
-            "L’IDM peut se compliquer de tachycardie ventriculaire ou de fibrillation ventriculaire.",
-            "Une épreuve d’effort maximale est systématique pendant la douleur aiguë d’IDM.",
-            "L’IDM est une inflammation isolée des veines superficielles."
-          ],
-          "type": "qcm",
-          "explanation": "Le risque de troubles du rythme impose une surveillance continue. Les arythmies ventriculaires expliquent une partie des décès précoces.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "Un patient présentant un IDM doit être transféré rapidement en unité de soins intensifs cardiologiques.",
-            "L’IDM peut se compliquer de tachycardie ventriculaire ou de fibrillation ventriculaire."
-          ],
-          "correct": [
-            "Un patient présentant un IDM doit être transféré rapidement en unité de soins intensifs cardiologiques.",
-            "L’IDM peut se compliquer de tachycardie ventriculaire ou de fibrillation ventriculaire."
-          ]
-        },
-        {
-          "text": "À propos de complications rythmiques, choisissez les deux propositions exactes.",
-          "options": [
-            "L’IDM peut se compliquer de tachycardie ventriculaire ou de fibrillation ventriculaire.",
-            "L’épreuve d’effort peut être réalisée secondairement pour rechercher une ischémie résiduelle, selon indication.",
-            "L’IDM est une inflammation isolée des veines superficielles.",
-            "Un IDM peut attendre plusieurs jours avant toute prise en charge."
-          ],
-          "type": "qcm",
-          "explanation": "Les arythmies ventriculaires expliquent une partie des décès précoces. Elle n’est pas réalisée pendant la phase aiguë instable.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "L’IDM peut se compliquer de tachycardie ventriculaire ou de fibrillation ventriculaire.",
-            "L’épreuve d’effort peut être réalisée secondairement pour rechercher une ischémie résiduelle, selon indication."
-          ],
-          "correct": [
-            "L’IDM peut se compliquer de tachycardie ventriculaire ou de fibrillation ventriculaire.",
-            "L’épreuve d’effort peut être réalisée secondairement pour rechercher une ischémie résiduelle, selon indication."
-          ]
-        },
-        {
-          "text": "À propos de effort, choisissez les deux propositions exactes.",
-          "options": [
-            "L’épreuve d’effort peut être réalisée secondairement pour rechercher une ischémie résiduelle, selon indication.",
-            "L’IDM correspond à la nécrose d’une partie du muscle cardiaque insuffisamment irriguée par une artère coronaire.",
-            "Un IDM peut attendre plusieurs jours avant toute prise en charge.",
-            "La douleur de l’IDM cède toujours définitivement après une seule prise de trinitrine."
-          ],
-          "type": "qcm",
-          "explanation": "Elle n’est pas réalisée pendant la phase aiguë instable. L’occlusion coronaire prive le myocarde d’oxygène et provoque la nécrose.",
-          "source": "Cours de cardiologie L3, Chapitre 4  Infarctus du myocarde, PDF pages 13 à 16.",
-          "answers": [
-            "L’épreuve d’effort peut être réalisée secondairement pour rechercher une ischémie résiduelle, selon indication.",
-            "L’IDM correspond à la nécrose d’une partie du muscle cardiaque insuffisamment irriguée par une artère coronaire."
-          ],
-          "correct": [
-            "L’épreuve d’effort peut être réalisée secondairement pour rechercher une ischémie résiduelle, selon indication.",
-            "L’IDM correspond à la nécrose d’une partie du muscle cardiaque insuffisamment irriguée par une artère coronaire."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ide-5",
-      "title": "Cardiologie L3 — Insuffisance cardiaque",
-      "matter": "Cardiologie L3",
-      "filiere": "IDE",
-      "description": "Sujet 5 — 60 questions corrigées",
-      "instructions": "QCD : Vrai ou Faux. QCM : sélectionner la ou les bonnes réponses.",
-      "duration": 90,
-      "programmed": true,
-      "openDate": "2026-01-01",
-      "openTime": "00:00",
-      "closeDate": "2030-12-31",
-      "closeTime": "23:59",
-      "marking": {
-        "correct": 1,
-        "wrong": -1,
-        "empty": 0
-      },
-      "questions": [
-        {
-          "text": "L’insuffisance cardiaque correspond à l’incapacité du cœur à assurer un débit adapté aux besoins de l’organisme.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La pompe cardiaque devient insuffisante.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’insuffisance cardiaque correspond toujours à une augmentation parfaite du débit cardiaque.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La pompe cardiaque devient insuffisante.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La défaillance ventriculaire entraîne une augmentation des pressions en amont et une baisse de perfusion en aval.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La congestion et l’hypoperfusion expliquent les signes cliniques.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La défaillance ventriculaire améliore toujours la perfusion en aval.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La congestion et l’hypoperfusion expliquent les signes cliniques.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Dans l’insuffisance cardiaque gauche, les signes respiratoires dominent.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La congestion pulmonaire entraîne dyspnée et toux.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’insuffisance cardiaque gauche ne provoque jamais de dyspnée.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La congestion pulmonaire entraîne dyspnée et toux.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Dans l’insuffisance cardiaque droite, les œdèmes, l’hépatomégalie et la turgescence jugulaire sont fréquents.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La congestion veineuse systémique explique ces signes.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’insuffisance cardiaque droite se manifeste uniquement par une douleur dentaire.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La congestion veineuse systémique explique ces signes.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’insuffisance cardiaque globale associe des signes gauches et droits.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Les deux ventricules sont concernés.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’insuffisance cardiaque globale exclut les signes respiratoires.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Les deux ventricules sont concernés.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La dyspnée peut évoluer de l’effort vers le repos puis l’orthopnée.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’orthopnée est une dyspnée aggravée en décubitus.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’orthopnée correspond à une amélioration de la respiration en position couchée.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’orthopnée est une dyspnée aggravée en décubitus.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Une insuffisance avancée peut évoluer vers une anasarque avec épanchements séreux.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La rétention hydro-sodée peut devenir généralisée.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’anasarque désigne uniquement une sécheresse cutanée localisée.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La rétention hydro-sodée peut devenir généralisée.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le cours recommande un régime pauvre en sel, l’insuffisant cardiaque ne devant pas dépasser environ 6 g de sel par jour.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La réduction sodée limite la rétention hydrique.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Un apport très élevé en sel est recommandé dans toute insuffisance cardiaque.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La réduction sodée limite la rétention hydrique.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La surveillance régulière du poids aide à dépister une rétention hydrique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Elle peut annoncer une décompensation.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Une prise de poids rapide n’a aucun intérêt dans la surveillance.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Elle peut annoncer une décompensation.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La diurèse doit être surveillée chez l’insuffisant cardiaque.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Elle renseigne sur la fonction rénale et l’efficacité thérapeutique.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La surveillance de la diurèse est inutile sous diurétique.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Elle renseigne sur la fonction rénale et l’efficacité thérapeutique.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Les IEC diminuent la charge de travail du ventricule mais peuvent provoquer toux, hypotension et hyperkaliémie.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours cite ces effets indésirables et le risque rénal.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Les IEC provoquent systématiquement une hypokaliémie sans toux.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours cite ces effets indésirables et le risque rénal.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Les bêtabloquants réduisent l’activité sympathique et la fréquence cardiaque.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ils réduisent le travail et les besoins en oxygène du myocarde.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Les bêtabloquants ont pour objectif d’accélérer systématiquement le cœur.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ils réduisent le travail et les besoins en oxygène du myocarde.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le furosémide augmente l’élimination hydro-sodée et peut provoquer déshydratation et mictions impérieuses.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La déplétion diminue la congestion mais impose une surveillance.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le furosémide augmente volontairement les œdèmes.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "La déplétion diminue la congestion mais impose une surveillance.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La digoxine renforce la contractilité et peut provoquer bradycardie, vertiges, nausées ou confusion en cas de surdosage.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Sa marge thérapeutique étroite impose une surveillance.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La digoxine ne nécessite aucune surveillance en raison d’une marge thérapeutique illimitée.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Sa marge thérapeutique étroite impose une surveillance.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Prise de poids rapide, œdèmes et essoufflement peuvent annoncer une décompensation.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces signes doivent faire rechercher OAP ou aggravation cardiaque.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Une prise de poids rapide avec dyspnée est toujours rassurante.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces signes doivent faire rechercher OAP ou aggravation cardiaque.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Concernant définition, quelle proposition est correcte ?",
-          "options": [
-            "L’insuffisance cardiaque correspond à l’incapacité du cœur à assurer un débit adapté aux besoins de l’organisme.",
-            "La défaillance ventriculaire améliore toujours la perfusion en aval.",
-            "L’insuffisance cardiaque gauche ne provoque jamais de dyspnée.",
-            "L’insuffisance cardiaque droite se manifeste uniquement par une douleur dentaire."
-          ],
-          "type": "qcm",
-          "explanation": "La pompe cardiaque devient insuffisante.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "L’insuffisance cardiaque correspond à l’incapacité du cœur à assurer un débit adapté aux besoins de l’organisme."
-          ],
-          "correct": [
-            "L’insuffisance cardiaque correspond à l’incapacité du cœur à assurer un débit adapté aux besoins de l’organisme."
-          ]
-        },
-        {
-          "text": "Concernant conséquences, quelle proposition est correcte ?",
-          "options": [
-            "La défaillance ventriculaire entraîne une augmentation des pressions en amont et une baisse de perfusion en aval.",
-            "L’insuffisance cardiaque gauche ne provoque jamais de dyspnée.",
-            "L’insuffisance cardiaque droite se manifeste uniquement par une douleur dentaire.",
-            "L’insuffisance cardiaque globale exclut les signes respiratoires."
-          ],
-          "type": "qcm",
-          "explanation": "La congestion et l’hypoperfusion expliquent les signes cliniques.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "La défaillance ventriculaire entraîne une augmentation des pressions en amont et une baisse de perfusion en aval."
-          ],
-          "correct": [
-            "La défaillance ventriculaire entraîne une augmentation des pressions en amont et une baisse de perfusion en aval."
-          ]
-        },
-        {
-          "text": "Concernant IC gauche, quelle proposition est correcte ?",
-          "options": [
-            "Dans l’insuffisance cardiaque gauche, les signes respiratoires dominent.",
-            "L’insuffisance cardiaque droite se manifeste uniquement par une douleur dentaire.",
-            "L’insuffisance cardiaque globale exclut les signes respiratoires.",
-            "L’orthopnée correspond à une amélioration de la respiration en position couchée."
-          ],
-          "type": "qcm",
-          "explanation": "La congestion pulmonaire entraîne dyspnée et toux.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Dans l’insuffisance cardiaque gauche, les signes respiratoires dominent."
-          ],
-          "correct": [
-            "Dans l’insuffisance cardiaque gauche, les signes respiratoires dominent."
-          ]
-        },
-        {
-          "text": "Concernant IC droite, quelle proposition est correcte ?",
-          "options": [
-            "Dans l’insuffisance cardiaque droite, les œdèmes, l’hépatomégalie et la turgescence jugulaire sont fréquents.",
-            "L’insuffisance cardiaque globale exclut les signes respiratoires.",
-            "L’orthopnée correspond à une amélioration de la respiration en position couchée.",
-            "L’anasarque désigne uniquement une sécheresse cutanée localisée."
-          ],
-          "type": "qcm",
-          "explanation": "La congestion veineuse systémique explique ces signes.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Dans l’insuffisance cardiaque droite, les œdèmes, l’hépatomégalie et la turgescence jugulaire sont fréquents."
-          ],
-          "correct": [
-            "Dans l’insuffisance cardiaque droite, les œdèmes, l’hépatomégalie et la turgescence jugulaire sont fréquents."
-          ]
-        },
-        {
-          "text": "Concernant IC globale, quelle proposition est correcte ?",
-          "options": [
-            "L’insuffisance cardiaque globale associe des signes gauches et droits.",
-            "L’orthopnée correspond à une amélioration de la respiration en position couchée.",
-            "L’anasarque désigne uniquement une sécheresse cutanée localisée.",
-            "Un apport très élevé en sel est recommandé dans toute insuffisance cardiaque."
-          ],
-          "type": "qcm",
-          "explanation": "Les deux ventricules sont concernés.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "L’insuffisance cardiaque globale associe des signes gauches et droits."
-          ],
-          "correct": [
-            "L’insuffisance cardiaque globale associe des signes gauches et droits."
-          ]
-        },
-        {
-          "text": "Concernant orthopnée, quelle proposition est correcte ?",
-          "options": [
-            "La dyspnée peut évoluer de l’effort vers le repos puis l’orthopnée.",
-            "L’anasarque désigne uniquement une sécheresse cutanée localisée.",
-            "Un apport très élevé en sel est recommandé dans toute insuffisance cardiaque.",
-            "Une prise de poids rapide n’a aucun intérêt dans la surveillance."
-          ],
-          "type": "qcm",
-          "explanation": "L’orthopnée est une dyspnée aggravée en décubitus.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "La dyspnée peut évoluer de l’effort vers le repos puis l’orthopnée."
-          ],
-          "correct": [
-            "La dyspnée peut évoluer de l’effort vers le repos puis l’orthopnée."
-          ]
-        },
-        {
-          "text": "Concernant anasarque, quelle proposition est correcte ?",
-          "options": [
-            "Une insuffisance avancée peut évoluer vers une anasarque avec épanchements séreux.",
-            "Un apport très élevé en sel est recommandé dans toute insuffisance cardiaque.",
-            "Une prise de poids rapide n’a aucun intérêt dans la surveillance.",
-            "La surveillance de la diurèse est inutile sous diurétique."
-          ],
-          "type": "qcm",
-          "explanation": "La rétention hydro-sodée peut devenir généralisée.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Une insuffisance avancée peut évoluer vers une anasarque avec épanchements séreux."
-          ],
-          "correct": [
-            "Une insuffisance avancée peut évoluer vers une anasarque avec épanchements séreux."
-          ]
-        },
-        {
-          "text": "Concernant régime, quelle proposition est correcte ?",
-          "options": [
-            "Le cours recommande un régime pauvre en sel, l’insuffisant cardiaque ne devant pas dépasser environ 6 g de sel par jour.",
-            "Une prise de poids rapide n’a aucun intérêt dans la surveillance.",
-            "La surveillance de la diurèse est inutile sous diurétique.",
-            "Les IEC provoquent systématiquement une hypokaliémie sans toux."
-          ],
-          "type": "qcm",
-          "explanation": "La réduction sodée limite la rétention hydrique.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Le cours recommande un régime pauvre en sel, l’insuffisant cardiaque ne devant pas dépasser environ 6 g de sel par jour."
-          ],
-          "correct": [
-            "Le cours recommande un régime pauvre en sel, l’insuffisant cardiaque ne devant pas dépasser environ 6 g de sel par jour."
-          ]
-        },
-        {
-          "text": "Concernant poids, quelle proposition est correcte ?",
-          "options": [
-            "La surveillance régulière du poids aide à dépister une rétention hydrique.",
-            "La surveillance de la diurèse est inutile sous diurétique.",
-            "Les IEC provoquent systématiquement une hypokaliémie sans toux.",
-            "Les bêtabloquants ont pour objectif d’accélérer systématiquement le cœur."
-          ],
-          "type": "qcm",
-          "explanation": "Elle peut annoncer une décompensation.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "La surveillance régulière du poids aide à dépister une rétention hydrique."
-          ],
-          "correct": [
-            "La surveillance régulière du poids aide à dépister une rétention hydrique."
-          ]
-        },
-        {
-          "text": "Concernant diurèse, quelle proposition est correcte ?",
-          "options": [
-            "La diurèse doit être surveillée chez l’insuffisant cardiaque.",
-            "Les IEC provoquent systématiquement une hypokaliémie sans toux.",
-            "Les bêtabloquants ont pour objectif d’accélérer systématiquement le cœur.",
-            "Le furosémide augmente volontairement les œdèmes."
-          ],
-          "type": "qcm",
-          "explanation": "Elle renseigne sur la fonction rénale et l’efficacité thérapeutique.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "La diurèse doit être surveillée chez l’insuffisant cardiaque."
-          ],
-          "correct": [
-            "La diurèse doit être surveillée chez l’insuffisant cardiaque."
-          ]
-        },
-        {
-          "text": "Concernant IEC, quelle proposition est correcte ?",
-          "options": [
-            "Les IEC diminuent la charge de travail du ventricule mais peuvent provoquer toux, hypotension et hyperkaliémie.",
-            "Les bêtabloquants ont pour objectif d’accélérer systématiquement le cœur.",
-            "Le furosémide augmente volontairement les œdèmes.",
-            "La digoxine ne nécessite aucune surveillance en raison d’une marge thérapeutique illimitée."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours cite ces effets indésirables et le risque rénal.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Les IEC diminuent la charge de travail du ventricule mais peuvent provoquer toux, hypotension et hyperkaliémie."
-          ],
-          "correct": [
-            "Les IEC diminuent la charge de travail du ventricule mais peuvent provoquer toux, hypotension et hyperkaliémie."
-          ]
-        },
-        {
-          "text": "Concernant bêtabloquant, quelle proposition est correcte ?",
-          "options": [
-            "Les bêtabloquants réduisent l’activité sympathique et la fréquence cardiaque.",
-            "Le furosémide augmente volontairement les œdèmes.",
-            "La digoxine ne nécessite aucune surveillance en raison d’une marge thérapeutique illimitée.",
-            "Une prise de poids rapide avec dyspnée est toujours rassurante."
-          ],
-          "type": "qcm",
-          "explanation": "Ils réduisent le travail et les besoins en oxygène du myocarde.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Les bêtabloquants réduisent l’activité sympathique et la fréquence cardiaque."
-          ],
-          "correct": [
-            "Les bêtabloquants réduisent l’activité sympathique et la fréquence cardiaque."
-          ]
-        },
-        {
-          "text": "Concernant diurétique, quelle proposition est correcte ?",
-          "options": [
-            "Le furosémide augmente l’élimination hydro-sodée et peut provoquer déshydratation et mictions impérieuses.",
-            "La digoxine ne nécessite aucune surveillance en raison d’une marge thérapeutique illimitée.",
-            "Une prise de poids rapide avec dyspnée est toujours rassurante.",
-            "L’insuffisance cardiaque correspond toujours à une augmentation parfaite du débit cardiaque."
-          ],
-          "type": "qcm",
-          "explanation": "La déplétion diminue la congestion mais impose une surveillance.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Le furosémide augmente l’élimination hydro-sodée et peut provoquer déshydratation et mictions impérieuses."
-          ],
-          "correct": [
-            "Le furosémide augmente l’élimination hydro-sodée et peut provoquer déshydratation et mictions impérieuses."
-          ]
-        },
-        {
-          "text": "Concernant digitalique, quelle proposition est correcte ?",
-          "options": [
-            "La digoxine renforce la contractilité et peut provoquer bradycardie, vertiges, nausées ou confusion en cas de surdosage.",
-            "Une prise de poids rapide avec dyspnée est toujours rassurante.",
-            "L’insuffisance cardiaque correspond toujours à une augmentation parfaite du débit cardiaque.",
-            "La défaillance ventriculaire améliore toujours la perfusion en aval."
-          ],
-          "type": "qcm",
-          "explanation": "Sa marge thérapeutique étroite impose une surveillance.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "La digoxine renforce la contractilité et peut provoquer bradycardie, vertiges, nausées ou confusion en cas de surdosage."
-          ],
-          "correct": [
-            "La digoxine renforce la contractilité et peut provoquer bradycardie, vertiges, nausées ou confusion en cas de surdosage."
-          ]
-        },
-        {
-          "text": "Concernant alerte, quelle proposition est correcte ?",
-          "options": [
-            "Prise de poids rapide, œdèmes et essoufflement peuvent annoncer une décompensation.",
-            "L’insuffisance cardiaque correspond toujours à une augmentation parfaite du débit cardiaque.",
-            "La défaillance ventriculaire améliore toujours la perfusion en aval.",
-            "L’insuffisance cardiaque gauche ne provoque jamais de dyspnée."
-          ],
-          "type": "qcm",
-          "explanation": "Ces signes doivent faire rechercher OAP ou aggravation cardiaque.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Prise de poids rapide, œdèmes et essoufflement peuvent annoncer une décompensation."
-          ],
-          "correct": [
-            "Prise de poids rapide, œdèmes et essoufflement peuvent annoncer une décompensation."
-          ]
-        },
-        {
-          "text": "À propos de définition, choisissez les deux propositions exactes.",
-          "options": [
-            "L’insuffisance cardiaque correspond à l’incapacité du cœur à assurer un débit adapté aux besoins de l’organisme.",
-            "La défaillance ventriculaire entraîne une augmentation des pressions en amont et une baisse de perfusion en aval.",
-            "L’insuffisance cardiaque gauche ne provoque jamais de dyspnée.",
-            "L’insuffisance cardiaque droite se manifeste uniquement par une douleur dentaire."
-          ],
-          "type": "qcm",
-          "explanation": "La pompe cardiaque devient insuffisante. La congestion et l’hypoperfusion expliquent les signes cliniques.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "L’insuffisance cardiaque correspond à l’incapacité du cœur à assurer un débit adapté aux besoins de l’organisme.",
-            "La défaillance ventriculaire entraîne une augmentation des pressions en amont et une baisse de perfusion en aval."
-          ],
-          "correct": [
-            "L’insuffisance cardiaque correspond à l’incapacité du cœur à assurer un débit adapté aux besoins de l’organisme.",
-            "La défaillance ventriculaire entraîne une augmentation des pressions en amont et une baisse de perfusion en aval."
-          ]
-        },
-        {
-          "text": "À propos de conséquences, choisissez les deux propositions exactes.",
-          "options": [
-            "La défaillance ventriculaire entraîne une augmentation des pressions en amont et une baisse de perfusion en aval.",
-            "Dans l’insuffisance cardiaque gauche, les signes respiratoires dominent.",
-            "L’insuffisance cardiaque droite se manifeste uniquement par une douleur dentaire.",
-            "L’insuffisance cardiaque globale exclut les signes respiratoires."
-          ],
-          "type": "qcm",
-          "explanation": "La congestion et l’hypoperfusion expliquent les signes cliniques. La congestion pulmonaire entraîne dyspnée et toux.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "La défaillance ventriculaire entraîne une augmentation des pressions en amont et une baisse de perfusion en aval.",
-            "Dans l’insuffisance cardiaque gauche, les signes respiratoires dominent."
-          ],
-          "correct": [
-            "La défaillance ventriculaire entraîne une augmentation des pressions en amont et une baisse de perfusion en aval.",
-            "Dans l’insuffisance cardiaque gauche, les signes respiratoires dominent."
-          ]
-        },
-        {
-          "text": "À propos de IC gauche, choisissez les deux propositions exactes.",
-          "options": [
-            "Dans l’insuffisance cardiaque gauche, les signes respiratoires dominent.",
-            "Dans l’insuffisance cardiaque droite, les œdèmes, l’hépatomégalie et la turgescence jugulaire sont fréquents.",
-            "L’insuffisance cardiaque globale exclut les signes respiratoires.",
-            "L’orthopnée correspond à une amélioration de la respiration en position couchée."
-          ],
-          "type": "qcm",
-          "explanation": "La congestion pulmonaire entraîne dyspnée et toux. La congestion veineuse systémique explique ces signes.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Dans l’insuffisance cardiaque gauche, les signes respiratoires dominent.",
-            "Dans l’insuffisance cardiaque droite, les œdèmes, l’hépatomégalie et la turgescence jugulaire sont fréquents."
-          ],
-          "correct": [
-            "Dans l’insuffisance cardiaque gauche, les signes respiratoires dominent.",
-            "Dans l’insuffisance cardiaque droite, les œdèmes, l’hépatomégalie et la turgescence jugulaire sont fréquents."
-          ]
-        },
-        {
-          "text": "À propos de IC droite, choisissez les deux propositions exactes.",
-          "options": [
-            "Dans l’insuffisance cardiaque droite, les œdèmes, l’hépatomégalie et la turgescence jugulaire sont fréquents.",
-            "L’insuffisance cardiaque globale associe des signes gauches et droits.",
-            "L’orthopnée correspond à une amélioration de la respiration en position couchée.",
-            "L’anasarque désigne uniquement une sécheresse cutanée localisée."
-          ],
-          "type": "qcm",
-          "explanation": "La congestion veineuse systémique explique ces signes. Les deux ventricules sont concernés.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Dans l’insuffisance cardiaque droite, les œdèmes, l’hépatomégalie et la turgescence jugulaire sont fréquents.",
-            "L’insuffisance cardiaque globale associe des signes gauches et droits."
-          ],
-          "correct": [
-            "Dans l’insuffisance cardiaque droite, les œdèmes, l’hépatomégalie et la turgescence jugulaire sont fréquents.",
-            "L’insuffisance cardiaque globale associe des signes gauches et droits."
-          ]
-        },
-        {
-          "text": "À propos de IC globale, choisissez les deux propositions exactes.",
-          "options": [
-            "L’insuffisance cardiaque globale associe des signes gauches et droits.",
-            "La dyspnée peut évoluer de l’effort vers le repos puis l’orthopnée.",
-            "L’anasarque désigne uniquement une sécheresse cutanée localisée.",
-            "Un apport très élevé en sel est recommandé dans toute insuffisance cardiaque."
-          ],
-          "type": "qcm",
-          "explanation": "Les deux ventricules sont concernés. L’orthopnée est une dyspnée aggravée en décubitus.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "L’insuffisance cardiaque globale associe des signes gauches et droits.",
-            "La dyspnée peut évoluer de l’effort vers le repos puis l’orthopnée."
-          ],
-          "correct": [
-            "L’insuffisance cardiaque globale associe des signes gauches et droits.",
-            "La dyspnée peut évoluer de l’effort vers le repos puis l’orthopnée."
-          ]
-        },
-        {
-          "text": "À propos de orthopnée, choisissez les deux propositions exactes.",
-          "options": [
-            "La dyspnée peut évoluer de l’effort vers le repos puis l’orthopnée.",
-            "Une insuffisance avancée peut évoluer vers une anasarque avec épanchements séreux.",
-            "Un apport très élevé en sel est recommandé dans toute insuffisance cardiaque.",
-            "Une prise de poids rapide n’a aucun intérêt dans la surveillance."
-          ],
-          "type": "qcm",
-          "explanation": "L’orthopnée est une dyspnée aggravée en décubitus. La rétention hydro-sodée peut devenir généralisée.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "La dyspnée peut évoluer de l’effort vers le repos puis l’orthopnée.",
-            "Une insuffisance avancée peut évoluer vers une anasarque avec épanchements séreux."
-          ],
-          "correct": [
-            "La dyspnée peut évoluer de l’effort vers le repos puis l’orthopnée.",
-            "Une insuffisance avancée peut évoluer vers une anasarque avec épanchements séreux."
-          ]
-        },
-        {
-          "text": "À propos de anasarque, choisissez les deux propositions exactes.",
-          "options": [
-            "Une insuffisance avancée peut évoluer vers une anasarque avec épanchements séreux.",
-            "Le cours recommande un régime pauvre en sel, l’insuffisant cardiaque ne devant pas dépasser environ 6 g de sel par jour.",
-            "Une prise de poids rapide n’a aucun intérêt dans la surveillance.",
-            "La surveillance de la diurèse est inutile sous diurétique."
-          ],
-          "type": "qcm",
-          "explanation": "La rétention hydro-sodée peut devenir généralisée. La réduction sodée limite la rétention hydrique.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Une insuffisance avancée peut évoluer vers une anasarque avec épanchements séreux.",
-            "Le cours recommande un régime pauvre en sel, l’insuffisant cardiaque ne devant pas dépasser environ 6 g de sel par jour."
-          ],
-          "correct": [
-            "Une insuffisance avancée peut évoluer vers une anasarque avec épanchements séreux.",
-            "Le cours recommande un régime pauvre en sel, l’insuffisant cardiaque ne devant pas dépasser environ 6 g de sel par jour."
-          ]
-        },
-        {
-          "text": "À propos de régime, choisissez les deux propositions exactes.",
-          "options": [
-            "Le cours recommande un régime pauvre en sel, l’insuffisant cardiaque ne devant pas dépasser environ 6 g de sel par jour.",
-            "La surveillance régulière du poids aide à dépister une rétention hydrique.",
-            "La surveillance de la diurèse est inutile sous diurétique.",
-            "Les IEC provoquent systématiquement une hypokaliémie sans toux."
-          ],
-          "type": "qcm",
-          "explanation": "La réduction sodée limite la rétention hydrique. Elle peut annoncer une décompensation.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Le cours recommande un régime pauvre en sel, l’insuffisant cardiaque ne devant pas dépasser environ 6 g de sel par jour.",
-            "La surveillance régulière du poids aide à dépister une rétention hydrique."
-          ],
-          "correct": [
-            "Le cours recommande un régime pauvre en sel, l’insuffisant cardiaque ne devant pas dépasser environ 6 g de sel par jour.",
-            "La surveillance régulière du poids aide à dépister une rétention hydrique."
-          ]
-        },
-        {
-          "text": "À propos de poids, choisissez les deux propositions exactes.",
-          "options": [
-            "La surveillance régulière du poids aide à dépister une rétention hydrique.",
-            "La diurèse doit être surveillée chez l’insuffisant cardiaque.",
-            "Les IEC provoquent systématiquement une hypokaliémie sans toux.",
-            "Les bêtabloquants ont pour objectif d’accélérer systématiquement le cœur."
-          ],
-          "type": "qcm",
-          "explanation": "Elle peut annoncer une décompensation. Elle renseigne sur la fonction rénale et l’efficacité thérapeutique.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "La surveillance régulière du poids aide à dépister une rétention hydrique.",
-            "La diurèse doit être surveillée chez l’insuffisant cardiaque."
-          ],
-          "correct": [
-            "La surveillance régulière du poids aide à dépister une rétention hydrique.",
-            "La diurèse doit être surveillée chez l’insuffisant cardiaque."
-          ]
-        },
-        {
-          "text": "À propos de diurèse, choisissez les deux propositions exactes.",
-          "options": [
-            "La diurèse doit être surveillée chez l’insuffisant cardiaque.",
-            "Les IEC diminuent la charge de travail du ventricule mais peuvent provoquer toux, hypotension et hyperkaliémie.",
-            "Les bêtabloquants ont pour objectif d’accélérer systématiquement le cœur.",
-            "Le furosémide augmente volontairement les œdèmes."
-          ],
-          "type": "qcm",
-          "explanation": "Elle renseigne sur la fonction rénale et l’efficacité thérapeutique. Le cours cite ces effets indésirables et le risque rénal.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "La diurèse doit être surveillée chez l’insuffisant cardiaque.",
-            "Les IEC diminuent la charge de travail du ventricule mais peuvent provoquer toux, hypotension et hyperkaliémie."
-          ],
-          "correct": [
-            "La diurèse doit être surveillée chez l’insuffisant cardiaque.",
-            "Les IEC diminuent la charge de travail du ventricule mais peuvent provoquer toux, hypotension et hyperkaliémie."
-          ]
-        },
-        {
-          "text": "À propos de IEC, choisissez les deux propositions exactes.",
-          "options": [
-            "Les IEC diminuent la charge de travail du ventricule mais peuvent provoquer toux, hypotension et hyperkaliémie.",
-            "Les bêtabloquants réduisent l’activité sympathique et la fréquence cardiaque.",
-            "Le furosémide augmente volontairement les œdèmes.",
-            "La digoxine ne nécessite aucune surveillance en raison d’une marge thérapeutique illimitée."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours cite ces effets indésirables et le risque rénal. Ils réduisent le travail et les besoins en oxygène du myocarde.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Les IEC diminuent la charge de travail du ventricule mais peuvent provoquer toux, hypotension et hyperkaliémie.",
-            "Les bêtabloquants réduisent l’activité sympathique et la fréquence cardiaque."
-          ],
-          "correct": [
-            "Les IEC diminuent la charge de travail du ventricule mais peuvent provoquer toux, hypotension et hyperkaliémie.",
-            "Les bêtabloquants réduisent l’activité sympathique et la fréquence cardiaque."
-          ]
-        },
-        {
-          "text": "À propos de bêtabloquant, choisissez les deux propositions exactes.",
-          "options": [
-            "Les bêtabloquants réduisent l’activité sympathique et la fréquence cardiaque.",
-            "Le furosémide augmente l’élimination hydro-sodée et peut provoquer déshydratation et mictions impérieuses.",
-            "La digoxine ne nécessite aucune surveillance en raison d’une marge thérapeutique illimitée.",
-            "Une prise de poids rapide avec dyspnée est toujours rassurante."
-          ],
-          "type": "qcm",
-          "explanation": "Ils réduisent le travail et les besoins en oxygène du myocarde. La déplétion diminue la congestion mais impose une surveillance.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Les bêtabloquants réduisent l’activité sympathique et la fréquence cardiaque.",
-            "Le furosémide augmente l’élimination hydro-sodée et peut provoquer déshydratation et mictions impérieuses."
-          ],
-          "correct": [
-            "Les bêtabloquants réduisent l’activité sympathique et la fréquence cardiaque.",
-            "Le furosémide augmente l’élimination hydro-sodée et peut provoquer déshydratation et mictions impérieuses."
-          ]
-        },
-        {
-          "text": "À propos de diurétique, choisissez les deux propositions exactes.",
-          "options": [
-            "Le furosémide augmente l’élimination hydro-sodée et peut provoquer déshydratation et mictions impérieuses.",
-            "La digoxine renforce la contractilité et peut provoquer bradycardie, vertiges, nausées ou confusion en cas de surdosage.",
-            "Une prise de poids rapide avec dyspnée est toujours rassurante.",
-            "L’insuffisance cardiaque correspond toujours à une augmentation parfaite du débit cardiaque."
-          ],
-          "type": "qcm",
-          "explanation": "La déplétion diminue la congestion mais impose une surveillance. Sa marge thérapeutique étroite impose une surveillance.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Le furosémide augmente l’élimination hydro-sodée et peut provoquer déshydratation et mictions impérieuses.",
-            "La digoxine renforce la contractilité et peut provoquer bradycardie, vertiges, nausées ou confusion en cas de surdosage."
-          ],
-          "correct": [
-            "Le furosémide augmente l’élimination hydro-sodée et peut provoquer déshydratation et mictions impérieuses.",
-            "La digoxine renforce la contractilité et peut provoquer bradycardie, vertiges, nausées ou confusion en cas de surdosage."
-          ]
-        },
-        {
-          "text": "À propos de digitalique, choisissez les deux propositions exactes.",
-          "options": [
-            "La digoxine renforce la contractilité et peut provoquer bradycardie, vertiges, nausées ou confusion en cas de surdosage.",
-            "Prise de poids rapide, œdèmes et essoufflement peuvent annoncer une décompensation.",
-            "L’insuffisance cardiaque correspond toujours à une augmentation parfaite du débit cardiaque.",
-            "La défaillance ventriculaire améliore toujours la perfusion en aval."
-          ],
-          "type": "qcm",
-          "explanation": "Sa marge thérapeutique étroite impose une surveillance. Ces signes doivent faire rechercher OAP ou aggravation cardiaque.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "La digoxine renforce la contractilité et peut provoquer bradycardie, vertiges, nausées ou confusion en cas de surdosage.",
-            "Prise de poids rapide, œdèmes et essoufflement peuvent annoncer une décompensation."
-          ],
-          "correct": [
-            "La digoxine renforce la contractilité et peut provoquer bradycardie, vertiges, nausées ou confusion en cas de surdosage.",
-            "Prise de poids rapide, œdèmes et essoufflement peuvent annoncer une décompensation."
-          ]
-        },
-        {
-          "text": "À propos de alerte, choisissez les deux propositions exactes.",
-          "options": [
-            "Prise de poids rapide, œdèmes et essoufflement peuvent annoncer une décompensation.",
-            "L’insuffisance cardiaque correspond à l’incapacité du cœur à assurer un débit adapté aux besoins de l’organisme.",
-            "La défaillance ventriculaire améliore toujours la perfusion en aval.",
-            "L’insuffisance cardiaque gauche ne provoque jamais de dyspnée."
-          ],
-          "type": "qcm",
-          "explanation": "Ces signes doivent faire rechercher OAP ou aggravation cardiaque. La pompe cardiaque devient insuffisante.",
-          "source": "Cours de cardiologie L3, Chapitre 5  Insuffisance cardiaque, PDF pages 16 à 18.",
-          "answers": [
-            "Prise de poids rapide, œdèmes et essoufflement peuvent annoncer une décompensation.",
-            "L’insuffisance cardiaque correspond à l’incapacité du cœur à assurer un débit adapté aux besoins de l’organisme."
-          ],
-          "correct": [
-            "Prise de poids rapide, œdèmes et essoufflement peuvent annoncer une décompensation.",
-            "L’insuffisance cardiaque correspond à l’incapacité du cœur à assurer un débit adapté aux besoins de l’organisme."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ide-6",
-      "title": "Cardiologie L3 — Tubes de prélèvement",
-      "matter": "Cardiologie L3",
-      "filiere": "IDE",
-      "description": "Sujet 6 — 60 questions corrigées",
-      "instructions": "QCD : Vrai ou Faux. QCM : sélectionner la ou les bonnes réponses.",
-      "duration": 90,
-      "programmed": true,
-      "openDate": "2026-01-01",
-      "openTime": "00:00",
-      "closeDate": "2030-12-31",
-      "closeTime": "23:59",
-      "marking": {
-        "correct": 1,
-        "wrong": -1,
-        "empty": 0
-      },
-      "questions": [
-        {
-          "text": "Les tubes doivent être prélevés selon un ordre défini afin de limiter les contaminations d’additifs.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours présente un ordre précis de prélèvement.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’ordre de prélèvement des tubes n’a jamais d’importance.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours présente un ordre précis de prélèvement.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le tube sec est rouge et sert notamment à plusieurs examens de chimie et d’immunologie.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours associe le tube rouge au tube sec.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le tube sec présenté dans le cours est obligatoirement noir.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours associe le tube rouge au tube sec.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le tube rouge doit être rempli au minimum à moitié.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Un volume suffisant est nécessaire pour l’analyse.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le tube rouge doit rester vide après le prélèvement.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Un volume suffisant est nécessaire pour l’analyse.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le tube bleu contient du citrate de sodium et doit être rempli jusqu’au trait.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le rapport sang-anticoagulant doit être respecté.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le tube bleu peut être rempli à n’importe quel niveau pour le bilan de coagulation.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le rapport sang-anticoagulant doit être respecté.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le tube bleu est utilisé notamment pour TP/INR, TCA/TCK, fibrinogène et D-dimères.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces examens explorent l’hémostase.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le tube bleu est réservé uniquement à la glycémie différée.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Ces examens explorent l’hémostase.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le tube EDTA est violet.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le violet correspond à l’EDTA.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le tube EDTA est noir dans le cours.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le violet correspond à l’EDTA.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "La NFS et les plaquettes sont réalisées sur tube violet EDTA.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’EDTA conserve les éléments figurés du sang.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La NFS se réalise uniquement sur tube noir de VS.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’EDTA conserve les éléments figurés du sang.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "L’hémoglobine glyquée peut être prélevée sur tube violet EDTA.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours la classe parmi les examens du tube violet.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "L’HbA1c se prélève exclusivement sur un tube vide sans sang.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours la classe parmi les examens du tube violet.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le tube vert contient de l’héparine.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le vert correspond au tube hépariné.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le tube vert contient obligatoirement du citrate pour la VS.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le vert correspond au tube hépariné.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le tube jaune avec gel SST doit être rempli au minimum à moitié.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours précise un remplissage minimal à moitié.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le tube jaune doit toujours rester non rempli.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le cours précise un remplissage minimal à moitié.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le tube noir au citrate de sodium est utilisé pour la vitesse de sédimentation.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le tube noir est dédié à la VS dans ce cours.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "La VS est réalisée uniquement sur tube gris fluoré.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le tube noir est dédié à la VS dans ce cours.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le tube gris contient du fluorure de sodium.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le fluorure inhibe la glycolyse.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le tube gris est un tube EDTA violet.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le fluorure inhibe la glycolyse.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Le tube gris est indiqué pour la glycémie lorsque l’analyse est différée de plus de quatre heures.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le fluorure stabilise la glycémie lors d’un délai prolongé.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Le tube gris est réservé uniquement au TP/INR.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le fluorure stabilise la glycémie lors d’un délai prolongé.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Tous les tubes doivent être identifiés avec les informations du patient.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’identification prévient les erreurs d’attribution.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Il est recommandé de laisser les tubes sans identité.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "L’identification prévient les erreurs d’attribution.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Les prélèvements d’un même patient doivent être placés dans un sachet individuel avec les documents dans la partie externe.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le conditionnement séparé sécurise le transport et la traçabilité.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Vrai",
-          "correct": "Vrai"
-        },
-        {
-          "text": "Les prélèvements de plusieurs patients doivent être mélangés dans un sachet non identifié.",
-          "options": [
-            "Vrai",
-            "Faux"
-          ],
-          "type": "qcd",
-          "explanation": "Le conditionnement séparé sécurise le transport et la traçabilité.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answer": "Faux",
-          "correct": "Faux"
-        },
-        {
-          "text": "Concernant ordre, quelle proposition est correcte ?",
-          "options": [
-            "Les tubes doivent être prélevés selon un ordre défini afin de limiter les contaminations d’additifs.",
-            "Le tube sec présenté dans le cours est obligatoirement noir.",
-            "Le tube rouge doit rester vide après le prélèvement.",
-            "Le tube bleu peut être rempli à n’importe quel niveau pour le bilan de coagulation."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours présente un ordre précis de prélèvement.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Les tubes doivent être prélevés selon un ordre défini afin de limiter les contaminations d’additifs."
-          ],
-          "correct": [
-            "Les tubes doivent être prélevés selon un ordre défini afin de limiter les contaminations d’additifs."
-          ]
-        },
-        {
-          "text": "Concernant tube sec, quelle proposition est correcte ?",
-          "options": [
-            "Le tube sec est rouge et sert notamment à plusieurs examens de chimie et d’immunologie.",
-            "Le tube rouge doit rester vide après le prélèvement.",
-            "Le tube bleu peut être rempli à n’importe quel niveau pour le bilan de coagulation.",
-            "Le tube bleu est réservé uniquement à la glycémie différée."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours associe le tube rouge au tube sec.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube sec est rouge et sert notamment à plusieurs examens de chimie et d’immunologie."
-          ],
-          "correct": [
-            "Le tube sec est rouge et sert notamment à plusieurs examens de chimie et d’immunologie."
-          ]
-        },
-        {
-          "text": "Concernant remplissage rouge, quelle proposition est correcte ?",
-          "options": [
-            "Le tube rouge doit être rempli au minimum à moitié.",
-            "Le tube bleu peut être rempli à n’importe quel niveau pour le bilan de coagulation.",
-            "Le tube bleu est réservé uniquement à la glycémie différée.",
-            "Le tube EDTA est noir dans le cours."
-          ],
-          "type": "qcm",
-          "explanation": "Un volume suffisant est nécessaire pour l’analyse.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube rouge doit être rempli au minimum à moitié."
-          ],
-          "correct": [
-            "Le tube rouge doit être rempli au minimum à moitié."
-          ]
-        },
-        {
-          "text": "Concernant citrate bleu, quelle proposition est correcte ?",
-          "options": [
-            "Le tube bleu contient du citrate de sodium et doit être rempli jusqu’au trait.",
-            "Le tube bleu est réservé uniquement à la glycémie différée.",
-            "Le tube EDTA est noir dans le cours.",
-            "La NFS se réalise uniquement sur tube noir de VS."
-          ],
-          "type": "qcm",
-          "explanation": "Le rapport sang-anticoagulant doit être respecté.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube bleu contient du citrate de sodium et doit être rempli jusqu’au trait."
-          ],
-          "correct": [
-            "Le tube bleu contient du citrate de sodium et doit être rempli jusqu’au trait."
-          ]
-        },
-        {
-          "text": "Concernant coagulation, quelle proposition est correcte ?",
-          "options": [
-            "Le tube bleu est utilisé notamment pour TP/INR, TCA/TCK, fibrinogène et D-dimères.",
-            "Le tube EDTA est noir dans le cours.",
-            "La NFS se réalise uniquement sur tube noir de VS.",
-            "L’HbA1c se prélève exclusivement sur un tube vide sans sang."
-          ],
-          "type": "qcm",
-          "explanation": "Ces examens explorent l’hémostase.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube bleu est utilisé notamment pour TP/INR, TCA/TCK, fibrinogène et D-dimères."
-          ],
-          "correct": [
-            "Le tube bleu est utilisé notamment pour TP/INR, TCA/TCK, fibrinogène et D-dimères."
-          ]
-        },
-        {
-          "text": "Concernant EDTA, quelle proposition est correcte ?",
-          "options": [
-            "Le tube EDTA est violet.",
-            "La NFS se réalise uniquement sur tube noir de VS.",
-            "L’HbA1c se prélève exclusivement sur un tube vide sans sang.",
-            "Le tube vert contient obligatoirement du citrate pour la VS."
-          ],
-          "type": "qcm",
-          "explanation": "Le violet correspond à l’EDTA.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube EDTA est violet."
-          ],
-          "correct": [
-            "Le tube EDTA est violet."
-          ]
-        },
-        {
-          "text": "Concernant NFS, quelle proposition est correcte ?",
-          "options": [
-            "La NFS et les plaquettes sont réalisées sur tube violet EDTA.",
-            "L’HbA1c se prélève exclusivement sur un tube vide sans sang.",
-            "Le tube vert contient obligatoirement du citrate pour la VS.",
-            "Le tube jaune doit toujours rester non rempli."
-          ],
-          "type": "qcm",
-          "explanation": "L’EDTA conserve les éléments figurés du sang.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "La NFS et les plaquettes sont réalisées sur tube violet EDTA."
-          ],
-          "correct": [
-            "La NFS et les plaquettes sont réalisées sur tube violet EDTA."
-          ]
-        },
-        {
-          "text": "Concernant HbA1c, quelle proposition est correcte ?",
-          "options": [
-            "L’hémoglobine glyquée peut être prélevée sur tube violet EDTA.",
-            "Le tube vert contient obligatoirement du citrate pour la VS.",
-            "Le tube jaune doit toujours rester non rempli.",
-            "La VS est réalisée uniquement sur tube gris fluoré."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours la classe parmi les examens du tube violet.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "L’hémoglobine glyquée peut être prélevée sur tube violet EDTA."
-          ],
-          "correct": [
-            "L’hémoglobine glyquée peut être prélevée sur tube violet EDTA."
-          ]
-        },
-        {
-          "text": "Concernant héparine, quelle proposition est correcte ?",
-          "options": [
-            "Le tube vert contient de l’héparine.",
-            "Le tube jaune doit toujours rester non rempli.",
-            "La VS est réalisée uniquement sur tube gris fluoré.",
-            "Le tube gris est un tube EDTA violet."
-          ],
-          "type": "qcm",
-          "explanation": "Le vert correspond au tube hépariné.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube vert contient de l’héparine."
-          ],
-          "correct": [
-            "Le tube vert contient de l’héparine."
-          ]
-        },
-        {
-          "text": "Concernant gel SST, quelle proposition est correcte ?",
-          "options": [
-            "Le tube jaune avec gel SST doit être rempli au minimum à moitié.",
-            "La VS est réalisée uniquement sur tube gris fluoré.",
-            "Le tube gris est un tube EDTA violet.",
-            "Le tube gris est réservé uniquement au TP/INR."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours précise un remplissage minimal à moitié.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube jaune avec gel SST doit être rempli au minimum à moitié."
-          ],
-          "correct": [
-            "Le tube jaune avec gel SST doit être rempli au minimum à moitié."
-          ]
-        },
-        {
-          "text": "Concernant VS, quelle proposition est correcte ?",
-          "options": [
-            "Le tube noir au citrate de sodium est utilisé pour la vitesse de sédimentation.",
-            "Le tube gris est un tube EDTA violet.",
-            "Le tube gris est réservé uniquement au TP/INR.",
-            "Il est recommandé de laisser les tubes sans identité."
-          ],
-          "type": "qcm",
-          "explanation": "Le tube noir est dédié à la VS dans ce cours.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube noir au citrate de sodium est utilisé pour la vitesse de sédimentation."
-          ],
-          "correct": [
-            "Le tube noir au citrate de sodium est utilisé pour la vitesse de sédimentation."
-          ]
-        },
-        {
-          "text": "Concernant fluorure, quelle proposition est correcte ?",
-          "options": [
-            "Le tube gris contient du fluorure de sodium.",
-            "Le tube gris est réservé uniquement au TP/INR.",
-            "Il est recommandé de laisser les tubes sans identité.",
-            "Les prélèvements de plusieurs patients doivent être mélangés dans un sachet non identifié."
-          ],
-          "type": "qcm",
-          "explanation": "Le fluorure inhibe la glycolyse.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube gris contient du fluorure de sodium."
-          ],
-          "correct": [
-            "Le tube gris contient du fluorure de sodium."
-          ]
-        },
-        {
-          "text": "Concernant glycémie différée, quelle proposition est correcte ?",
-          "options": [
-            "Le tube gris est indiqué pour la glycémie lorsque l’analyse est différée de plus de quatre heures.",
-            "Il est recommandé de laisser les tubes sans identité.",
-            "Les prélèvements de plusieurs patients doivent être mélangés dans un sachet non identifié.",
-            "L’ordre de prélèvement des tubes n’a jamais d’importance."
-          ],
-          "type": "qcm",
-          "explanation": "Le fluorure stabilise la glycémie lors d’un délai prolongé.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube gris est indiqué pour la glycémie lorsque l’analyse est différée de plus de quatre heures."
-          ],
-          "correct": [
-            "Le tube gris est indiqué pour la glycémie lorsque l’analyse est différée de plus de quatre heures."
-          ]
-        },
-        {
-          "text": "Concernant identification, quelle proposition est correcte ?",
-          "options": [
-            "Tous les tubes doivent être identifiés avec les informations du patient.",
-            "Les prélèvements de plusieurs patients doivent être mélangés dans un sachet non identifié.",
-            "L’ordre de prélèvement des tubes n’a jamais d’importance.",
-            "Le tube sec présenté dans le cours est obligatoirement noir."
-          ],
-          "type": "qcm",
-          "explanation": "L’identification prévient les erreurs d’attribution.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Tous les tubes doivent être identifiés avec les informations du patient."
-          ],
-          "correct": [
-            "Tous les tubes doivent être identifiés avec les informations du patient."
-          ]
-        },
-        {
-          "text": "Concernant conditionnement, quelle proposition est correcte ?",
-          "options": [
-            "Les prélèvements d’un même patient doivent être placés dans un sachet individuel avec les documents dans la partie externe.",
-            "L’ordre de prélèvement des tubes n’a jamais d’importance.",
-            "Le tube sec présenté dans le cours est obligatoirement noir.",
-            "Le tube rouge doit rester vide après le prélèvement."
-          ],
-          "type": "qcm",
-          "explanation": "Le conditionnement séparé sécurise le transport et la traçabilité.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Les prélèvements d’un même patient doivent être placés dans un sachet individuel avec les documents dans la partie externe."
-          ],
-          "correct": [
-            "Les prélèvements d’un même patient doivent être placés dans un sachet individuel avec les documents dans la partie externe."
-          ]
-        },
-        {
-          "text": "À propos de ordre, choisissez les deux propositions exactes.",
-          "options": [
-            "Les tubes doivent être prélevés selon un ordre défini afin de limiter les contaminations d’additifs.",
-            "Le tube sec est rouge et sert notamment à plusieurs examens de chimie et d’immunologie.",
-            "Le tube rouge doit rester vide après le prélèvement.",
-            "Le tube bleu peut être rempli à n’importe quel niveau pour le bilan de coagulation."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours présente un ordre précis de prélèvement. Le cours associe le tube rouge au tube sec.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Les tubes doivent être prélevés selon un ordre défini afin de limiter les contaminations d’additifs.",
-            "Le tube sec est rouge et sert notamment à plusieurs examens de chimie et d’immunologie."
-          ],
-          "correct": [
-            "Les tubes doivent être prélevés selon un ordre défini afin de limiter les contaminations d’additifs.",
-            "Le tube sec est rouge et sert notamment à plusieurs examens de chimie et d’immunologie."
-          ]
-        },
-        {
-          "text": "À propos de tube sec, choisissez les deux propositions exactes.",
-          "options": [
-            "Le tube sec est rouge et sert notamment à plusieurs examens de chimie et d’immunologie.",
-            "Le tube rouge doit être rempli au minimum à moitié.",
-            "Le tube bleu peut être rempli à n’importe quel niveau pour le bilan de coagulation.",
-            "Le tube bleu est réservé uniquement à la glycémie différée."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours associe le tube rouge au tube sec. Un volume suffisant est nécessaire pour l’analyse.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube sec est rouge et sert notamment à plusieurs examens de chimie et d’immunologie.",
-            "Le tube rouge doit être rempli au minimum à moitié."
-          ],
-          "correct": [
-            "Le tube sec est rouge et sert notamment à plusieurs examens de chimie et d’immunologie.",
-            "Le tube rouge doit être rempli au minimum à moitié."
-          ]
-        },
-        {
-          "text": "À propos de remplissage rouge, choisissez les deux propositions exactes.",
-          "options": [
-            "Le tube rouge doit être rempli au minimum à moitié.",
-            "Le tube bleu contient du citrate de sodium et doit être rempli jusqu’au trait.",
-            "Le tube bleu est réservé uniquement à la glycémie différée.",
-            "Le tube EDTA est noir dans le cours."
-          ],
-          "type": "qcm",
-          "explanation": "Un volume suffisant est nécessaire pour l’analyse. Le rapport sang-anticoagulant doit être respecté.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube rouge doit être rempli au minimum à moitié.",
-            "Le tube bleu contient du citrate de sodium et doit être rempli jusqu’au trait."
-          ],
-          "correct": [
-            "Le tube rouge doit être rempli au minimum à moitié.",
-            "Le tube bleu contient du citrate de sodium et doit être rempli jusqu’au trait."
-          ]
-        },
-        {
-          "text": "À propos de citrate bleu, choisissez les deux propositions exactes.",
-          "options": [
-            "Le tube bleu contient du citrate de sodium et doit être rempli jusqu’au trait.",
-            "Le tube bleu est utilisé notamment pour TP/INR, TCA/TCK, fibrinogène et D-dimères.",
-            "Le tube EDTA est noir dans le cours.",
-            "La NFS se réalise uniquement sur tube noir de VS."
-          ],
-          "type": "qcm",
-          "explanation": "Le rapport sang-anticoagulant doit être respecté. Ces examens explorent l’hémostase.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube bleu contient du citrate de sodium et doit être rempli jusqu’au trait.",
-            "Le tube bleu est utilisé notamment pour TP/INR, TCA/TCK, fibrinogène et D-dimères."
-          ],
-          "correct": [
-            "Le tube bleu contient du citrate de sodium et doit être rempli jusqu’au trait.",
-            "Le tube bleu est utilisé notamment pour TP/INR, TCA/TCK, fibrinogène et D-dimères."
-          ]
-        },
-        {
-          "text": "À propos de coagulation, choisissez les deux propositions exactes.",
-          "options": [
-            "Le tube bleu est utilisé notamment pour TP/INR, TCA/TCK, fibrinogène et D-dimères.",
-            "Le tube EDTA est violet.",
-            "La NFS se réalise uniquement sur tube noir de VS.",
-            "L’HbA1c se prélève exclusivement sur un tube vide sans sang."
-          ],
-          "type": "qcm",
-          "explanation": "Ces examens explorent l’hémostase. Le violet correspond à l’EDTA.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube bleu est utilisé notamment pour TP/INR, TCA/TCK, fibrinogène et D-dimères.",
-            "Le tube EDTA est violet."
-          ],
-          "correct": [
-            "Le tube bleu est utilisé notamment pour TP/INR, TCA/TCK, fibrinogène et D-dimères.",
-            "Le tube EDTA est violet."
-          ]
-        },
-        {
-          "text": "À propos de EDTA, choisissez les deux propositions exactes.",
-          "options": [
-            "Le tube EDTA est violet.",
-            "La NFS et les plaquettes sont réalisées sur tube violet EDTA.",
-            "L’HbA1c se prélève exclusivement sur un tube vide sans sang.",
-            "Le tube vert contient obligatoirement du citrate pour la VS."
-          ],
-          "type": "qcm",
-          "explanation": "Le violet correspond à l’EDTA. L’EDTA conserve les éléments figurés du sang.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube EDTA est violet.",
-            "La NFS et les plaquettes sont réalisées sur tube violet EDTA."
-          ],
-          "correct": [
-            "Le tube EDTA est violet.",
-            "La NFS et les plaquettes sont réalisées sur tube violet EDTA."
-          ]
-        },
-        {
-          "text": "À propos de NFS, choisissez les deux propositions exactes.",
-          "options": [
-            "La NFS et les plaquettes sont réalisées sur tube violet EDTA.",
-            "L’hémoglobine glyquée peut être prélevée sur tube violet EDTA.",
-            "Le tube vert contient obligatoirement du citrate pour la VS.",
-            "Le tube jaune doit toujours rester non rempli."
-          ],
-          "type": "qcm",
-          "explanation": "L’EDTA conserve les éléments figurés du sang. Le cours la classe parmi les examens du tube violet.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "La NFS et les plaquettes sont réalisées sur tube violet EDTA.",
-            "L’hémoglobine glyquée peut être prélevée sur tube violet EDTA."
-          ],
-          "correct": [
-            "La NFS et les plaquettes sont réalisées sur tube violet EDTA.",
-            "L’hémoglobine glyquée peut être prélevée sur tube violet EDTA."
-          ]
-        },
-        {
-          "text": "À propos de HbA1c, choisissez les deux propositions exactes.",
-          "options": [
-            "L’hémoglobine glyquée peut être prélevée sur tube violet EDTA.",
-            "Le tube vert contient de l’héparine.",
-            "Le tube jaune doit toujours rester non rempli.",
-            "La VS est réalisée uniquement sur tube gris fluoré."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours la classe parmi les examens du tube violet. Le vert correspond au tube hépariné.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "L’hémoglobine glyquée peut être prélevée sur tube violet EDTA.",
-            "Le tube vert contient de l’héparine."
-          ],
-          "correct": [
-            "L’hémoglobine glyquée peut être prélevée sur tube violet EDTA.",
-            "Le tube vert contient de l’héparine."
-          ]
-        },
-        {
-          "text": "À propos de héparine, choisissez les deux propositions exactes.",
-          "options": [
-            "Le tube vert contient de l’héparine.",
-            "Le tube jaune avec gel SST doit être rempli au minimum à moitié.",
-            "La VS est réalisée uniquement sur tube gris fluoré.",
-            "Le tube gris est un tube EDTA violet."
-          ],
-          "type": "qcm",
-          "explanation": "Le vert correspond au tube hépariné. Le cours précise un remplissage minimal à moitié.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube vert contient de l’héparine.",
-            "Le tube jaune avec gel SST doit être rempli au minimum à moitié."
-          ],
-          "correct": [
-            "Le tube vert contient de l’héparine.",
-            "Le tube jaune avec gel SST doit être rempli au minimum à moitié."
-          ]
-        },
-        {
-          "text": "À propos de gel SST, choisissez les deux propositions exactes.",
-          "options": [
-            "Le tube jaune avec gel SST doit être rempli au minimum à moitié.",
-            "Le tube noir au citrate de sodium est utilisé pour la vitesse de sédimentation.",
-            "Le tube gris est un tube EDTA violet.",
-            "Le tube gris est réservé uniquement au TP/INR."
-          ],
-          "type": "qcm",
-          "explanation": "Le cours précise un remplissage minimal à moitié. Le tube noir est dédié à la VS dans ce cours.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube jaune avec gel SST doit être rempli au minimum à moitié.",
-            "Le tube noir au citrate de sodium est utilisé pour la vitesse de sédimentation."
-          ],
-          "correct": [
-            "Le tube jaune avec gel SST doit être rempli au minimum à moitié.",
-            "Le tube noir au citrate de sodium est utilisé pour la vitesse de sédimentation."
-          ]
-        },
-        {
-          "text": "À propos de VS, choisissez les deux propositions exactes.",
-          "options": [
-            "Le tube noir au citrate de sodium est utilisé pour la vitesse de sédimentation.",
-            "Le tube gris contient du fluorure de sodium.",
-            "Le tube gris est réservé uniquement au TP/INR.",
-            "Il est recommandé de laisser les tubes sans identité."
-          ],
-          "type": "qcm",
-          "explanation": "Le tube noir est dédié à la VS dans ce cours. Le fluorure inhibe la glycolyse.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube noir au citrate de sodium est utilisé pour la vitesse de sédimentation.",
-            "Le tube gris contient du fluorure de sodium."
-          ],
-          "correct": [
-            "Le tube noir au citrate de sodium est utilisé pour la vitesse de sédimentation.",
-            "Le tube gris contient du fluorure de sodium."
-          ]
-        },
-        {
-          "text": "À propos de fluorure, choisissez les deux propositions exactes.",
-          "options": [
-            "Le tube gris contient du fluorure de sodium.",
-            "Le tube gris est indiqué pour la glycémie lorsque l’analyse est différée de plus de quatre heures.",
-            "Il est recommandé de laisser les tubes sans identité.",
-            "Les prélèvements de plusieurs patients doivent être mélangés dans un sachet non identifié."
-          ],
-          "type": "qcm",
-          "explanation": "Le fluorure inhibe la glycolyse. Le fluorure stabilise la glycémie lors d’un délai prolongé.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube gris contient du fluorure de sodium.",
-            "Le tube gris est indiqué pour la glycémie lorsque l’analyse est différée de plus de quatre heures."
-          ],
-          "correct": [
-            "Le tube gris contient du fluorure de sodium.",
-            "Le tube gris est indiqué pour la glycémie lorsque l’analyse est différée de plus de quatre heures."
-          ]
-        },
-        {
-          "text": "À propos de glycémie différée, choisissez les deux propositions exactes.",
-          "options": [
-            "Le tube gris est indiqué pour la glycémie lorsque l’analyse est différée de plus de quatre heures.",
-            "Tous les tubes doivent être identifiés avec les informations du patient.",
-            "Les prélèvements de plusieurs patients doivent être mélangés dans un sachet non identifié.",
-            "L’ordre de prélèvement des tubes n’a jamais d’importance."
-          ],
-          "type": "qcm",
-          "explanation": "Le fluorure stabilise la glycémie lors d’un délai prolongé. L’identification prévient les erreurs d’attribution.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Le tube gris est indiqué pour la glycémie lorsque l’analyse est différée de plus de quatre heures.",
-            "Tous les tubes doivent être identifiés avec les informations du patient."
-          ],
-          "correct": [
-            "Le tube gris est indiqué pour la glycémie lorsque l’analyse est différée de plus de quatre heures.",
-            "Tous les tubes doivent être identifiés avec les informations du patient."
-          ]
-        },
-        {
-          "text": "À propos de identification, choisissez les deux propositions exactes.",
-          "options": [
-            "Tous les tubes doivent être identifiés avec les informations du patient.",
-            "Les prélèvements d’un même patient doivent être placés dans un sachet individuel avec les documents dans la partie externe.",
-            "L’ordre de prélèvement des tubes n’a jamais d’importance.",
-            "Le tube sec présenté dans le cours est obligatoirement noir."
-          ],
-          "type": "qcm",
-          "explanation": "L’identification prévient les erreurs d’attribution. Le conditionnement séparé sécurise le transport et la traçabilité.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Tous les tubes doivent être identifiés avec les informations du patient.",
-            "Les prélèvements d’un même patient doivent être placés dans un sachet individuel avec les documents dans la partie externe."
-          ],
-          "correct": [
-            "Tous les tubes doivent être identifiés avec les informations du patient.",
-            "Les prélèvements d’un même patient doivent être placés dans un sachet individuel avec les documents dans la partie externe."
-          ]
-        },
-        {
-          "text": "À propos de conditionnement, choisissez les deux propositions exactes.",
-          "options": [
-            "Les prélèvements d’un même patient doivent être placés dans un sachet individuel avec les documents dans la partie externe.",
-            "Les tubes doivent être prélevés selon un ordre défini afin de limiter les contaminations d’additifs.",
-            "Le tube sec présenté dans le cours est obligatoirement noir.",
-            "Le tube rouge doit rester vide après le prélèvement."
-          ],
-          "type": "qcm",
-          "explanation": "Le conditionnement séparé sécurise le transport et la traçabilité. Le cours présente un ordre précis de prélèvement.",
-          "source": "Cours de cardiologie L3, Chapitre 6  Tubes de prélèvement, PDF page 19.",
-          "answers": [
-            "Les prélèvements d’un même patient doivent être placés dans un sachet individuel avec les documents dans la partie externe.",
-            "Les tubes doivent être prélevés selon un ordre défini afin de limiter les contaminations d’additifs."
-          ],
-          "correct": [
-            "Les prélèvements d’un même patient doivent être placés dans un sachet individuel avec les documents dans la partie externe.",
-            "Les tubes doivent être prélevés selon un ordre défini afin de limiter les contaminations d’additifs."
-          ]
-        }
-      ]
+      "filiere": "SFM"
     },
     {
       "id": "sfm-1",
@@ -15766,7 +17542,7 @@ const CONFIG = {
 
           <section id="studentAvailableSection" class="student-section-card">
             <h3>Choisissez votre filière</h3>
-            <div class="filiere-buttons"><button class="student-start-btn" aria-pressed="${window.selectedFiliere === 'IDE'}" onclick="selectFiliere('IDE')">IDE · Infirmier</button><button class="student-start-btn" aria-pressed="${window.selectedFiliere === 'SFM'}" onclick="selectFiliere('SFM')">SFM · Sage-femme / Maïeuticien</button></div>
+            <div class="filiere-buttons"><button class="student-start-btn" aria-pressed="${window.selectedFiliere === 'IDE'}" onclick="selectFiliere('IDE')">IDE : Hépatogastroentérologie</button><button class="student-start-btn" aria-pressed="${window.selectedFiliere === 'SFM'}" onclick="selectFiliere('SFM')">SFM : SONU</button></div>
             <h3>${window.selectedFiliere ? 'Sujets · ' + window.selectedFiliere : 'Sélectionnez IDE ou SFM pour afficher les sujets'}</h3>
             <p class="student-section-note">Choisissez votre chapitre pour commencer votre entraînement.</p>
             ${availableHtml}
